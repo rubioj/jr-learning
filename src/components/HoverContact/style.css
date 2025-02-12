@@ -1,0 +1,33 @@
+.hover-contact {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  text-decoration: none;
+}
+
+.hover-contact .text-wrapper {
+  color: var(--semantic-text-primary);
+  font-family: var(--text-regular-semi-bold-font-family);
+  font-size: var(--text-regular-semi-bold-font-size);
+  font-style: var(--text-regular-semi-bold-font-style);
+  font-weight: var(--text-regular-semi-bold-font-weight);
+  letter-spacing: var(--text-regular-semi-bold-letter-spacing);
+  line-height: var(--text-regular-semi-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hover-contact .text-wrapper.hover {
+  color: var(--semantic-text-hover);
+  text-decoration: underline;
+}
+
+.hover-contact:hover .text-wrapper {
+  color: var(--semantic-text-hover);
+  text-decoration: underline;
+}

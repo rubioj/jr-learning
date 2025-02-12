@@ -1,0 +1,1 @@
+export { PublicationsDesktop } from "./PublicationsDesktop";

@@ -1,0 +1,39 @@
+.navbar-JR {
+  align-items: flex-end;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  flex-direction: column;
+  height: 112px;
+  justify-content: center;
+  padding: 0px 63px 0px 64px;
+  position: relative;
+  width: 1768px;
+}
+
+.navbar-JR .menu {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 61px;
+  justify-content: flex-end;
+  position: relative;
+  width: 914px;
+}
+
+.navbar-JR .design-component-instance-node {
+  flex: 0 0 auto !important;
+}
+
+.navbar-JR .contact-us {
+  display: flex !important;
+  margin-bottom: -1.00px !important;
+  margin-right: -1.00px !important;
+  margin-top: -1.00px !important;
+  width: 209px !important;
+}
+
+.navbar-JR .icon-relume-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

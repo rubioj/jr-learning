@@ -1,0 +1,22 @@
+.style-secondary-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+}
+
+.style-secondary-wrapper .button-2 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

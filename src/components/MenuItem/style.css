@@ -1,0 +1,22 @@
+.menu-item {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 252px;
+}
+
+.menu-item .about {
+  color: var(--primitive-color-brand-espresso-duplicate);
+  font-family: var(--heading-desktop-h2-font-family);
+  font-size: var(--heading-desktop-h2-font-size);
+  font-style: var(--heading-desktop-h2-font-style);
+  font-weight: var(--heading-desktop-h2-font-weight);
+  letter-spacing: var(--heading-desktop-h2-letter-spacing);
+  line-height: var(--heading-desktop-h2-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

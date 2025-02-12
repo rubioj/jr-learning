@@ -1,0 +1,28 @@
+.select {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primitive-color-neutral-black);
+  display: flex;
+  gap: 16px;
+  padding: 12px;
+  position: relative;
+  width: 562px;
+}
+
+.select .text-wrapper-4 {
+  color: var(--semantic-text-primary);
+  flex: 1;
+  font-family: var(--text-regular-normal-font-family);
+  font-size: var(--text-regular-normal-font-size);
+  font-style: var(--text-regular-normal-font-style);
+  font-weight: var(--text-regular-normal-font-weight);
+  letter-spacing: var(--text-regular-normal-letter-spacing);
+  line-height: var(--text-regular-normal-line-height);
+  position: relative;
+}
+
+.select .icon-chevron-down {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

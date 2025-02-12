@@ -1,0 +1,1 @@
+export { IconRelume } from "./IconRelume";

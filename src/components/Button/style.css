@@ -1,0 +1,70 @@
+.button {
+  all: unset;
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primitive-color-neutral-black);
+  border-radius: 10px;
+  box-sizing: border-box;
+  justify-content: center;
+  position: relative;
+}
+
+.button .text-wrapper-2 {
+  color: var(--primitive-color-brand-champagne);
+  font-family: var(--text-regular-normal-font-family);
+  font-size: var(--text-regular-normal-font-size);
+  font-style: var(--text-regular-normal-font-style);
+  font-weight: var(--text-regular-normal-font-weight);
+  letter-spacing: var(--text-regular-normal-letter-spacing);
+  line-height: var(--text-regular-normal-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .text-wrapper-3 {
+  color: var(--semantic-text-primary);
+  font-family: var(--text-regular-normal-font-family);
+  font-size: var(--text-regular-normal-font-size);
+  font-style: var(--text-regular-normal-font-style);
+  font-weight: var(--text-regular-normal-font-weight);
+  letter-spacing: var(--text-regular-normal-letter-spacing);
+  line-height: var(--text-regular-normal-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .icon-relume {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.button.small-true {
+  display: flex;
+  height: 34px;
+  padding: 8px 20px;
+  width: 74px;
+}
+
+.button.no-icon {
+  background-color: var(--primitive-color-neutral-black);
+  gap: 8px;
+}
+
+.button.leading {
+  gap: 12px;
+}
+
+.button.small-false {
+  display: inline-flex;
+  padding: 12px 24px;
+}
+
+.button.small-true .text-wrapper-2 {
+  margin-bottom: -2.00px;
+  margin-left: -8.00px;
+  margin-right: -6.00px;
+  margin-top: -4.00px;
+}

@@ -1,0 +1,1 @@
+export { NavbarJr } from "./NavbarJr";

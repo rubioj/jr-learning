@@ -1,0 +1,28 @@
+.style-link-small-wrapper {
+  all: unset;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.style-link-small-wrapper .button-4 {
+  color: var(--semantic-text-primary-duplicate);
+  font-family: var(--text-regular-normal-font-family);
+  font-size: var(--text-regular-normal-font-size);
+  font-style: var(--text-regular-normal-font-style);
+  font-weight: var(--text-regular-normal-font-weight);
+  letter-spacing: var(--text-regular-normal-letter-spacing);
+  line-height: var(--text-regular-normal-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.style-link-small-wrapper .icon-JR {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

@@ -1,0 +1,25 @@
+.style-link-small {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.style-link-small .button-3 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.style-link-small .icon-relume {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

@@ -1,0 +1,129 @@
+.menu-mobile {
+  align-items: center;
+  background-color: var(--semantic-background-color-secondary);
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+}
+
+.menu-mobile .menu-header {
+  align-items: flex-start;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  height: 81px;
+  position: relative;
+  width: 393px;
+}
+
+.menu-mobile .header-menu {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primitive-color-brand-champagne-duplicate);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: 393px;
+}
+
+.menu-mobile .close-menu {
+  background-image: url(../../../static/img/icon-x-1.svg);
+  background-size: 100% 100%;
+  height: 51px;
+  position: relative;
+  width: 51px;
+}
+
+.menu-mobile .masthead {
+  align-items: center;
+  background-color: var(--primitive-color-brand-champagne-duplicate);
+  display: flex;
+  gap: 10px;
+  height: 81px;
+  justify-content: center;
+  padding: 15px 10px 19px;
+  position: relative;
+  width: 320px;
+}
+
+.menu-mobile .text-wrapper {
+  color: var(--primitive-color-brand-espresso-duplicate);
+  font-family: var(--heading-mobile-h6-font-family);
+  font-size: var(--heading-mobile-h6-font-size);
+  font-style: var(--heading-mobile-h6-font-style);
+  font-weight: var(--heading-mobile-h6-font-weight);
+  height: 47px;
+  letter-spacing: var(--heading-mobile-h6-letter-spacing);
+  line-height: var(--heading-mobile-h6-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 265px;
+}
+
+.menu-mobile .menu-item {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 252px;
+}
+
+.menu-mobile .div {
+  color: var(--primitive-color-brand-espresso-duplicate);
+  font-family: var(--heading-desktop-h4-font-family);
+  font-size: var(--heading-desktop-h4-font-size);
+  font-style: var(--heading-desktop-h4-font-style);
+  font-weight: var(--heading-desktop-h4-font-weight);
+  letter-spacing: var(--heading-desktop-h4-letter-spacing);
+  line-height: var(--heading-desktop-h4-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu-mobile .main-title {
+  color: var(--semantic-text-primary);
+  font-family: "Ofelia Text-Light", Helvetica;
+  font-size: 50px;
+  font-weight: 300;
+  height: 203px;
+  letter-spacing: -0.50px;
+  line-height: 60.0px;
+  position: relative;
+  text-align: center;
+  width: 334px;
+}
+
+.menu-mobile .subtitle {
+  color: var(--semantic-text-primary);
+  font-family: var(--heading-mobile-h1-font-family);
+  font-size: var(--heading-mobile-h1-font-size);
+  font-style: var(--heading-mobile-h1-font-style);
+  font-weight: var(--heading-mobile-h1-font-weight);
+  height: 188px;
+  letter-spacing: var(--heading-mobile-h1-letter-spacing);
+  line-height: var(--heading-mobile-h1-line-height);
+  position: relative;
+  text-align: center;
+  width: 263px;
+}
+
+.menu-mobile .description {
+  color: var(--semantic-text-primary);
+  font-family: var(--text-large-light-font-family);
+  font-size: var(--text-large-light-font-size);
+  font-style: var(--text-large-light-font-style);
+  font-weight: var(--text-large-light-font-weight);
+  height: 231px;
+  letter-spacing: var(--text-large-light-letter-spacing);
+  line-height: var(--text-large-light-line-height);
+  position: relative;
+  text-align: center;
+  width: 306px;
+}

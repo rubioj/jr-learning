@@ -1,0 +1,28 @@
+.hover {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.hover .link-text {
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hover .default {
+  color: var(--semantic-link-primary-duplicate);
+}
+
+.hover .variant-2 {
+  color: var(--primitive-color-brand-carrot);
+  text-decoration: underline;
+}
