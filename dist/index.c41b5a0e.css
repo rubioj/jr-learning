@@ -204,9 +204,9 @@
 
 .navbar-JR {
   background-color: var(--semantic-background-color-primary);
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-end;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
   width: 1768px;
   height: 112px;
   padding: 0 63px 0 64px;
@@ -240,6 +240,23 @@
   width: 24px !important;
   height: 24px !important;
   position: relative !important;
+}
+
+.navbar-JR .company-name {
+  font-family: var(--heading-desktop-h3-font-family);
+  font-size: var(--heading-desktop-h3-font-size);
+  font-style: var(--heading-desktop-h3-font-style);
+  font-weight: var(--heading-desktop-h3-font-weight);
+  letter-spacing: var(--heading-desktop-h3-letter-spacing);
+  line-height: var(--heading-desktop-h3-line-height);
+  color: var(--primitive-color-brand-parsley);
+  margin-top: 0;
+  text-decoration: none;
+  display: block;
+}
+
+.navbar-JR .company-name:hover {
+  color: var(--primitive-color-brand-carrot);
 }
 
 .home-desktop {
@@ -998,6 +1015,28 @@
   position: relative;
 }
 
+.links {
+  gap: 32px;
+  display: flex;
+}
+
+.text-wrapper-8 {
+  color: #000;
+  letter-spacing: 0;
+  white-space: nowrap;
+  margin-top: -1px;
+  font-family: Inter-Regular, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.text-wrapper-8 a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .home-mobile {
   background-color: var(--semantic-background-color-primary);
   flex-direction: column;
@@ -1620,7 +1659,7 @@
 .about-desktop {
   flex-direction: column;
   align-items: flex-start;
-  height: 8842px;
+  height: auto;
   display: flex;
   position: relative;
 }
@@ -3979,14 +4018,6 @@
   position: relative;
 }
 
-.services-desktop .button-4 {
-  flex: none !important;
-  margin-top: -1px !important;
-  margin-bottom: -1px !important;
-  margin-left: -1px !important;
-  overflow: hidden !important;
-}
-
 .services-desktop .button-5 {
   flex: none !important;
 }
@@ -4283,6 +4314,14 @@
   position: relative;
 }
 
+.services-desktop .button-4 {
+  flex: none !important;
+  margin-top: -1px !important;
+  margin-bottom: -1px !important;
+  margin-left: -1px !important;
+  overflow: hidden !important;
+}
+
 .services-desktop .button-4 a {
   font-family: var(--text-medium-semi-bold-font-family);
   font-size: var(--text-medium-semi-bold-font-size);
@@ -4577,6 +4616,50 @@
   position: relative;
 }
 
+.services-mobile .actions-courses {
+  all: unset;
+  box-sizing: border-box;
+  color: var(--semantic-text-primary);
+  flex: none;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin: -1px;
+  display: inline-flex;
+}
+
+.services-mobile .inquire-courses {
+  background-color: var(--semantic-background-color-primary);
+  border: 1px solid;
+  border-color: var(--semantic-border-primary);
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 10px;
+  flex: none;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  min-width: 100px;
+  margin-top: 0;
+  padding: 4px 16px;
+  display: inline-flex;
+}
+
+.services-mobile .inquire-courses .text-wrapper-2 {
+  all: unset;
+}
+
+.services-mobile .inquire-courses .inquire-link-text {
+  color: var(--primitive-color-brand-espresso) !important;
+  font-family: var(--text-medium-light-font-family) !important;
+  font-size: var(--text-medium-light-font-size) !important;
+  font-style: var(--text-medium-light-font-style) !important;
+  font-weight: var(--text-medium-light-font-weight) !important;
+  letter-spacing: var(--text-medium-light-letter-spacing) !important;
+  line-height: var(--text-medium-light-line-height) !important;
+  text-decoration: none !important;
+}
+
 .services-mobile .div-wrapper {
   all: unset;
   border: 1px solid;
@@ -4633,6 +4716,18 @@
   width: 48px !important;
   height: 48px !important;
   position: relative !important;
+}
+
+.services-mobile .heading-courses {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-style: var(--heading-mobile-h5-font-style);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  letter-spacing: var(--heading-mobile-h5-letter-spacing);
+  line-height: var(--heading-mobile-h5-line-height);
+  color: var(--primitive-color-brand-parsley);
+  margin-top: -1px;
+  position: relative;
 }
 
 .services-mobile .heading {
@@ -4952,6 +5047,17 @@
   white-space: nowrap;
   width: fit-content;
   position: relative;
+}
+
+.inquire-link-text {
+  color: var(--primitive-color-brand-espresso);
+  font-family: var(--text-medium-light-font-family);
+  font-size: var(--text-medium-light-font-size);
+  font-style: var(--text-medium-light-font-style);
+  font-weight: var(--text-medium-light-font-weight);
+  letter-spacing: var(--text-medium-light-letter-spacing);
+  line-height: var(--text-medium-light-line-height);
+  text-decoration: none;
 }
 
 .checkbox {

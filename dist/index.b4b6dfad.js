@@ -34984,6 +34984,7 @@ var _gardenVRMp4 = require("../../../static/img/GardenVR.mp4");
 var _gardenVRMp4Default = parcelHelpers.interopDefault(_gardenVRMp4);
 var _iconRelume8 = require("../../icons/IconRelume8");
 var _reactRouterDom = require("react-router-dom");
+var _footerLinks = require("../../components/FooterLinks/FooterLinks");
 const HomeDesktop = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "home-desktop",
@@ -34995,18 +34996,18 @@ const HomeDesktop = ()=>{
                         className: "icon-instance-node"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 18,
+                        lineNumber: 19,
                         columnNumber: 23
                     }, void 0),
                     className: "navbar-JR-1"
                 }, void 0, false, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 16,
+                lineNumber: 17,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35022,7 +35023,7 @@ const HomeDesktop = ()=>{
                                 src: "/img/logo.svg"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 26,
+                                lineNumber: 27,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35033,14 +35034,14 @@ const HomeDesktop = ()=>{
                                         children: "Creative Design for Social Impact"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 29,
+                                        lineNumber: 30,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         className: "text-wrapper-4"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 33,
+                                        lineNumber: 34,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -35048,7 +35049,7 @@ const HomeDesktop = ()=>{
                                         children: "JR Learning Labs: Leaders in Technology and AI-Based Learning"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 35,
+                                        lineNumber: 36,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -35056,7 +35057,7 @@ const HomeDesktop = ()=>{
                                         children: "a collaborative space that creates transformative learning experiences powered by technology and artificial intelligence. We facilitate growth, inclusion, and lifelong learning to build stronger communities."
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 39,
+                                        lineNumber: 40,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -35064,29 +35065,29 @@ const HomeDesktop = ()=>{
                                         children: " "
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 46,
+                                        lineNumber: 47,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 28,
+                                lineNumber: 29,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 25,
+                        lineNumber: 26,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 24,
+                    lineNumber: 25,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 23,
+                lineNumber: 24,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35096,12 +35097,12 @@ const HomeDesktop = ()=>{
                     children: "projects with:"
                 }, void 0, false, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 54,
+                    lineNumber: 55,
                     columnNumber: 11
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 53,
+                lineNumber: 54,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35117,12 +35118,12 @@ const HomeDesktop = ()=>{
                             src: "/img/logo-uw-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 59,
+                            lineNumber: 60,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 58,
+                        lineNumber: 59,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -35135,12 +35136,12 @@ const HomeDesktop = ()=>{
                             src: "/img/image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 63,
+                            lineNumber: 64,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 62,
+                        lineNumber: 63,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -35153,12 +35154,12 @@ const HomeDesktop = ()=>{
                             src: "/img/unc.svg"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 67,
+                            lineNumber: 68,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 66,
+                        lineNumber: 67,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -35171,12 +35172,12 @@ const HomeDesktop = ()=>{
                             src: "/img/logo-spl-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 71,
+                            lineNumber: 72,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 70,
+                        lineNumber: 71,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -35189,12 +35190,12 @@ const HomeDesktop = ()=>{
                             src: "/img/logo-csla-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 75,
+                            lineNumber: 76,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 74,
+                        lineNumber: 75,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -35207,18 +35208,18 @@ const HomeDesktop = ()=>{
                             src: "/img/fc-logo-black-text-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 83,
+                            lineNumber: 84,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 82,
+                        lineNumber: 83,
                         columnNumber: 11
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 57,
+                lineNumber: 58,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35229,12 +35230,12 @@ const HomeDesktop = ()=>{
                     src: "/img/skater-image.png"
                 }, void 0, false, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 93,
+                    lineNumber: 94,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 92,
+                lineNumber: 93,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35267,12 +35268,12 @@ const HomeDesktop = ()=>{
                                                         children: "Design"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 111,
+                                                        lineNumber: 112,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 110,
+                                                    lineNumber: 111,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35283,7 +35284,7 @@ const HomeDesktop = ()=>{
                                                             children: "Virtual Reality for Teen Mental Health"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                            lineNumber: 115,
+                                                            lineNumber: 116,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35291,19 +35292,19 @@ const HomeDesktop = ()=>{
                                                             children: "JR specializes in co-creating virtual reality tools aimed at addressing mental health challenges. These innovative solutions engage and support diverse communities. Collaborating with adults, undergraduate interns, and teens, JR leads the process from securing funding to guiding design efforts with libraries nationwide. This particular initiative enables teens to create their own responses to mental health needs through the development of custom virtual reality games."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                            lineNumber: 119,
+                                                            lineNumber: 120,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 114,
+                                                    lineNumber: 115,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 109,
+                                            lineNumber: 110,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35318,7 +35319,7 @@ const HomeDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 135,
+                                                                lineNumber: 136,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35326,7 +35327,7 @@ const HomeDesktop = ()=>{
                                                                 children: "Community Focused"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 136,
+                                                                lineNumber: 137,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35334,13 +35335,13 @@ const HomeDesktop = ()=>{
                                                                 children: "We prioritize the voices and needs of the communities we serve."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 138,
+                                                                lineNumber: 139,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 134,
+                                                        lineNumber: 135,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35350,7 +35351,7 @@ const HomeDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 145,
+                                                                lineNumber: 146,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35358,7 +35359,7 @@ const HomeDesktop = ()=>{
                                                                 children: "Collaborative Design"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 146,
+                                                                lineNumber: 147,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35366,30 +35367,30 @@ const HomeDesktop = ()=>{
                                                                 children: "Our process involves community members in every step of the design journey."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 148,
+                                                                lineNumber: 149,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 144,
+                                                        lineNumber: 145,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                lineNumber: 133,
+                                                lineNumber: 134,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 132,
+                                            lineNumber: 133,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 108,
+                                    lineNumber: 109,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35406,18 +35407,18 @@ const HomeDesktop = ()=>{
                                         text: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 158,
+                                        lineNumber: 159,
                                         columnNumber: 13
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 157,
+                                    lineNumber: 158,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 107,
+                            lineNumber: 108,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35450,45 +35451,45 @@ const HomeDesktop = ()=>{
                                                     type: "video/mp4"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 191,
+                                                    lineNumber: 192,
                                                     columnNumber: 21
                                                 }, undefined),
                                                 "Your browser does not support the video tag."
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 176,
+                                            lineNumber: 177,
                                             columnNumber: 19
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 175,
+                                        lineNumber: 176,
                                         columnNumber: 17
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 174,
+                                    lineNumber: 175,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 173,
+                                lineNumber: 174,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 172,
+                            lineNumber: 173,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 101,
+                    lineNumber: 102,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35506,7 +35507,7 @@ const HomeDesktop = ()=>{
                                         children: "Empowering Learning with AI: A Specialized GPT for Library Summer Services"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 205,
+                                        lineNumber: 206,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35516,12 +35517,12 @@ const HomeDesktop = ()=>{
                                             children: "Leveraging data from the BEBS project, JR developed a specialized GPT designed to support both beginners and experts in understanding the principles, elements, and concepts of an innovative framework for summer services in libraries. This process involved comprehensive data analysis, preparation, and the synthesis of complex ideas into accessible learning materials. To enhance usability, a dynamic concept map was created, offering a visual guide to the framework's structure and key relationships. By transforming intricate concepts into clear, actionable instructions, this AI-powered tool provides libraries and learners with a powerful resource to support community-driven summer programming."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 214,
+                                            lineNumber: 215,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 210,
+                                        lineNumber: 211,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -35535,18 +35536,18 @@ const HomeDesktop = ()=>{
                                         text: "Try it out"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 230,
+                                        lineNumber: 231,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 204,
+                                lineNumber: 205,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 203,
+                            lineNumber: 204,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35557,23 +35558,23 @@ const HomeDesktop = ()=>{
                                 src: "/img/bebs-concept-map-1.png"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 244,
+                                lineNumber: 245,
                                 columnNumber: 11
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 243,
+                            lineNumber: 244,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 202,
+                    lineNumber: 203,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 201,
+                lineNumber: 202,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35592,7 +35593,7 @@ const HomeDesktop = ()=>{
                                             children: "Building a Supportive Framework for Teen Mental Health"
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 257,
+                                            lineNumber: 258,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35600,13 +35601,13 @@ const HomeDesktop = ()=>{
                                             children: "Collaborating with seven libraries nationwide, JR spearheaded the development of a comprehensive framework to promote teen mental health. The Nourishing Minds project utilized participatory design principles, ensuring that the voices of teens, library staff, undergraduate and graduate interns, university professors, and design experts were at the heart of the process. This collaborative approach fostered an inclusive, community-driven effort to create resources and initiatives that address the unique mental health needs of teens in library spaces. By prioritizing co-creation and shared perspectives, the project established a sustainable model for mental wellness support in educational and community environments."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 261,
+                                            lineNumber: 262,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 256,
+                                    lineNumber: 257,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -35620,13 +35621,13 @@ const HomeDesktop = ()=>{
                                     text: "Learn More"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 277,
+                                    lineNumber: 278,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 255,
+                            lineNumber: 256,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35637,23 +35638,23 @@ const HomeDesktop = ()=>{
                                 src: "/img/nourishing-minds.png"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 290,
+                                lineNumber: 291,
                                 columnNumber: 11
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 289,
+                            lineNumber: 290,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 254,
+                    lineNumber: 255,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 253,
+                lineNumber: 254,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35671,7 +35672,7 @@ const HomeDesktop = ()=>{
                                         children: "Let's Collaborate for Change"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 303,
+                                        lineNumber: 304,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35679,18 +35680,18 @@ const HomeDesktop = ()=>{
                                         children: "Reach out to explore partnership opportunities today!"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 305,
+                                        lineNumber: 306,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 302,
+                                lineNumber: 303,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 301,
+                            lineNumber: 302,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35706,23 +35707,23 @@ const HomeDesktop = ()=>{
                                 href: "/contact-desktop"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 312,
+                                lineNumber: 313,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 311,
+                            lineNumber: 312,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 300,
+                    lineNumber: 301,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 299,
+                lineNumber: 300,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35737,12 +35738,12 @@ const HomeDesktop = ()=>{
                                 children: "Discover the Journey of JR: Innovator in Technology-Driven Learning and Design"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 329,
+                                lineNumber: 330,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 328,
+                            lineNumber: 329,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35752,23 +35753,23 @@ const HomeDesktop = ()=>{
                                 children: "JR's professional journey is marked by a commitment to blending technology with education. As an award-winning instructional designer, JR has collaborated with prestigious organizations like the Tribeca Film Institute and the University of Washington, creating impactful learning experiences. With a focus on community empowerment, JR's work has transformed the educational landscape for diverse populations."
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 336,
+                                lineNumber: 337,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 335,
+                            lineNumber: 336,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 327,
+                    lineNumber: 328,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 326,
+                lineNumber: 327,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35783,66 +35784,17 @@ const HomeDesktop = ()=>{
                                     className: "company-logo"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 352,
+                                    lineNumber: 353,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 351,
+                                lineNumber: 352,
                                 columnNumber: 11
                             }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/about-desktop",
-                                            children: "About Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 357,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 356,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/services-desktop",
-                                            children: "Our Services"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 361,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 360,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/contact-desktop",
-                                            children: "Contact Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 365,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 364,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 355,
+                                lineNumber: 356,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35855,23 +35807,23 @@ const HomeDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 372,
+                                        lineNumber: 360,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 371,
+                                    lineNumber: 359,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 370,
+                                lineNumber: 358,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 350,
+                        lineNumber: 351,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35881,7 +35833,7 @@ const HomeDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 379,
+                                lineNumber: 366,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35892,7 +35844,7 @@ const HomeDesktop = ()=>{
                                         children: "\xa9 2025"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 382,
+                                        lineNumber: 369,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35900,7 +35852,7 @@ const HomeDesktop = ()=>{
                                         children: "Privacy Policy"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 384,
+                                        lineNumber: 371,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35908,31 +35860,31 @@ const HomeDesktop = ()=>{
                                         children: "Terms of Service"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 386,
+                                        lineNumber: 373,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 381,
+                                lineNumber: 368,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 378,
+                        lineNumber: 365,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 349,
+                lineNumber: 350,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-        lineNumber: 15,
+        lineNumber: 16,
         columnNumber: 5
     }, undefined);
 };
@@ -35945,7 +35897,7 @@ $RefreshReg$(_c, "HomeDesktop");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/CompanyLogo":"6Jt1h","../../icons/IconLinkedin":"dxfdr","../../icons/IconRelume2":"lr5HE","../../icons/YoutubeIcon":"h1FkG","./style.css":"9t9oI","../../../static/img/GardenVR.mp4":"2Olsh","../../icons/IconRelume8":"e8Mrw","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe"}],"bNbfl":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/CompanyLogo":"6Jt1h","../../icons/IconLinkedin":"dxfdr","../../icons/IconRelume2":"lr5HE","../../icons/YoutubeIcon":"h1FkG","./style.css":"9t9oI","../../../static/img/GardenVR.mp4":"2Olsh","../../icons/IconRelume8":"e8Mrw","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe","../../components/FooterLinks/FooterLinks":"b3ooA"}],"bNbfl":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Button", ()=>(0, _button.Button));
@@ -36927,6 +36879,7 @@ parcelHelpers.export(exports, "NavbarJr", ()=>NavbarJr);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
+var _reactRouterDom = require("react-router-dom");
 var _iconRelume2 = require("../../icons/IconRelume2");
 var _hover = require("../Hover");
 var _hoverAbout = require("../HoverAbout");
@@ -36938,68 +36891,79 @@ const NavbarJr = ({ className, buttonIcon = /*#__PURE__*/ (0, _jsxDevRuntime.jsx
     className: "icon-relume-2"
 }, void 0, false, {
     fileName: "src/components/NavbarJr/NavbarJr.jsx",
-    lineNumber: 17,
+    lineNumber: 18,
     columnNumber: 16
 }, undefined) })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: `navbar-JR ${className}`,
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-            className: "menu",
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hover.Hover), {
-                    className: "design-component-instance-node",
-                    property1: "default",
-                    to: "/home-desktop"
-                }, void 0, false, {
-                    fileName: "src/components/NavbarJr/NavbarJr.jsx",
-                    lineNumber: 22,
-                    columnNumber: 9
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverAbout.HoverAbout), {
-                    className: "design-component-instance-node",
-                    to: "/about-desktop",
-                    property1: "default"
-                }, void 0, false, {
-                    fileName: "src/components/NavbarJr/NavbarJr.jsx",
-                    lineNumber: 27,
-                    columnNumber: 9
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverServices.HoverServices), {
-                    className: "design-component-instance-node",
-                    to: "/services-desktop",
-                    property1: "default"
-                }, void 0, false, {
-                    fileName: "src/components/NavbarJr/NavbarJr.jsx",
-                    lineNumber: 32,
-                    columnNumber: 9
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverPublications.HoverPublications), {
-                    className: "design-component-instance-node",
-                    to: "/publications",
-                    property1: "default"
-                }, void 0, false, {
-                    fileName: "src/components/NavbarJr/NavbarJr.jsx",
-                    lineNumber: 37,
-                    columnNumber: 9
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverContact.HoverContact), {
-                    className: "design-component-instance-node",
-                    property1: "default",
-                    to: "/contact-desktop"
-                }, void 0, false, {
-                    fileName: "src/components/NavbarJr/NavbarJr.jsx",
-                    lineNumber: 42,
-                    columnNumber: 9
-                }, undefined)
-            ]
-        }, void 0, true, {
-            fileName: "src/components/NavbarJr/NavbarJr.jsx",
-            lineNumber: 21,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                to: "/home-desktop",
+                className: "company-name",
+                children: "JR Learning Labs"
+            }, void 0, false, {
+                fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                lineNumber: 22,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "menu",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hover.Hover), {
+                        className: "design-component-instance-node",
+                        property1: "default",
+                        to: "/home-desktop"
+                    }, void 0, false, {
+                        fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                        lineNumber: 26,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverAbout.HoverAbout), {
+                        className: "design-component-instance-node",
+                        to: "/about-desktop",
+                        property1: "default"
+                    }, void 0, false, {
+                        fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                        lineNumber: 31,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverServices.HoverServices), {
+                        className: "design-component-instance-node",
+                        to: "/services-desktop",
+                        property1: "default"
+                    }, void 0, false, {
+                        fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                        lineNumber: 36,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverPublications.HoverPublications), {
+                        className: "design-component-instance-node",
+                        to: "/publications",
+                        property1: "default"
+                    }, void 0, false, {
+                        fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                        lineNumber: 41,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _hoverContact.HoverContact), {
+                        className: "design-component-instance-node",
+                        property1: "default",
+                        to: "/contact-desktop"
+                    }, void 0, false, {
+                        fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                        lineNumber: 46,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/NavbarJr/NavbarJr.jsx",
+                lineNumber: 25,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
         fileName: "src/components/NavbarJr/NavbarJr.jsx",
-        lineNumber: 20,
+        lineNumber: 21,
         columnNumber: 5
     }, undefined);
 };
@@ -37012,7 +36976,7 @@ $RefreshReg$(_c, "NavbarJr");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/IconRelume2":"lr5HE","../Hover":"7nhqN","../HoverAbout":"eZ4FU","../HoverPublications":"uAV34","../HoverServices":"8IKIr","../HoverContact":"5q04c","./style.css":"d0zQ0","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"lr5HE":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/IconRelume2":"lr5HE","../Hover":"7nhqN","../HoverAbout":"eZ4FU","../HoverPublications":"uAV34","../HoverServices":"8IKIr","../HoverContact":"5q04c","./style.css":"d0zQ0","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe"}],"lr5HE":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "IconRelume2", ()=>(0, _iconRelume2.IconRelume2));
@@ -37869,7 +37833,90 @@ $RefreshReg$(_c, "IconRelume8");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"5tFpL":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b3ooA":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$4c58 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$4c58.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "FooterLinks", ()=>FooterLinks);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _reactRouterDom = require("react-router-dom");
+var _footerLinksCss = require("./FooterLinks.css");
+const FooterLinks = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "links",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "text-wrapper-8",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                    to: "/about-desktop",
+                    onClick: ()=>window.scrollTo(0, 0),
+                    children: "About Us"
+                }, void 0, false, {
+                    fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                    lineNumber: 9,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                lineNumber: 8,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "text-wrapper-8",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                    to: "/services-desktop",
+                    onClick: ()=>window.scrollTo(0, 0),
+                    children: "Our Services"
+                }, void 0, false, {
+                    fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                    lineNumber: 13,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                lineNumber: 12,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "text-wrapper-8",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                    to: "/contact-desktop",
+                    onClick: ()=>window.scrollTo(0, 0),
+                    children: "Contact Us"
+                }, void 0, false, {
+                    fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                    lineNumber: 17,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/components/FooterLinks/FooterLinks.jsx",
+                lineNumber: 16,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "src/components/FooterLinks/FooterLinks.jsx",
+        lineNumber: 7,
+        columnNumber: 5
+    }, undefined);
+};
+_c = FooterLinks;
+var _c;
+$RefreshReg$(_c, "FooterLinks");
+
+  $parcel$ReactRefreshHelpers$4c58.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./FooterLinks.css":"7jTeL"}],"7jTeL":[function() {},{}],"5tFpL":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "HomeMobile", ()=>(0, _homeMobile.HomeMobile));
@@ -39155,6 +39202,7 @@ var _gardenVRMp4Default = parcelHelpers.interopDefault(_gardenVRMp4);
 var _companyLogo = require("../../icons/CompanyLogo");
 var _iconLinkedin = require("../../icons/IconLinkedin");
 var _reactRouterDom = require("react-router-dom");
+var _footerLinks = require("../../components/FooterLinks/FooterLinks");
 const AboutDesktop = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "about-desktop",
@@ -39166,18 +39214,18 @@ const AboutDesktop = ()=>{
                         className: "icon-instance-node"
                     }, void 0, false, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 17,
+                        lineNumber: 18,
                         columnNumber: 23
                     }, void 0),
                     className: "navbar-JR-1"
                 }, void 0, false, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 16,
+                    lineNumber: 17,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 15,
+                lineNumber: 16,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39195,12 +39243,12 @@ const AboutDesktop = ()=>{
                                         children: "Create"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 26,
+                                        lineNumber: 27,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 25,
+                                    lineNumber: 26,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39208,7 +39256,7 @@ const AboutDesktop = ()=>{
                                     children: "Transformative Learning Experiences"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 29,
+                                    lineNumber: 30,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -39217,13 +39265,13 @@ const AboutDesktop = ()=>{
                                     src: "/img/arts-sha.jpeg"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 32,
+                                    lineNumber: 33,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 24,
+                            lineNumber: 25,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39238,13 +39286,13 @@ const AboutDesktop = ()=>{
                                                 "Harnessing the Power of Design and Technology",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 43,
+                                                    lineNumber: 44,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 41,
+                                            lineNumber: 42,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -39253,18 +39301,18 @@ const AboutDesktop = ()=>{
                                                 "We believe in the transformative potential of design, technology, and artificial intelligence to create impactful learning experiences shaped by the voices of communities. True power resides within communities, and by enhancing this power, we foster continuous learning and growth.",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 52,
+                                                    lineNumber: 53,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 53,
+                                                    lineNumber: 54,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 46,
+                                            lineNumber: 47,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -39273,13 +39321,13 @@ const AboutDesktop = ()=>{
                                                 "Our Mission",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 58,
+                                                    lineNumber: 59,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 56,
+                                            lineNumber: 57,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -39288,18 +39336,18 @@ const AboutDesktop = ()=>{
                                                 "By combining innovative technology with community-driven insights, we empower individuals and organizations to strengthen the social fabric that connects us all.",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 65,
+                                                    lineNumber: 66,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 67,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 61,
+                                            lineNumber: 62,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -39308,13 +39356,13 @@ const AboutDesktop = ()=>{
                                                 "How We Work",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 71,
+                                                    lineNumber: 72,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 69,
+                                            lineNumber: 70,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -39322,13 +39370,13 @@ const AboutDesktop = ()=>{
                                             children: "Through cutting-edge frameworks and tools, we act as catalysts for positive change. Our goal is to cultivate thriving communities by providing the knowledge and opportunities they need to unlock their full potential and create a more equitable, connected, and learning-oriented world."
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 74,
+                                            lineNumber: 75,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 40,
+                                    lineNumber: 41,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39339,12 +39387,12 @@ const AboutDesktop = ()=>{
                                             "JR Learning is: ",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 84,
+                                                lineNumber: 85,
                                                 columnNumber: 33
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 85,
+                                                lineNumber: 86,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -39354,12 +39402,12 @@ const AboutDesktop = ()=>{
                                                 children: "Juan Rubio - Principal"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 86,
+                                                lineNumber: 87,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 86,
+                                                lineNumber: 87,
                                                 columnNumber: 129
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -39369,12 +39417,12 @@ const AboutDesktop = ()=>{
                                                 children: "Mega Subramaniam - Academic Developer"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 87,
+                                                lineNumber: 88,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 87,
+                                                lineNumber: 88,
                                                 columnNumber: 154
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -39384,12 +39432,12 @@ const AboutDesktop = ()=>{
                                                 children: "Kung Jin Lee - Academic Advisor"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 88,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 88,
+                                                lineNumber: 89,
                                                 columnNumber: 164
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -39399,47 +39447,47 @@ const AboutDesktop = ()=>{
                                                 children: "Mark Niezgoda - LCSW - Mental Health Specialist"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 89,
+                                                lineNumber: 90,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 89,
+                                                lineNumber: 90,
                                                 columnNumber: 170
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 83,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 82,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "actions"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 95,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 39,
+                            lineNumber: 40,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 23,
+                    lineNumber: 24,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 22,
+                lineNumber: 23,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39457,12 +39505,12 @@ const AboutDesktop = ()=>{
                                         children: "Build"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 103,
+                                        lineNumber: 104,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 102,
+                                    lineNumber: 103,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39470,13 +39518,13 @@ const AboutDesktop = ()=>{
                                     children: "Innovative Learning, Thriving Communities"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 106,
+                                    lineNumber: 107,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 101,
+                            lineNumber: 102,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39487,7 +39535,7 @@ const AboutDesktop = ()=>{
                                     children: "We believe that learning should be a joyful experience, enriched by the diverse perspectives of everyone involved. We harness the power of community to create transformative, liberating learning experiences. Guided by this vision, our methodology is rooted in participatory design, driven by the principles of liberation, and fueled by creativity."
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 112,
+                                    lineNumber: 113,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39499,29 +39547,29 @@ const AboutDesktop = ()=>{
                                         text: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 122,
+                                        lineNumber: 123,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 121,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 111,
+                            lineNumber: 112,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 100,
+                    lineNumber: 101,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 99,
+                lineNumber: 100,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39537,12 +39585,12 @@ const AboutDesktop = ()=>{
                                     children: "Discover the transformative process behind JR's innovative learning solutions."
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 137,
+                                    lineNumber: 138,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 136,
+                                lineNumber: 137,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39552,18 +39600,18 @@ const AboutDesktop = ()=>{
                                     children: "At JR, we believe in a collaborative approach to learning. Our process begins with understanding the unique needs of each community. By integrating technology and co-creation, we design tailored solutions that empower and inspire."
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 144,
+                                    lineNumber: 145,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 143,
+                                lineNumber: 144,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 135,
+                        lineNumber: 136,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39580,7 +39628,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 157,
+                                                lineNumber: 158,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39588,7 +39636,7 @@ const AboutDesktop = ()=>{
                                                 children: "Step-by-step collaboration for impactful learning experiences tailored to your needs."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 158,
+                                                lineNumber: 159,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39596,18 +39644,18 @@ const AboutDesktop = ()=>{
                                                 children: "We work closely with you to ensure every solution resonates."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 163,
+                                                lineNumber: 164,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 156,
+                                        lineNumber: 157,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 155,
+                                    lineNumber: 156,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39619,7 +39667,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 171,
+                                                lineNumber: 172,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39627,7 +39675,7 @@ const AboutDesktop = ()=>{
                                                 children: "Building stronger communities through technology-driven, inclusive learning experiences."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 172,
+                                                lineNumber: 173,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39635,18 +39683,18 @@ const AboutDesktop = ()=>{
                                                 children: "Our focus is on fostering creativity and collaboration in every project."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 177,
+                                                lineNumber: 178,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 170,
+                                        lineNumber: 171,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 169,
+                                    lineNumber: 170,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39658,7 +39706,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 186,
+                                                lineNumber: 187,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39666,7 +39714,7 @@ const AboutDesktop = ()=>{
                                                 children: "Join us in creating a brighter future through innovative education."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 187,
+                                                lineNumber: 188,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39674,35 +39722,35 @@ const AboutDesktop = ()=>{
                                                 children: "Together, we can make a lasting impact on communities."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 192,
+                                                lineNumber: 193,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 185,
+                                        lineNumber: 186,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 184,
+                                    lineNumber: 185,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 154,
+                            lineNumber: 155,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 153,
+                        lineNumber: 154,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 134,
+                lineNumber: 135,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39713,7 +39761,7 @@ const AboutDesktop = ()=>{
                         children: "Transformative Learning Solutions Tailored for Diverse Communities and Needs"
                     }, void 0, false, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 204,
+                        lineNumber: 205,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39730,7 +39778,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 213,
+                                                lineNumber: 214,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39738,7 +39786,7 @@ const AboutDesktop = ()=>{
                                                 children: "Bring Stories to Life: Curriculum Development for Interactive Game Experiences in Physical Spaces"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 214,
+                                                lineNumber: 215,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39746,18 +39794,18 @@ const AboutDesktop = ()=>{
                                                 children: "Offer a unique learning experience with our custom-designed curriculum that transforms physical spaces into immersive storytelling adventures. Using geo-location platforms, we create interactive games that reveal the hidden narratives of local history and culture. Our curriculum equips participants with essential skills in game design, technology integration, and critical thinking about the connection between digital tools and real-world environments. This service is ideal for educational institutions, community organizations, and cultural initiatives seeking to provide an engaging, hands-on approach to learning. Let us help you inspire curiosity, creativity, and a deeper connection to place through the power of interactive storytelling."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 219,
+                                                lineNumber: 220,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 212,
+                                        lineNumber: 213,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 211,
+                                    lineNumber: 212,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39769,7 +39817,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 241,
+                                                lineNumber: 242,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39777,7 +39825,7 @@ const AboutDesktop = ()=>{
                                                 children: "Inspiring Community Empowerment Through Collaborative Strategies and Initiatives"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 242,
+                                                lineNumber: 243,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39785,18 +39833,18 @@ const AboutDesktop = ()=>{
                                                 children: "We provide tools and strategies that mobilize communities to inspire change."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 247,
+                                                lineNumber: 248,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 240,
+                                        lineNumber: 241,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 239,
+                                    lineNumber: 240,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39808,7 +39856,7 @@ const AboutDesktop = ()=>{
                                                 className: "icon-relume-1"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 256,
+                                                lineNumber: 257,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39816,7 +39864,7 @@ const AboutDesktop = ()=>{
                                                 children: "Engaging Learning Experiences Designed to Make a Lasting Impact"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 257,
+                                                lineNumber: 258,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39824,35 +39872,35 @@ const AboutDesktop = ()=>{
                                                 children: "Our learning experiences are tailored to meet the unique needs of each community."
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 262,
+                                                lineNumber: 263,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 255,
+                                        lineNumber: 256,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 254,
+                                    lineNumber: 255,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 210,
+                            lineNumber: 211,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 209,
+                        lineNumber: 210,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 203,
+                lineNumber: 204,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39885,12 +39933,12 @@ const AboutDesktop = ()=>{
                                                         children: "Design"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 285,
+                                                        lineNumber: 286,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 284,
+                                                    lineNumber: 285,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39901,7 +39949,7 @@ const AboutDesktop = ()=>{
                                                             children: "Virtual Reality for Teen Mental Health"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                            lineNumber: 289,
+                                                            lineNumber: 290,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39909,19 +39957,19 @@ const AboutDesktop = ()=>{
                                                             children: "JR specializes in co-creating virtual reality tools aimed at addressing mental health challenges. These innovative solutions engage and support diverse communities. Collaborating with adults, undergraduate interns, and teens, JR leads the process from securing funding to guiding design efforts with libraries nationwide. This initiative empowers teens to create their own responses to mental health needs through the development of custom virtual reality games. Learn more."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                            lineNumber: 293,
+                                                            lineNumber: 294,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                    lineNumber: 288,
+                                                    lineNumber: 289,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 283,
+                                            lineNumber: 284,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39936,7 +39984,7 @@ const AboutDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 310,
+                                                                lineNumber: 311,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39944,7 +39992,7 @@ const AboutDesktop = ()=>{
                                                                 children: "Community Focused"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 311,
+                                                                lineNumber: 312,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39952,13 +40000,13 @@ const AboutDesktop = ()=>{
                                                                 children: "We prioritize the voices and needs of the communities we serve."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 313,
+                                                                lineNumber: 314,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 309,
+                                                        lineNumber: 310,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39968,7 +40016,7 @@ const AboutDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 320,
+                                                                lineNumber: 321,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39976,7 +40024,7 @@ const AboutDesktop = ()=>{
                                                                 children: "Collaborative Design"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 321,
+                                                                lineNumber: 322,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -39984,30 +40032,30 @@ const AboutDesktop = ()=>{
                                                                 children: "Our process involves community members in every step of the design journey."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                                lineNumber: 323,
+                                                                lineNumber: 324,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 319,
+                                                        lineNumber: 320,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 308,
+                                                lineNumber: 309,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 307,
+                                            lineNumber: 308,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 282,
+                                    lineNumber: 283,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40023,18 +40071,18 @@ const AboutDesktop = ()=>{
                                         text: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 334,
+                                        lineNumber: 335,
                                         columnNumber: 16
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 332,
+                                    lineNumber: 333,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 281,
+                            lineNumber: 282,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40056,30 +40104,30 @@ const AboutDesktop = ()=>{
                                         type: "video/mp4"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 358,
+                                        lineNumber: 359,
                                         columnNumber: 15
                                     }, undefined),
                                     "Your browser does not support the video tag."
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 348,
+                                lineNumber: 349,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 347,
+                            lineNumber: 348,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 275,
+                    lineNumber: 276,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 274,
+                lineNumber: 275,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40093,7 +40141,7 @@ const AboutDesktop = ()=>{
                             src: "/img/placeholder-image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 367,
+                            lineNumber: 368,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40107,7 +40155,7 @@ const AboutDesktop = ()=>{
                                             children: "Empowering Communities Through Innovative Curriculum Design and Professional Development"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 375,
+                                            lineNumber: 376,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40115,13 +40163,13 @@ const AboutDesktop = ()=>{
                                             children: "JR specializes in creating inclusive and impactful curricula that cater to diverse learning needs. Our mentorship and professional development programs equip educators with the tools to inspire and engage their communities."
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 380,
+                                            lineNumber: 381,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 374,
+                                    lineNumber: 375,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40137,7 +40185,7 @@ const AboutDesktop = ()=>{
                                                         children: "Curriculum Design"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 391,
+                                                        lineNumber: 392,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40145,13 +40193,13 @@ const AboutDesktop = ()=>{
                                                         children: "Innovative, research-based curricula designed to meet the unique needs of each community."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 393,
+                                                        lineNumber: 394,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 390,
+                                                lineNumber: 391,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40162,7 +40210,7 @@ const AboutDesktop = ()=>{
                                                         children: "Mentorship Programs"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 400,
+                                                        lineNumber: 401,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40170,24 +40218,24 @@ const AboutDesktop = ()=>{
                                                         children: "Hands-on mentorship that empowers educators to foster creativity and drive community engagement."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 402,
+                                                        lineNumber: 403,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 399,
+                                                lineNumber: 400,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 389,
+                                        lineNumber: 390,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 388,
+                                    lineNumber: 389,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -40201,24 +40249,24 @@ const AboutDesktop = ()=>{
                                     text: "Learn More"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 410,
+                                    lineNumber: 411,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 373,
+                            lineNumber: 374,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 366,
+                    lineNumber: 367,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 365,
+                lineNumber: 366,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40231,7 +40279,7 @@ const AboutDesktop = ()=>{
                             children: "Partnering with Leading Educational Institutions"
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 426,
+                            lineNumber: 427,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40239,7 +40287,7 @@ const AboutDesktop = ()=>{
                             children: "Inspired by historical local events, this immersive VR experience explored the impact of the Great Seattle Fire in shaping the city's future."
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 430,
+                            lineNumber: 431,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -40253,25 +40301,25 @@ const AboutDesktop = ()=>{
                             text: "Learn More"
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 436,
+                            lineNumber: 437,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "layout"
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 446,
+                            lineNumber: 447,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 425,
+                    lineNumber: 426,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 424,
+                lineNumber: 425,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40285,7 +40333,7 @@ const AboutDesktop = ()=>{
                             src: "/img/placeholder-image-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 451,
+                            lineNumber: 452,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40299,7 +40347,7 @@ const AboutDesktop = ()=>{
                                             children: "Transformative Design Sprints and Workshops for Community Empowerment and Growth"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 459,
+                                            lineNumber: 460,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40307,13 +40355,13 @@ const AboutDesktop = ()=>{
                                             children: "We specialize in leading dynamic design sprints and workshops that engage communities in co-creating impactful solutions. Our grant-funded initiatives empower educational organizations and nonprofits to foster inclusive learning experiences tailored to diverse needs."
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 464,
+                                            lineNumber: 465,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 458,
+                                    lineNumber: 459,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40329,7 +40377,7 @@ const AboutDesktop = ()=>{
                                                         children: "Production Centered"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 476,
+                                                        lineNumber: 477,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40337,13 +40385,13 @@ const AboutDesktop = ()=>{
                                                         children: "Learn to create with the latest tools and techniques."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 478,
+                                                        lineNumber: 479,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 475,
+                                                lineNumber: 476,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40354,7 +40402,7 @@ const AboutDesktop = ()=>{
                                                         children: "Peer Supported"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 484,
+                                                        lineNumber: 485,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40362,24 +40410,24 @@ const AboutDesktop = ()=>{
                                                         children: "Create with peers and mentors."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                        lineNumber: 486,
+                                                        lineNumber: 487,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                                lineNumber: 483,
+                                                lineNumber: 484,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 474,
+                                        lineNumber: 475,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 473,
+                                    lineNumber: 474,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -40393,24 +40441,24 @@ const AboutDesktop = ()=>{
                                     text: "Learn More"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 493,
+                                    lineNumber: 494,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 457,
+                            lineNumber: 458,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 450,
+                    lineNumber: 451,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 449,
+                lineNumber: 450,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40428,7 +40476,7 @@ const AboutDesktop = ()=>{
                                         children: "Let's Collaborate for Change"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 513,
+                                        lineNumber: 514,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40436,18 +40484,18 @@ const AboutDesktop = ()=>{
                                         children: "Reach out to explore partnership opportunities today!"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 515,
+                                        lineNumber: 516,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 512,
+                                lineNumber: 513,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 511,
+                            lineNumber: 512,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40464,29 +40512,29 @@ const AboutDesktop = ()=>{
                                     children: "Contact Us"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 529,
+                                    lineNumber: 530,
                                     columnNumber: 21
                                 }, void 0),
                                 href: "/contact-desktop"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 522,
+                                lineNumber: 523,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                            lineNumber: 521,
+                            lineNumber: 522,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                    lineNumber: 510,
+                    lineNumber: 511,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 509,
+                lineNumber: 510,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40501,66 +40549,17 @@ const AboutDesktop = ()=>{
                                     className: "company-logo"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 539,
+                                    lineNumber: 540,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 538,
+                                lineNumber: 539,
                                 columnNumber: 11
                             }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/about-desktop",
-                                            children: "About Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 544,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 543,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/services-desktop",
-                                            children: "Our Services"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 548,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 547,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/contact-desktop",
-                                            children: "Contact Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                            lineNumber: 552,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 551,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 542,
+                                lineNumber: 543,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40573,23 +40572,23 @@ const AboutDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 559,
+                                        lineNumber: 547,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                    lineNumber: 558,
+                                    lineNumber: 546,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 557,
+                                lineNumber: 545,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 537,
+                        lineNumber: 538,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40599,7 +40598,7 @@ const AboutDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 566,
+                                lineNumber: 554,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40610,7 +40609,7 @@ const AboutDesktop = ()=>{
                                         children: "\xa9 2025"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 569,
+                                        lineNumber: 557,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40618,7 +40617,7 @@ const AboutDesktop = ()=>{
                                         children: "Privacy Policy"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 571,
+                                        lineNumber: 559,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40626,31 +40625,31 @@ const AboutDesktop = ()=>{
                                         children: "Terms of Service"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                        lineNumber: 573,
+                                        lineNumber: 561,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                                lineNumber: 568,
+                                lineNumber: 556,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                        lineNumber: 565,
+                        lineNumber: 553,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-                lineNumber: 536,
+                lineNumber: 537,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/AboutDesktop/AboutDesktop.jsx",
-        lineNumber: 14,
+        lineNumber: 15,
         columnNumber: 5
     }, undefined);
 };
@@ -40663,7 +40662,7 @@ $RefreshReg$(_c, "AboutDesktop");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../components/StyleSecondary":"1esV7","../../icons/IconRelume8":"e8Mrw","./style.css":"b3l4l","../../../static/img/GardenVR.mp4":"2Olsh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/CompanyLogo":"6Jt1h","../../icons/IconLinkedin":"dxfdr","react-router-dom":"9xmpe"}],"1esV7":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../components/StyleSecondary":"1esV7","../../icons/IconRelume8":"e8Mrw","./style.css":"b3l4l","../../../static/img/GardenVR.mp4":"2Olsh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/CompanyLogo":"6Jt1h","../../icons/IconLinkedin":"dxfdr","react-router-dom":"9xmpe","../../components/FooterLinks/FooterLinks":"b3ooA"}],"1esV7":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "StyleSecondary", ()=>(0, _styleSecondary.StyleSecondary));
@@ -42132,6 +42131,7 @@ var _styleCss = require("./style.css");
 var _buildLearnPlayMp4 = require("../../../static/img/Build-Learn-Play.mp4");
 var _buildLearnPlayMp4Default = parcelHelpers.interopDefault(_buildLearnPlayMp4);
 var _reactRouterDom = require("react-router-dom");
+var _footerLinks = require("../../components/FooterLinks/FooterLinks");
 const ServicesDesktop = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "services-desktop",
@@ -42143,18 +42143,18 @@ const ServicesDesktop = ()=>{
                         className: "icon-instance-node"
                     }, void 0, false, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 17,
+                        lineNumber: 18,
                         columnNumber: 23
                     }, void 0),
                     className: "navbar-JR-1"
                 }, void 0, false, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 16,
+                    lineNumber: 17,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 15,
+                lineNumber: 16,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42170,27 +42170,27 @@ const ServicesDesktop = ()=>{
                                 children: "Transformative Learning Solutions"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 26,
+                                lineNumber: 27,
                                 columnNumber: 15
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 25,
+                            lineNumber: 26,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 24,
+                        lineNumber: 25,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 23,
+                    lineNumber: 24,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 22,
+                lineNumber: 23,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42206,12 +42206,12 @@ const ServicesDesktop = ()=>{
                                     children: "Offerings"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 41,
+                                    lineNumber: 42,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 40,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42222,7 +42222,7 @@ const ServicesDesktop = ()=>{
                                         children: "Our Current Courses"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 45,
+                                        lineNumber: 46,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42230,19 +42230,19 @@ const ServicesDesktop = ()=>{
                                         children: "At JR, we specialize in five essential areas that empower communities through innovative learning solutions. Our multidisciplinary approach ensures that every project is tailored to meet the unique needs of the people we serve."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 47,
+                                        lineNumber: 48,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 44,
+                                lineNumber: 45,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 39,
+                        lineNumber: 40,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42258,7 +42258,7 @@ const ServicesDesktop = ()=>{
                                                 className: "icon-relume-7"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 59,
+                                                lineNumber: 60,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42266,7 +42266,7 @@ const ServicesDesktop = ()=>{
                                                 children: "AI for Everyone: A Community-Centered Introduction to AI"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 60,
+                                                lineNumber: 61,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42274,13 +42274,13 @@ const ServicesDesktop = ()=>{
                                                 children: "Engaging communities in the co-creation process to ensure that all voices are heard and valued in the evolving landscape of AI."
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 64,
+                                                lineNumber: 65,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 58,
+                                        lineNumber: 59,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42290,7 +42290,7 @@ const ServicesDesktop = ()=>{
                                                 className: "icon-relume-7"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 71,
+                                                lineNumber: 72,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42298,7 +42298,7 @@ const ServicesDesktop = ()=>{
                                                 children: "AI Foundations: Understanding the Basics"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 72,
+                                                lineNumber: 73,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42306,13 +42306,13 @@ const ServicesDesktop = ()=>{
                                                 children: "An accessible introduction to AI concepts, ethics, and real-world applications for learners of all backgrounds"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 74,
+                                                lineNumber: 75,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 70,
+                                        lineNumber: 71,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42322,7 +42322,7 @@ const ServicesDesktop = ()=>{
                                                 className: "icon-relume-7"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 81,
+                                                lineNumber: 82,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42330,7 +42330,7 @@ const ServicesDesktop = ()=>{
                                                 children: "AI for Adults: Practical Applications for Work & Life"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 82,
+                                                lineNumber: 83,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42338,13 +42338,13 @@ const ServicesDesktop = ()=>{
                                                 children: "Designed for adult learners, this course explores how AI can enhance productivity, decision-making, and everyday tasks"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 86,
+                                                lineNumber: 87,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 80,
+                                        lineNumber: 81,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42354,7 +42354,7 @@ const ServicesDesktop = ()=>{
                                                 className: "icon-relume-7"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 92,
+                                                lineNumber: 93,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42362,7 +42362,7 @@ const ServicesDesktop = ()=>{
                                                 children: "AI for Creatives: Unleash Your Imagination with AI"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 93,
+                                                lineNumber: 94,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42370,19 +42370,19 @@ const ServicesDesktop = ()=>{
                                                 children: "A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling."
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 97,
+                                                lineNumber: 98,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 91,
+                                        lineNumber: 92,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 57,
+                                lineNumber: 58,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42397,7 +42397,7 @@ const ServicesDesktop = ()=>{
                                                     className: "icon-relume-7"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 108,
+                                                    lineNumber: 109,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42405,7 +42405,7 @@ const ServicesDesktop = ()=>{
                                                     children: "AI for Youth: Supporting the Next Generation of Innovators             "
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 109,
+                                                    lineNumber: 110,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42413,13 +42413,13 @@ const ServicesDesktop = ()=>{
                                                     children: "An interactive program that introduces young learners to AI through engaging, real-world projects."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 112,
+                                                    lineNumber: 113,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 107,
+                                            lineNumber: 108,
                                             columnNumber: 2
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42429,7 +42429,7 @@ const ServicesDesktop = ()=>{
                                                     className: "icon-relume-7"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 118,
+                                                    lineNumber: 119,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42437,7 +42437,7 @@ const ServicesDesktop = ()=>{
                                                     children: "Co-Designing with Youth: Creating the Future Together             "
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 119,
+                                                    lineNumber: 120,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42445,13 +42445,13 @@ const ServicesDesktop = ()=>{
                                                     children: "A participatory approach to co-design, equipping youth with the skills to collaborate, innovate, and lead impactful projects."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 122,
+                                                    lineNumber: 123,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 117,
+                                            lineNumber: 118,
                                             columnNumber: 11
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42461,7 +42461,7 @@ const ServicesDesktop = ()=>{
                                                     className: "icon-relume-7"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 128,
+                                                    lineNumber: 129,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42469,7 +42469,7 @@ const ServicesDesktop = ()=>{
                                                     children: "Co-Designing for Adults: Strategies for Inclusive Innovation          "
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 129,
+                                                    lineNumber: 130,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42477,13 +42477,13 @@ const ServicesDesktop = ()=>{
                                                     children: "An interactive program that introduces young learners to AI through engaging, real-world projects."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 132,
+                                                    lineNumber: 133,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 127,
+                                            lineNumber: 128,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42493,7 +42493,7 @@ const ServicesDesktop = ()=>{
                                                     className: "icon-relume-7"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 138,
+                                                    lineNumber: 139,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42501,7 +42501,7 @@ const ServicesDesktop = ()=>{
                                                     children: "Games-Based Learning: Designing & Facilitating Learning Experiences with Games         "
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 139,
+                                                    lineNumber: 140,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42509,30 +42509,30 @@ const ServicesDesktop = ()=>{
                                                     children: "Learn how to design and facilitate games-based learning workshops, explore the fundamental components of game design, and create a playable prototype using accessible digital tools."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 142,
+                                                    lineNumber: 143,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 137,
+                                            lineNumber: 138,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 106,
+                                    lineNumber: 107,
                                     columnNumber: 11
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 105,
+                                lineNumber: 106,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 56,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42551,23 +42551,23 @@ const ServicesDesktop = ()=>{
                                 children: "Inquire Now"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 160,
+                                lineNumber: 161,
                                 columnNumber: 15
                             }, void 0)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 153,
+                            lineNumber: 154,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 152,
+                        lineNumber: 153,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 38,
+                lineNumber: 39,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42591,12 +42591,12 @@ const ServicesDesktop = ()=>{
                                                         children: "Collaborate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 181,
+                                                        lineNumber: 182,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 180,
+                                                    lineNumber: 181,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42607,7 +42607,7 @@ const ServicesDesktop = ()=>{
                                                             children: "Supporting Communities Through Collaborative Design"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 185,
+                                                            lineNumber: 186,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42615,19 +42615,19 @@ const ServicesDesktop = ()=>{
                                                             children: "At JR, we unite diverse experts to create transformative learning experiences. Our multidisciplinary approach ensures that every voice is heard and valued in the design process."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 189,
+                                                            lineNumber: 190,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 184,
+                                                    lineNumber: 185,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 178,
+                                            lineNumber: 179,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42643,7 +42643,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "Participatory Design"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 200,
+                                                                lineNumber: 201,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42651,13 +42651,13 @@ const ServicesDesktop = ()=>{
                                                                 children: "Engaging communities for equitable outcomes through active participation and collaboration."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 202,
+                                                                lineNumber: 203,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 199,
+                                                        lineNumber: 200,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42668,7 +42668,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "Innovative Curriculum"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 209,
+                                                                lineNumber: 210,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42676,30 +42676,30 @@ const ServicesDesktop = ()=>{
                                                                 children: "Crafting curricula that inspire and meet the unique needs of diverse learners."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 211,
+                                                                lineNumber: 212,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 208,
+                                                        lineNumber: 209,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 198,
+                                                lineNumber: 199,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 197,
+                                            lineNumber: 198,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 177,
+                                    lineNumber: 178,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42714,18 +42714,18 @@ const ServicesDesktop = ()=>{
                                         href: "https://programminglibrarian.org/articles/ready-changing-world-design-challenges-virtual-learning-and-climate-change"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 221,
+                                        lineNumber: 222,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 220,
+                                    lineNumber: 221,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 176,
+                            lineNumber: 177,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -42734,18 +42734,18 @@ const ServicesDesktop = ()=>{
                             src: "/img/placeholder-image.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 234,
+                            lineNumber: 235,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 175,
+                    lineNumber: 176,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 174,
+                lineNumber: 175,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42761,12 +42761,12 @@ const ServicesDesktop = ()=>{
                                     children: "Expertise"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 245,
+                                    lineNumber: 246,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 244,
+                                lineNumber: 245,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42777,7 +42777,7 @@ const ServicesDesktop = ()=>{
                                         children: "Our Five Key Areas of Expertise"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 249,
+                                        lineNumber: 250,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42785,19 +42785,19 @@ const ServicesDesktop = ()=>{
                                         children: "At JR, we specialize in five essential areas that empower communities through innovative learning solutions. Our multidisciplinary approach ensures that every project is tailored to meet the unique needs of diverse populations."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 251,
+                                        lineNumber: 252,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 248,
+                                lineNumber: 249,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 243,
+                        lineNumber: 244,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42812,7 +42812,7 @@ const ServicesDesktop = ()=>{
                                             className: "icon-relume-7"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 263,
+                                            lineNumber: 264,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42820,7 +42820,7 @@ const ServicesDesktop = ()=>{
                                             children: "Participatory Design to Enhance Communities Voice"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 264,
+                                            lineNumber: 265,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42828,13 +42828,13 @@ const ServicesDesktop = ()=>{
                                             children: "We engage communities in the co-creation process to ensure that all voices are heard and valued."
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 268,
+                                            lineNumber: 269,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 262,
+                                    lineNumber: 263,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42844,7 +42844,7 @@ const ServicesDesktop = ()=>{
                                             className: "icon-relume-7"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 275,
+                                            lineNumber: 276,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42852,7 +42852,7 @@ const ServicesDesktop = ()=>{
                                             children: "Innovative Learning Program Design"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 276,
+                                            lineNumber: 277,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42860,13 +42860,13 @@ const ServicesDesktop = ()=>{
                                             children: "Our curricula are crafted to inspire and engage learners of all backgrounds."
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 278,
+                                            lineNumber: 279,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 274,
+                                    lineNumber: 275,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42876,7 +42876,7 @@ const ServicesDesktop = ()=>{
                                             className: "icon-relume-7"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 285,
+                                            lineNumber: 286,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42884,7 +42884,7 @@ const ServicesDesktop = ()=>{
                                             children: "Empowering Professional Development for Teams"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 286,
+                                            lineNumber: 287,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42892,24 +42892,24 @@ const ServicesDesktop = ()=>{
                                             children: "We provide hands-on training that equips educators and leaders with essential strategies for growth."
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 290,
+                                            lineNumber: 291,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 284,
+                                    lineNumber: 285,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 261,
+                            lineNumber: 262,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 260,
+                        lineNumber: 261,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42924,18 +42924,18 @@ const ServicesDesktop = ()=>{
                             href: "https://hiveresearchlab.org/2015/02/25/using-a-collaborative-design-research-approach-in-hive-nyc-hive-youth-meet-ups-case-study/"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 299,
+                            lineNumber: 300,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 298,
+                        lineNumber: 299,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 242,
+                lineNumber: 243,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -42951,7 +42951,7 @@ const ServicesDesktop = ()=>{
                                     children: "Participatory Design: Enhancing Communities Voice"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 315,
+                                    lineNumber: 316,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -42959,13 +42959,13 @@ const ServicesDesktop = ()=>{
                                     children: "Participatory Design invites community members to actively engage in the creation of learning experiences. This collaborative approach ensures that diverse voices are heard, leading to equitable and impactful outcomes that truly reflect the needs of the community."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 319,
+                                    lineNumber: 320,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 314,
+                            lineNumber: 315,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -42974,18 +42974,18 @@ const ServicesDesktop = ()=>{
                             src: "/img/photograph-in-color-of-a-group-of-people-participating-in-a-desi.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 328,
+                            lineNumber: 329,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 313,
+                    lineNumber: 314,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 312,
+                lineNumber: 313,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43009,12 +43009,12 @@ const ServicesDesktop = ()=>{
                                                         children: "Innovate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 342,
+                                                        lineNumber: 343,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 341,
+                                                    lineNumber: 342,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43025,7 +43025,7 @@ const ServicesDesktop = ()=>{
                                                             children: "Crafting Curricula for Diverse Learning Needs"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 346,
+                                                            lineNumber: 347,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43033,19 +43033,19 @@ const ServicesDesktop = ()=>{
                                                             children: "Our Learning Program Design focuses on creating curricula that resonate with various audiences. We prioritize inclusivity and engagement to ensure every learner's needs are met."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 350,
+                                                            lineNumber: 351,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 345,
+                                                    lineNumber: 346,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 340,
+                                            lineNumber: 341,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43060,7 +43060,7 @@ const ServicesDesktop = ()=>{
                                                                 className: "icon-relume-7"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 362,
+                                                                lineNumber: 363,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43068,7 +43068,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "Tailored Solutions"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 363,
+                                                                lineNumber: 364,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43076,13 +43076,13 @@ const ServicesDesktop = ()=>{
                                                                 children: "Custom curricula designed to enhance engagement and meet specific community needs."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 365,
+                                                                lineNumber: 366,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 361,
+                                                        lineNumber: 362,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43092,7 +43092,7 @@ const ServicesDesktop = ()=>{
                                                                 className: "icon-relume-7"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 372,
+                                                                lineNumber: 373,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43100,7 +43100,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "Collaborative Approach"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 373,
+                                                                lineNumber: 374,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43108,30 +43108,30 @@ const ServicesDesktop = ()=>{
                                                                 children: "We work with stakeholders to ensure relevant and impactful learning experiences."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 375,
+                                                                lineNumber: 376,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 371,
+                                                        lineNumber: 372,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 360,
+                                                lineNumber: 361,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 359,
+                                            lineNumber: 360,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 339,
+                                    lineNumber: 340,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43147,25 +43147,25 @@ const ServicesDesktop = ()=>{
                                         target: "_self"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 385,
+                                        lineNumber: 386,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 384,
+                                    lineNumber: 385,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 338,
+                            lineNumber: 339,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "placeholder-image"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 398,
+                            lineNumber: 399,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("video", {
@@ -43183,25 +43183,25 @@ const ServicesDesktop = ()=>{
                                     type: "video/mp4"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 409,
+                                    lineNumber: 410,
                                     columnNumber: 15
                                 }, undefined),
                                 "Your browser does not support the video tag."
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 399,
+                            lineNumber: 400,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 337,
+                    lineNumber: 338,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 336,
+                lineNumber: 337,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43219,7 +43219,7 @@ const ServicesDesktop = ()=>{
                                             className: "icon-relume-1"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 419,
+                                            lineNumber: 420,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43230,7 +43230,7 @@ const ServicesDesktop = ()=>{
                                                     children: "Empowering Teams for Growth and Innovation"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 421,
+                                                    lineNumber: 422,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43238,19 +43238,19 @@ const ServicesDesktop = ()=>{
                                                     children: "Our Professional Development services equip teams with the essential strategies and tools needed to foster innovation and drive growth. We focus on hands-on training that inspires educators and leaders to create impactful learning environments."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 425,
+                                                    lineNumber: 426,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 420,
+                                            lineNumber: 421,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 418,
+                                    lineNumber: 419,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43266,18 +43266,18 @@ const ServicesDesktop = ()=>{
                                         target: "_blank"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 436,
+                                        lineNumber: 437,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 435,
+                                    lineNumber: 436,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 417,
+                            lineNumber: 418,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -43286,18 +43286,18 @@ const ServicesDesktop = ()=>{
                             src: "/img/placeholder-image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 450,
+                            lineNumber: 451,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 416,
+                    lineNumber: 417,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 415,
+                lineNumber: 416,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43318,12 +43318,12 @@ const ServicesDesktop = ()=>{
                                                 children: "Impact"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 463,
+                                                lineNumber: 464,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 462,
+                                            lineNumber: 463,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43334,7 +43334,7 @@ const ServicesDesktop = ()=>{
                                                     children: "Comprehensive Project Management for Lasting Change"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 467,
+                                                    lineNumber: 468,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43342,19 +43342,19 @@ const ServicesDesktop = ()=>{
                                                     children: "Our project management approach ensures that every initiative is meticulously planned and executed. We focus on collaboration, transparency, and measurable outcomes to drive success from start to finish."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 471,
+                                                    lineNumber: 472,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 466,
+                                            lineNumber: 467,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 461,
+                                    lineNumber: 462,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43369,18 +43369,18 @@ const ServicesDesktop = ()=>{
                                         href: "https://vrtality.org"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 481,
+                                        lineNumber: 482,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 480,
+                                    lineNumber: 481,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 460,
+                            lineNumber: 461,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -43389,18 +43389,18 @@ const ServicesDesktop = ()=>{
                             src: "/img/placeholder-image-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 494,
+                            lineNumber: 495,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 459,
+                    lineNumber: 460,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 458,
+                lineNumber: 459,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43424,12 +43424,12 @@ const ServicesDesktop = ()=>{
                                                         children: "Funding"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 508,
+                                                        lineNumber: 509,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 507,
+                                                    lineNumber: 508,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43440,7 +43440,7 @@ const ServicesDesktop = ()=>{
                                                             children: "Expert Grant Administration for Meaningful Initiatives"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 512,
+                                                            lineNumber: 513,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43448,19 +43448,19 @@ const ServicesDesktop = ()=>{
                                                             children: "Securing and managing funding is crucial for impactful projects. Our expertise ensures that your initiatives receive the financial support they need to thrive."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                            lineNumber: 516,
+                                                            lineNumber: 517,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                    lineNumber: 511,
+                                                    lineNumber: 512,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 506,
+                                            lineNumber: 507,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43476,7 +43476,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "From Concept to Implementation"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 527,
+                                                                lineNumber: 528,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43484,13 +43484,13 @@ const ServicesDesktop = ()=>{
                                                                 children: "Transform your vision into reality with our approach to synthesizing ideas to create a plan and implement it."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 529,
+                                                                lineNumber: 530,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 526,
+                                                        lineNumber: 527,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43501,7 +43501,7 @@ const ServicesDesktop = ()=>{
                                                                 children: "Securing Funding"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 535,
+                                                                lineNumber: 536,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -43509,30 +43509,30 @@ const ServicesDesktop = ()=>{
                                                                 children: "Create sustainable funding strategies that align with your goals and community needs."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                                lineNumber: 537,
+                                                                lineNumber: 538,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                        lineNumber: 534,
+                                                        lineNumber: 535,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 525,
+                                                lineNumber: 526,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 524,
+                                            lineNumber: 525,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 505,
+                                    lineNumber: 506,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43547,18 +43547,18 @@ const ServicesDesktop = ()=>{
                                         href: "https://imls.gov/grants/awarded/lg-252306-ols-22"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 546,
+                                        lineNumber: 547,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 545,
+                                    lineNumber: 546,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 504,
+                            lineNumber: 505,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -43567,18 +43567,18 @@ const ServicesDesktop = ()=>{
                             src: "/img/placeholder-image-3.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 559,
+                            lineNumber: 560,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 503,
+                    lineNumber: 504,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 502,
+                lineNumber: 503,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43593,12 +43593,12 @@ const ServicesDesktop = ()=>{
                                 children: "Let's Transform Learning Together"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 570,
+                                lineNumber: 571,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 569,
+                            lineNumber: 570,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43609,7 +43609,7 @@ const ServicesDesktop = ()=>{
                                     children: "Ready to elevate your educational initiatives? Contact JR today for a consultation and discover how we can co-create impactful learning experiences tailored to your community's needs."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 576,
+                                    lineNumber: 577,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43625,29 +43625,29 @@ const ServicesDesktop = ()=>{
                                         href: "/contact-desktop"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 583,
+                                        lineNumber: 584,
                                         columnNumber: 13
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 582,
+                                    lineNumber: 583,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                            lineNumber: 575,
+                            lineNumber: 576,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                    lineNumber: 568,
+                    lineNumber: 569,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 567,
+                lineNumber: 568,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43662,66 +43662,17 @@ const ServicesDesktop = ()=>{
                                     className: "color-dark"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                    lineNumber: 601,
+                                    lineNumber: 602,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 600,
+                                lineNumber: 601,
                                 columnNumber: 11
                             }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/about-desktop",
-                                            children: "About Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 606,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 605,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/services-desktop",
-                                            children: "Our Services"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 610,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 609,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-8",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/contact-desktop",
-                                            children: "Contact Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                            lineNumber: 614,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 613,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 604,
+                                lineNumber: 605,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43731,26 +43682,26 @@ const ServicesDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 622,
+                                        lineNumber: 609,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconYoutube1.IconYoutube1), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 623,
+                                        lineNumber: 610,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 620,
+                                lineNumber: 607,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 599,
+                        lineNumber: 600,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43760,7 +43711,7 @@ const ServicesDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 628,
+                                lineNumber: 615,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43771,7 +43722,7 @@ const ServicesDesktop = ()=>{
                                         children: "\xa9 2025"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 631,
+                                        lineNumber: 618,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43782,7 +43733,7 @@ const ServicesDesktop = ()=>{
                                                 children: "Privacy Policy"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 636,
+                                                lineNumber: 623,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -43790,37 +43741,37 @@ const ServicesDesktop = ()=>{
                                                 children: "Terms of Service"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                                lineNumber: 638,
+                                                lineNumber: 625,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                        lineNumber: 635,
+                                        lineNumber: 622,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                                lineNumber: 630,
+                                lineNumber: 617,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                        lineNumber: 627,
+                        lineNumber: 614,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-                lineNumber: 598,
+                lineNumber: 599,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/ServicesDesktop/ServicesDesktop.jsx",
-        lineNumber: 14,
+        lineNumber: 15,
         columnNumber: 5
     }, undefined);
 };
@@ -43833,7 +43784,7 @@ $RefreshReg$(_c, "ServicesDesktop");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/ColorDark1":"5Rzn0","../../icons/IconLinkedin1":"bvfHH","../../icons/IconRelume9":"bK37R","../../icons/IconYoutube1":"ew6qN","./style.css":"eit8S","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe"}],"5Rzn0":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/ColorDark1":"5Rzn0","../../icons/IconLinkedin1":"bvfHH","../../icons/IconRelume9":"bK37R","../../icons/IconYoutube1":"ew6qN","./style.css":"eit8S","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe","../../components/FooterLinks/FooterLinks":"b3ooA"}],"5Rzn0":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ColorDark1", ()=>(0, _colorDark1.ColorDark1));
@@ -44289,6 +44240,7 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _icon4 = require("../../icons/Icon4");
+var _iconRelume9 = require("../../icons/IconRelume9");
 var _iconFacebook = require("../../icons/IconFacebook");
 var _iconInstagram = require("../../icons/IconInstagram");
 var _iconLinkedin = require("../../icons/IconLinkedin");
@@ -44300,7 +44252,7 @@ var _styleCss = require("./style.css");
 var _reactRouterDom = require("react-router-dom");
 var _buildLearnPlayMp4 = require("../../../static/img/Build-Learn-Play.mp4");
 var _buildLearnPlayMp4Default = parcelHelpers.interopDefault(_buildLearnPlayMp4);
-var _iconRelume9 = require("../../icons/IconRelume9");
+var _button = require("../../components/Button");
 const ServicesMobile = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "services-mobile",
@@ -44320,12 +44272,12 @@ const ServicesMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 22,
+                                lineNumber: 23,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 21,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -44334,18 +44286,18 @@ const ServicesMobile = ()=>{
                             src: "/img/masthead.svg"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 28,
+                            lineNumber: 29,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 20,
+                    lineNumber: 21,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44362,7 +44314,7 @@ const ServicesMobile = ()=>{
                                     children: "Transformative Learning Solutions"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 37,
+                                    lineNumber: 38,
                                     columnNumber: 15
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44370,100 +44322,264 @@ const ServicesMobile = ()=>{
                                     children: "We specialize in co-creating impactful learning experiences that inspire and support communities."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 39,
+                                    lineNumber: 40,
                                     columnNumber: 15
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 36,
+                            lineNumber: 37,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 34,
+                        lineNumber: 35,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 33,
+                    lineNumber: 34,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 32,
+                lineNumber: 33,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "div-6",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume9.IconRelume9), {
-                        className: "icon-relume-7"
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 49,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-3",
-                        children: "Our Current Courses"
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 50,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-3 ",
-                        children: "Co-Designing for Adults: Strategies to Create your own co-design workshop          "
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 52,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text",
-                        children: "A practical guide to co-design methods that equips educators and leaders with tools for creating community-driven innovation workshops."
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 55,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-3",
-                        children: "AI Foundations: Understanding the Basics"
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 60,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text",
-                        children: "An accessible introduction to AI concepts, ethics, and real-world applications for learners of all backgrounds."
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 64,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-3",
-                        children: "AI for Creatives: Unleash Your Imagination with AI"
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 70,
-                        columnNumber: 15
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text",
-                        children: "A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling."
-                    }, void 0, false, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 74,
-                        columnNumber: 15
-                    }, undefined)
-                ]
-            }, void 0, true, {
+                className: "container-wrapper",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                    className: "div-5",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "div-3",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume9.IconRelume9), {
+                                    className: "icon"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 52,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "heading-courses",
+                                    children: "Co-Designing for Adults: Strategies to Create your own co-design workshop"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 53,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "text",
+                                    children: "A practical guide to co-design methods that equips educators and leaders with tools for creating community-driven innovation workshops."
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 57,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
+                                    alternate: false,
+                                    className: "inquire-courses",
+                                    iconPosition: "no-icon",
+                                    small: true,
+                                    style: "secondary",
+                                    text: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                                        to: "/contact-mobile",
+                                        className: "inquire-link-text",
+                                        state: {
+                                            prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                                        },
+                                        children: "Inquire"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                        lineNumber: 69,
+                                        columnNumber: 15
+                                    }, void 0)
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 62,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                            lineNumber: 51,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "div-3",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume9.IconRelume9), {
+                                    className: "icon"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 83,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "heading-courses",
+                                    children: "AI for Creatives: Unleash Your Imagination with AI"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 84,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "text",
+                                    children: "A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling.*"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 88,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                            lineNumber: 82,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
+                            alternate: false,
+                            className: "inquire-courses",
+                            iconPosition: "no-icon",
+                            small: true,
+                            style: "secondary",
+                            text: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                                to: "/contact-mobile",
+                                className: "inquire-link-text",
+                                state: {
+                                    prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                                },
+                                children: "Inquire"
+                            }, void 0, false, {
+                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                lineNumber: 100,
+                                columnNumber: 15
+                            }, void 0)
+                        }, void 0, false, {
+                            fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                            lineNumber: 93,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "div-3",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume9.IconRelume9), {
+                                    className: "icon"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 112,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "heading-courses",
+                                    children: "AI Foundations: Understanding the Basics"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 113,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "text",
+                                    children: "An accessible introduction to AI concepts, ethics, and real-world applications for learners of all backgrounds."
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 117,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
+                                    alternate: false,
+                                    className: "inquire-courses",
+                                    iconPosition: "no-icon",
+                                    small: true,
+                                    style: "secondary",
+                                    text: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                                        to: "/contact-mobile",
+                                        className: "inquire-link-text",
+                                        state: {
+                                            prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                                        },
+                                        children: "Inquire"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                        lineNumber: 127,
+                                        columnNumber: 15
+                                    }, void 0)
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 120,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                            lineNumber: 111,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "div-3",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume9.IconRelume9), {
+                                    className: "icon"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 141,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "heading-courses ",
+                                    children: "Games-Based Learning: Designing & Facilitating Playful Learning Experiences"
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 142,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    className: "text",
+                                    children: "Learn how to design and facilitate games-based learning workshops, explore the essential components of a game, and use simple software to create a prototype."
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 146,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
+                                    alternate: false,
+                                    className: "inquire-courses",
+                                    iconPosition: "no-icon",
+                                    small: true,
+                                    style: "secondary",
+                                    text: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                                        to: "/contact-mobile",
+                                        className: "inquire-link-text",
+                                        state: {
+                                            prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                                        },
+                                        children: "Inquire"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                        lineNumber: 156,
+                                        columnNumber: 15
+                                    }, void 0)
+                                }, void 0, false, {
+                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                                    lineNumber: 149,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                            lineNumber: 140,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
+                    lineNumber: 50,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 48,
+                lineNumber: 49,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44487,12 +44603,12 @@ const ServicesMobile = ()=>{
                                                         children: "Collaborate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 87,
+                                                        lineNumber: 178,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 86,
+                                                    lineNumber: 177,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44503,7 +44619,7 @@ const ServicesMobile = ()=>{
                                                             children: "Empowering Communities Through Collaborative Design"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 91,
+                                                            lineNumber: 182,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44511,19 +44627,19 @@ const ServicesMobile = ()=>{
                                                             children: "At JR, we unite diverse experts to create transformative learning experiences. Our multidisciplinary approach ensures that every voice is heard and valued in the design process."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 95,
+                                                            lineNumber: 186,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 90,
+                                                    lineNumber: 181,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 85,
+                                            lineNumber: 176,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44537,7 +44653,7 @@ const ServicesMobile = ()=>{
                                                             children: "Participatory Design"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 105,
+                                                            lineNumber: 196,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44545,13 +44661,13 @@ const ServicesMobile = ()=>{
                                                             children: "Engaging communities for observable outcomes through active participation and collaboration."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 107,
+                                                            lineNumber: 198,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 195,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44562,7 +44678,7 @@ const ServicesMobile = ()=>{
                                                             children: "Innovative Curriculum"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 205,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44570,25 +44686,25 @@ const ServicesMobile = ()=>{
                                                             children: "Crafting curricula that inspire and meet the unique needs of diverse learners."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 116,
+                                                            lineNumber: 207,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 113,
+                                                    lineNumber: 204,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 103,
+                                            lineNumber: 194,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 84,
+                                    lineNumber: 175,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44600,23 +44716,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 126,
+                                            lineNumber: 217,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 125,
+                                        lineNumber: 216,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 124,
+                                    lineNumber: 215,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 83,
+                            lineNumber: 174,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("video", {
@@ -44640,25 +44756,25 @@ const ServicesMobile = ()=>{
                                     type: "video/mp4"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 147,
+                                    lineNumber: 238,
                                     columnNumber: 13
                                 }, undefined),
                                 "Your browser does not support the video tag."
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 131,
+                            lineNumber: 222,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 82,
+                    lineNumber: 173,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 81,
+                lineNumber: 172,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44674,12 +44790,12 @@ const ServicesMobile = ()=>{
                                     children: "Expertise"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 156,
+                                    lineNumber: 247,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 155,
+                                lineNumber: 246,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44690,7 +44806,7 @@ const ServicesMobile = ()=>{
                                         children: "Our Five Key Areas of Expertise"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 160,
+                                        lineNumber: 251,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44698,19 +44814,19 @@ const ServicesMobile = ()=>{
                                         children: "At JR, we specialize in five essential areas that empower communities through innovative learning solutions. Our multidisciplinary approach ensures that every project is tailored to meet the unique needs of diverse populations."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 162,
+                                        lineNumber: 253,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 159,
+                                lineNumber: 250,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 154,
+                        lineNumber: 245,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44723,7 +44839,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 173,
+                                        lineNumber: 264,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44731,7 +44847,7 @@ const ServicesMobile = ()=>{
                                         children: "Participatory Design for Equitable Outcomes"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 174,
+                                        lineNumber: 265,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44739,13 +44855,13 @@ const ServicesMobile = ()=>{
                                         children: "We engage communities in the co-creation process to ensure that all voices are heard and valued."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 178,
+                                        lineNumber: 269,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 172,
+                                lineNumber: 263,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44755,7 +44871,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 185,
+                                        lineNumber: 276,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44763,7 +44879,7 @@ const ServicesMobile = ()=>{
                                         children: "Innovative Learning Program Design"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 186,
+                                        lineNumber: 277,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44771,13 +44887,13 @@ const ServicesMobile = ()=>{
                                         children: "Our curricula are crafted to inspire and engage learners of all backgrounds."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 188,
+                                        lineNumber: 279,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 184,
+                                lineNumber: 275,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44787,7 +44903,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 195,
+                                        lineNumber: 286,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44795,7 +44911,7 @@ const ServicesMobile = ()=>{
                                         children: "Empowering Professional Development for Teams"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 196,
+                                        lineNumber: 287,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44803,19 +44919,19 @@ const ServicesMobile = ()=>{
                                         children: "We provide hands-on training that equips educators and leaders with essential strategies for growth."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 200,
+                                        lineNumber: 291,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 194,
+                                lineNumber: 285,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 171,
+                        lineNumber: 262,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44827,23 +44943,23 @@ const ServicesMobile = ()=>{
                                 children: "Learn More"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 209,
+                                lineNumber: 300,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 208,
+                            lineNumber: 299,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 207,
+                        lineNumber: 298,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 153,
+                lineNumber: 244,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44859,7 +44975,7 @@ const ServicesMobile = ()=>{
                                     children: "Participatory Design: Empowering Communities Through Collaborative Learning Experiences"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 217,
+                                    lineNumber: 308,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44867,13 +44983,13 @@ const ServicesMobile = ()=>{
                                     children: "Participatory Design invites community members to actively engage in the creation of learning experiences. This collaborative approach ensures that diverse voices are heard, leading to equitable and impactful outcomes that truly reflect the needs of the community."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 222,
+                                    lineNumber: 313,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 216,
+                            lineNumber: 307,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -44882,18 +44998,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 231,
+                            lineNumber: 322,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 215,
+                    lineNumber: 306,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 214,
+                lineNumber: 305,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44917,12 +45033,12 @@ const ServicesMobile = ()=>{
                                                         children: "Innovate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 245,
+                                                        lineNumber: 336,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 244,
+                                                    lineNumber: 335,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44933,7 +45049,7 @@ const ServicesMobile = ()=>{
                                                             children: "Crafting Curricula for Diverse Learning Needs"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 249,
+                                                            lineNumber: 340,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44941,19 +45057,19 @@ const ServicesMobile = ()=>{
                                                             children: "Our Learning Program Design focuses on creating curricula that resonate with various audiences. We prioritize inclusivity and engagement to ensure every learner's needs are met."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 253,
+                                                            lineNumber: 344,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 248,
+                                                    lineNumber: 339,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 243,
+                                            lineNumber: 334,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44966,7 +45082,7 @@ const ServicesMobile = ()=>{
                                                             className: "icon"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 264,
+                                                            lineNumber: 355,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44974,7 +45090,7 @@ const ServicesMobile = ()=>{
                                                             children: "Tailored Solutions"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 265,
+                                                            lineNumber: 356,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44982,13 +45098,13 @@ const ServicesMobile = ()=>{
                                                             children: "Custom curricula designed to enhance engagement and meet specific community needs."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 267,
+                                                            lineNumber: 358,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 263,
+                                                    lineNumber: 354,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44998,7 +45114,7 @@ const ServicesMobile = ()=>{
                                                             className: "icon"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 274,
+                                                            lineNumber: 365,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45006,7 +45122,7 @@ const ServicesMobile = ()=>{
                                                             children: "Collaborative Approach"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 275,
+                                                            lineNumber: 366,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45014,25 +45130,25 @@ const ServicesMobile = ()=>{
                                                             children: "We work with stakeholders to ensure relevant and impactful learning experiences."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 277,
+                                                            lineNumber: 368,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 273,
+                                                    lineNumber: 364,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 262,
+                                            lineNumber: 353,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 242,
+                                    lineNumber: 333,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45044,23 +45160,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 287,
+                                            lineNumber: 378,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 286,
+                                        lineNumber: 377,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 285,
+                                    lineNumber: 376,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 241,
+                            lineNumber: 332,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45069,18 +45185,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 292,
+                            lineNumber: 383,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 240,
+                    lineNumber: 331,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 239,
+                lineNumber: 330,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45098,7 +45214,7 @@ const ServicesMobile = ()=>{
                                             className: "icon-4"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 304,
+                                            lineNumber: 395,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45109,7 +45225,7 @@ const ServicesMobile = ()=>{
                                                     children: "Empowering Teams for Growth and Innovation"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 306,
+                                                    lineNumber: 397,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45117,19 +45233,19 @@ const ServicesMobile = ()=>{
                                                     children: "Our Professional Development services equip teams with the essential strategies and tools needed to foster innovation and drive growth. We focus on hands-on training that inspires educators and leaders to create impactful learning environments."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 310,
+                                                    lineNumber: 401,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 305,
+                                            lineNumber: 396,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 303,
+                                    lineNumber: 394,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45141,23 +45257,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 322,
+                                            lineNumber: 413,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 321,
+                                        lineNumber: 412,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 320,
+                                    lineNumber: 411,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 302,
+                            lineNumber: 393,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45166,18 +45282,18 @@ const ServicesMobile = ()=>{
                             src: "/img/photograph-in-color-of-a-group-of-people-participating-in-a-desi.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 327,
+                            lineNumber: 418,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 301,
+                    lineNumber: 392,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 300,
+                lineNumber: 391,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45198,12 +45314,12 @@ const ServicesMobile = ()=>{
                                                 children: "Impact"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 340,
+                                                lineNumber: 431,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 339,
+                                            lineNumber: 430,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45214,7 +45330,7 @@ const ServicesMobile = ()=>{
                                                     children: "Comprehensive Project Management for Lasting Change"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 344,
+                                                    lineNumber: 435,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45222,19 +45338,19 @@ const ServicesMobile = ()=>{
                                                     children: "Our project management approach ensures that every initiative is meticulously planned and executed. We focus on collaboration, transparency, and measurable outcomes to drive success from start to finish."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 348,
+                                                    lineNumber: 439,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 343,
+                                            lineNumber: 434,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 338,
+                                    lineNumber: 429,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45246,23 +45362,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 359,
+                                            lineNumber: 450,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 358,
+                                        lineNumber: 449,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 357,
+                                    lineNumber: 448,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 337,
+                            lineNumber: 428,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45271,18 +45387,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 364,
+                            lineNumber: 455,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 336,
+                    lineNumber: 427,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 335,
+                lineNumber: 426,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45306,12 +45422,12 @@ const ServicesMobile = ()=>{
                                                         children: "Funding"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 378,
+                                                        lineNumber: 469,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 377,
+                                                    lineNumber: 468,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45322,7 +45438,7 @@ const ServicesMobile = ()=>{
                                                             children: "Expert Grant Administration for Meaningful Initiatives"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 382,
+                                                            lineNumber: 473,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45330,19 +45446,19 @@ const ServicesMobile = ()=>{
                                                             children: "Securing and managing funding is crucial for impactful projects. Our expertise ensures that your initiatives receive the financial support they need to thrive."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 386,
+                                                            lineNumber: 477,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 381,
+                                                    lineNumber: 472,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 376,
+                                            lineNumber: 467,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45356,7 +45472,7 @@ const ServicesMobile = ()=>{
                                                             children: "50%"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 396,
+                                                            lineNumber: 487,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45364,13 +45480,13 @@ const ServicesMobile = ()=>{
                                                             children: "Transform your vision into reality with our support."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 398,
+                                                            lineNumber: 489,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 395,
+                                                    lineNumber: 486,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45381,7 +45497,7 @@ const ServicesMobile = ()=>{
                                                             children: "50%"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 404,
+                                                            lineNumber: 495,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45389,25 +45505,25 @@ const ServicesMobile = ()=>{
                                                             children: "Empower your community through secured funding initiatives."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 406,
+                                                            lineNumber: 497,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 403,
+                                                    lineNumber: 494,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 394,
+                                            lineNumber: 485,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 375,
+                                    lineNumber: 466,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45419,23 +45535,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 415,
+                                            lineNumber: 506,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 414,
+                                        lineNumber: 505,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 413,
+                                    lineNumber: 504,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 374,
+                            lineNumber: 465,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45444,18 +45560,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-3.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 420,
+                            lineNumber: 511,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 373,
+                    lineNumber: 464,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 372,
+                lineNumber: 463,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45470,12 +45586,12 @@ const ServicesMobile = ()=>{
                                 children: "Let's Transform Learning Together"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 431,
+                                lineNumber: 522,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 430,
+                            lineNumber: 521,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45486,7 +45602,7 @@ const ServicesMobile = ()=>{
                                     children: "Ready to elevate your educational initiatives? Contact JR today for a consultation and discover how we can co-create impactful learning experiences tailored to your community's needs."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 437,
+                                    lineNumber: 528,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45498,34 +45614,34 @@ const ServicesMobile = ()=>{
                                             children: "Inquire"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 445,
+                                            lineNumber: 536,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 444,
+                                        lineNumber: 535,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 443,
+                                    lineNumber: 534,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 436,
+                            lineNumber: 527,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 429,
+                    lineNumber: 520,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 428,
+                lineNumber: 519,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45540,12 +45656,12 @@ const ServicesMobile = ()=>{
                                     className: "logo-instance"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 455,
+                                    lineNumber: 546,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 454,
+                                lineNumber: 545,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45556,7 +45672,7 @@ const ServicesMobile = ()=>{
                                         children: "About Us"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 459,
+                                        lineNumber: 550,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45564,7 +45680,7 @@ const ServicesMobile = ()=>{
                                         children: "Our Services"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 461,
+                                        lineNumber: 552,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45572,7 +45688,7 @@ const ServicesMobile = ()=>{
                                         children: "Contact Us"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 463,
+                                        lineNumber: 554,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45580,7 +45696,7 @@ const ServicesMobile = ()=>{
                                         children: "Blog Posts"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 465,
+                                        lineNumber: 556,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45588,13 +45704,13 @@ const ServicesMobile = ()=>{
                                         children: "FAQs"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 467,
+                                        lineNumber: 558,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 458,
+                                lineNumber: 549,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45604,47 +45720,47 @@ const ServicesMobile = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 471,
+                                        lineNumber: 562,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconInstagram.IconInstagram), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 472,
+                                        lineNumber: 563,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconX.IconX), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 473,
+                                        lineNumber: 564,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconLinkedin.IconLinkedin), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 474,
+                                        lineNumber: 565,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 475,
+                                        lineNumber: 566,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 470,
+                                lineNumber: 561,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 453,
+                        lineNumber: 544,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45654,7 +45770,7 @@ const ServicesMobile = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 480,
+                                lineNumber: 571,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45668,7 +45784,7 @@ const ServicesMobile = ()=>{
                                                 children: "Privacy Policy"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 484,
+                                                lineNumber: 575,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45676,7 +45792,7 @@ const ServicesMobile = ()=>{
                                                 children: "Terms of Service"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 486,
+                                                lineNumber: 577,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45684,13 +45800,13 @@ const ServicesMobile = ()=>{
                                                 children: "Cookie Settings"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 488,
+                                                lineNumber: 579,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 483,
+                                        lineNumber: 574,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45698,31 +45814,31 @@ const ServicesMobile = ()=>{
                                         children: "\xa9 2024 JR. All rights reserved."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 491,
+                                        lineNumber: 582,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 482,
+                                lineNumber: 573,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 479,
+                        lineNumber: 570,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 452,
+                lineNumber: 543,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-        lineNumber: 17,
+        lineNumber: 18,
         columnNumber: 5
     }, undefined);
 };
@@ -45735,7 +45851,7 @@ $RefreshReg$(_c, "ServicesMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Icon4":"cXHcu","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconX":"ecQ8C","../../icons/Logo":"cuRYp","../../icons/YoutubeIcon":"h1FkG","./style.css":"7C8ET","react-router-dom":"9xmpe","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/IconRelume9":"bK37R"}],"cXHcu":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Icon4":"cXHcu","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconX":"ecQ8C","../../icons/Logo":"cuRYp","../../icons/YoutubeIcon":"h1FkG","./style.css":"7C8ET","react-router-dom":"9xmpe","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/IconRelume9":"bK37R","../../components/Button":"bNbfl"}],"cXHcu":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Icon4", ()=>(0, _icon4.Icon4));
@@ -45856,6 +45972,7 @@ var _styleCss = require("./style.css");
 var _browser = require("@emailjs/browser");
 var _browserDefault = parcelHelpers.interopDefault(_browser);
 var _reactRouterDom = require("react-router-dom");
+var _footerLinks = require("../../components/FooterLinks/FooterLinks");
 var _s = $RefreshSig$();
 // Initialize EmailJS
 (0, _browserDefault.default).init("1yjV981FEw1IgxTNn");
@@ -46226,51 +46343,7 @@ const ContactDesktop = ()=>{
                                 lineNumber: 216,
                                 columnNumber: 11
                             }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-9",
-                                        children: "About Us"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 221,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-9",
-                                        children: "Our Services"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 223,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-9",
-                                        children: "Contact Us"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 225,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-9",
-                                        children: "Blog Posts"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 227,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-9",
-                                        children: "FAQs"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 229,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
                                 lineNumber: 220,
                                 columnNumber: 11
@@ -46282,41 +46355,41 @@ const ContactDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 233,
+                                        lineNumber: 224,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconInstagram.IconInstagram), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 234,
+                                        lineNumber: 225,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _xicon.XIcon), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 235,
+                                        lineNumber: 226,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _linkedinIcon.LinkedinIcon), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 236,
+                                        lineNumber: 227,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 237,
+                                        lineNumber: 228,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                lineNumber: 232,
+                                lineNumber: 223,
                                 columnNumber: 11
                             }, undefined)
                         ]
@@ -46332,7 +46405,7 @@ const ContactDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                lineNumber: 242,
+                                lineNumber: 233,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46343,7 +46416,7 @@ const ContactDesktop = ()=>{
                                         children: "\xa9 2024 JR. All rights reserved."
                                     }, void 0, false, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 245,
+                                        lineNumber: 236,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46354,7 +46427,7 @@ const ContactDesktop = ()=>{
                                                 children: "Privacy Policy"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                                lineNumber: 250,
+                                                lineNumber: 241,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46362,7 +46435,7 @@ const ContactDesktop = ()=>{
                                                 children: "Terms of Service"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                                lineNumber: 252,
+                                                lineNumber: 243,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -46370,25 +46443,25 @@ const ContactDesktop = ()=>{
                                                 children: "Cookie Settings"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                                lineNumber: 254,
+                                                lineNumber: 245,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                        lineNumber: 249,
+                                        lineNumber: 240,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                                lineNumber: 244,
+                                lineNumber: 235,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ContactDesktop/ContactDesktop.jsx",
-                        lineNumber: 241,
+                        lineNumber: 232,
                         columnNumber: 9
                     }, undefined)
                 ]
@@ -46418,7 +46491,7 @@ $RefreshReg$(_c, "ContactDesktop");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/Checkbox":"1RCV2","../../components/NavbarJr":"li05W","../../components/TextArea":"lWNJX","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconRelume3":"5FiRM","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","./style.css":"g3G1Z","@emailjs/browser":"kbSqr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe"}],"1RCV2":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/Checkbox":"1RCV2","../../components/NavbarJr":"li05W","../../components/TextArea":"lWNJX","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconRelume3":"5FiRM","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","./style.css":"g3G1Z","@emailjs/browser":"kbSqr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe","../../components/FooterLinks/FooterLinks":"b3ooA"}],"1RCV2":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Checkbox", ()=>(0, _checkbox.Checkbox));
@@ -48274,6 +48347,7 @@ var _logo = require("../../icons/Logo");
 var _xicon = require("../../icons/XIcon");
 var _youtubeIcon = require("../../icons/YoutubeIcon");
 var _styleCss = require("./style.css");
+var _footerLinks = require("../../components/FooterLinks/FooterLinks");
 const PublicationsDesktop = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "publications-desktop",
@@ -48285,18 +48359,18 @@ const PublicationsDesktop = ()=>{
                         className: "icon-instance-node"
                     }, void 0, false, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 18,
+                        lineNumber: 19,
                         columnNumber: 23
                     }, void 0),
                     className: "navbar-JR-1"
                 }, void 0, false, {
                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                lineNumber: 16,
+                lineNumber: 17,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48310,7 +48384,7 @@ const PublicationsDesktop = ()=>{
                                 children: "Publications"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 25,
+                                lineNumber: 26,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48320,7 +48394,7 @@ const PublicationsDesktop = ()=>{
                                         className: "article-icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 28,
+                                        lineNumber: 29,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48332,18 +48406,18 @@ const PublicationsDesktop = ()=>{
                                             children: "Facilitating Effective Co-design in Library Settings"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 34,
+                                            lineNumber: 35,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 29,
+                                        lineNumber: 30,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 27,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48353,7 +48427,7 @@ const PublicationsDesktop = ()=>{
                                         className: "article-icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 41,
+                                        lineNumber: 42,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48365,18 +48439,18 @@ const PublicationsDesktop = ()=>{
                                             children: "Navigating an AI -Empowered Future"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 47,
+                                            lineNumber: 48,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 42,
+                                        lineNumber: 43,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 40,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48386,7 +48460,7 @@ const PublicationsDesktop = ()=>{
                                         className: "article-icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 52,
+                                        lineNumber: 53,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48398,18 +48472,18 @@ const PublicationsDesktop = ()=>{
                                             children: "Designing for Teen Mental Health: An exploration of the co-design of virtual reality in the public library setting"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 58,
+                                            lineNumber: 59,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 53,
+                                        lineNumber: 54,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 51,
+                                lineNumber: 52,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48419,7 +48493,7 @@ const PublicationsDesktop = ()=>{
                                         className: "article-icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 66,
+                                        lineNumber: 67,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48431,18 +48505,18 @@ const PublicationsDesktop = ()=>{
                                             children: "How I Learned to Stop Worrying and Love Youth AR Game Creation"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 72,
+                                            lineNumber: 73,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 67,
+                                        lineNumber: 68,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 65,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48452,7 +48526,7 @@ const PublicationsDesktop = ()=>{
                                         className: "article-icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 79,
+                                        lineNumber: 80,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48464,24 +48538,24 @@ const PublicationsDesktop = ()=>{
                                             children: "Enhancing Children's Voice with Media and Technology\xa0\xa0Interaction Design and Children"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 85,
+                                            lineNumber: 86,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 80,
+                                        lineNumber: 81,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 78,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 24,
+                        lineNumber: 25,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48492,7 +48566,7 @@ const PublicationsDesktop = ()=>{
                                 children: "Conferences"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 94,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48503,31 +48577,31 @@ const PublicationsDesktop = ()=>{
                                         "Presenter \u2022 Connected Learning Summit",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 99,
+                                            lineNumber: 100,
                                             columnNumber: 15
                                         }, undefined),
                                         "2022 \u2022 Outcomes of Caring about",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 101,
+                                            lineNumber: 102,
                                             columnNumber: 15
                                         }, undefined),
                                         "Teen Mental Health, Co-designing VR for",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 103,
+                                            lineNumber: 104,
                                             columnNumber: 15
                                         }, undefined),
                                         "Mental Health."
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 97,
+                                    lineNumber: 98,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 96,
+                                lineNumber: 97,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48538,31 +48612,31 @@ const PublicationsDesktop = ()=>{
                                         "Panelist \u2022 Educational applications of",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 111,
+                                            lineNumber: 112,
                                             columnNumber: 15
                                         }, undefined),
                                         "VR - XR Day 2021 - University of Washington,",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 113,
+                                            lineNumber: 114,
                                             columnNumber: 15
                                         }, undefined),
                                         "HumanCentered Design and",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 115,
+                                            lineNumber: 116,
                                             columnNumber: 15
                                         }, undefined),
                                         "Engineering"
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 109,
+                                    lineNumber: 110,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 108,
+                                lineNumber: 109,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48572,12 +48646,12 @@ const PublicationsDesktop = ()=>{
                                     children: "Panelist \u2022 AI and Libraries: A Discussion on the Future - ALA The Library Learning Experience"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 121,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 120,
+                                lineNumber: 121,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48588,31 +48662,31 @@ const PublicationsDesktop = ()=>{
                                         "Organizer \u2022 Enhancing Children\u2019s",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 130,
+                                            lineNumber: 131,
                                             columnNumber: 15
                                         }, undefined),
                                         "Voice with Media and Technology"
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 128,
+                                    lineNumber: 129,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 127,
+                                lineNumber: 128,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 93,
+                        lineNumber: 94,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                lineNumber: 23,
+                lineNumber: 24,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48628,12 +48702,12 @@ const PublicationsDesktop = ()=>{
                                     children: "Expertise"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 140,
+                                    lineNumber: 141,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 139,
+                                lineNumber: 140,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48644,7 +48718,7 @@ const PublicationsDesktop = ()=>{
                                         children: "Our Five Key Areas of Expertise"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 144,
+                                        lineNumber: 145,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48652,19 +48726,19 @@ const PublicationsDesktop = ()=>{
                                         children: "At JR, we specialize in five essential areas that empower communities through innovative learning solutions. Our multidisciplinary approach ensures that every project is tailored to meet the unique needs of diverse populations."
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 146,
+                                        lineNumber: 147,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 143,
+                                lineNumber: 144,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 138,
+                        lineNumber: 139,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48679,7 +48753,7 @@ const PublicationsDesktop = ()=>{
                                             className: "icon"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 158,
+                                            lineNumber: 159,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48687,7 +48761,7 @@ const PublicationsDesktop = ()=>{
                                             children: "Participatory Design to Enhance Communities Voice"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 159,
+                                            lineNumber: 160,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48695,13 +48769,13 @@ const PublicationsDesktop = ()=>{
                                             children: "We engage communities in the co-creation process to ensure that all voices are heard and valued."
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 163,
+                                            lineNumber: 164,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 157,
+                                    lineNumber: 158,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48711,7 +48785,7 @@ const PublicationsDesktop = ()=>{
                                             className: "icon"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 170,
+                                            lineNumber: 171,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48719,7 +48793,7 @@ const PublicationsDesktop = ()=>{
                                             children: "Innovative Learning Program Design"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 171,
+                                            lineNumber: 172,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48727,13 +48801,13 @@ const PublicationsDesktop = ()=>{
                                             children: "Our curricula are crafted to inspire and engage learners of all backgrounds."
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 175,
+                                            lineNumber: 176,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 169,
+                                    lineNumber: 170,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48743,7 +48817,7 @@ const PublicationsDesktop = ()=>{
                                             className: "icon"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 182,
+                                            lineNumber: 183,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48751,7 +48825,7 @@ const PublicationsDesktop = ()=>{
                                             children: "Empowering Professional Development for Teams"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 183,
+                                            lineNumber: 184,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48759,24 +48833,24 @@ const PublicationsDesktop = ()=>{
                                             children: "We provide hands-on training that equips educators and leaders with essential strategies for growth."
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 187,
+                                            lineNumber: 188,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 181,
+                                    lineNumber: 182,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                            lineNumber: 156,
+                            lineNumber: 157,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 155,
+                        lineNumber: 156,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48791,18 +48865,18 @@ const PublicationsDesktop = ()=>{
                             href: "https://knowledgequest.aasl.org/ai-and-this-moment-in-search-technology-history/"
                         }, void 0, false, {
                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                            lineNumber: 196,
+                            lineNumber: 197,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 195,
+                        lineNumber: 196,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                lineNumber: 137,
+                lineNumber: 138,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48817,12 +48891,12 @@ const PublicationsDesktop = ()=>{
                                 children: "Let's Transform Learning Together"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 212,
+                                lineNumber: 213,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                            lineNumber: 211,
+                            lineNumber: 212,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48833,7 +48907,7 @@ const PublicationsDesktop = ()=>{
                                     children: "Ready to elevate your educational initiatives? Contact JR today for a consultation and discover how we can co-create impactful learning experiences tailored to your community's needs."
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 216,
+                                    lineNumber: 217,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48850,35 +48924,35 @@ const PublicationsDesktop = ()=>{
                                             children: "Contact Us"
                                         }, void 0, false, {
                                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 230,
+                                            lineNumber: 231,
                                             columnNumber: 21
                                         }, void 0),
                                         href: "/contact-desktop"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 223,
+                                        lineNumber: 224,
                                         columnNumber: 13
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 222,
+                                    lineNumber: 223,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                            lineNumber: 215,
+                            lineNumber: 216,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                    lineNumber: 210,
+                    lineNumber: 211,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                lineNumber: 209,
+                lineNumber: 210,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48893,66 +48967,17 @@ const PublicationsDesktop = ()=>{
                                     className: "logo-instance"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                    lineNumber: 242,
+                                    lineNumber: 243,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 241,
+                                lineNumber: 242,
                                 columnNumber: 11
                             }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/about-desktop",
-                                            children: "About Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 247,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 246,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/services-desktop",
-                                            children: "Our Services"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 251,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 250,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/contact-desktop",
-                                            children: "Contact Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                            lineNumber: 255,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 254,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 245,
+                                lineNumber: 246,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48962,26 +48987,26 @@ const PublicationsDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 262,
+                                        lineNumber: 249,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 263,
+                                        lineNumber: 250,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 261,
+                                lineNumber: 248,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 240,
+                        lineNumber: 241,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48991,7 +49016,7 @@ const PublicationsDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 268,
+                                lineNumber: 255,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49002,7 +49027,7 @@ const PublicationsDesktop = ()=>{
                                         children: "\xa9 2025"
                                     }, void 0, false, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 271,
+                                        lineNumber: 258,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49013,7 +49038,7 @@ const PublicationsDesktop = ()=>{
                                                 children: "Privacy Policy"
                                             }, void 0, false, {
                                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                                lineNumber: 276,
+                                                lineNumber: 263,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49021,7 +49046,7 @@ const PublicationsDesktop = ()=>{
                                                 children: "Terms of Service"
                                             }, void 0, false, {
                                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                                lineNumber: 278,
+                                                lineNumber: 265,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49029,37 +49054,37 @@ const PublicationsDesktop = ()=>{
                                                 children: "Cookie Settings"
                                             }, void 0, false, {
                                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                                lineNumber: 280,
+                                                lineNumber: 267,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                        lineNumber: 275,
+                                        lineNumber: 262,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                                lineNumber: 270,
+                                lineNumber: 257,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                        lineNumber: 267,
+                        lineNumber: 254,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-                lineNumber: 239,
+                lineNumber: 240,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/PublicationsDesktop/PublicationsDesktop.jsx",
-        lineNumber: 15,
+        lineNumber: 16,
         columnNumber: 5
     }, undefined);
 };
@@ -49072,7 +49097,7 @@ $RefreshReg$(_c, "PublicationsDesktop");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/Icon2":"2mj7d","../../icons/IconLinkExternal":"cxu1Y","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","./style.css":"4uS4o","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe"}],"2mj7d":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/NavbarJr":"li05W","../../icons/Icon2":"2mj7d","../../icons/IconLinkExternal":"cxu1Y","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","./style.css":"4uS4o","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"9xmpe","../../components/FooterLinks/FooterLinks":"b3ooA"}],"2mj7d":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Icon2", ()=>(0, _icon2.Icon2));

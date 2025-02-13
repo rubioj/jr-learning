@@ -8,6 +8,7 @@ import gardenVRVideo from "../../../static/img/GardenVR.mp4";
 import { CompanyLogo } from "../../icons/CompanyLogo";
 import { IconLinkedin } from "../../icons/IconLinkedin";
 import { Link } from "react-router-dom";
+import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 
 export const AboutDesktop = () => {
   return (
@@ -539,20 +540,7 @@ export const AboutDesktop = () => {
             <CompanyLogo className="company-logo" />
           </div>
 
-          <div className="links">
-            <div className="text-wrapper-8">
-              <Link to="/about-desktop">About Us</Link>
-            </div>
-
-            <div className="text-wrapper-8">
-              <Link to="/services-desktop">Our Services</Link>
-            </div>
-
-            <div className="text-wrapper-8">
-              <Link to="/contact-desktop">Contact Us</Link>
-            </div>
-
-          </div>
+          <FooterLinks />
 
           <div className="social-links">
             <a href="https://www.linkedin.com/in/rubioj" target="_blank" rel="noopener noreferrer">

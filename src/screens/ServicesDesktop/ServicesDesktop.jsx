@@ -8,6 +8,7 @@ import { IconYoutube1 } from "../../icons/IconYoutube1";
 import "./style.css";
 import BuildLearnPlayVideo from "../../../static/img/Build-Learn-Play.mp4";
 import { Link } from "react-router-dom";
+import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 
 export const ServicesDesktop = () => {
   return (
@@ -601,21 +602,7 @@ export const ServicesDesktop = () => {
             <ColorDark1 className="color-dark" />
           </div>
 
-          <div className="links">
-            <div className="text-wrapper-8">
-              <Link to="/about-desktop">About Us</Link>
-            </div>
-
-            <div className="text-wrapper-8">
-              <Link to="/services-desktop">Our Services</Link>
-            </div>
-
-            <div className="text-wrapper-8">
-              <Link to="/contact-desktop">Contact Us</Link>
-            </div>
-
-            
-          </div>
+          <FooterLinks />
 
           <div className="social-links">
             

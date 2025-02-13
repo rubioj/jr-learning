@@ -1,10 +1,10 @@
 .navbar-JR {
-  align-items: flex-end;
+  align-items: center;
   background-color: var(--semantic-background-color-primary);
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   height: 112px;
-  justify-content: center;
+  justify-content: space-between;
   padding: 0px 63px 0px 64px;
   position: relative;
   width: 1768px;
@@ -36,4 +36,21 @@
   height: 24px !important;
   position: relative !important;
   width: 24px !important;
+}
+
+.navbar-JR .company-name {
+  font-family: var(--heading-desktop-h3-font-family);
+  font-size: var(--heading-desktop-h3-font-size);
+  font-style: var(--heading-desktop-h3-font-style);
+  font-weight: var(--heading-desktop-h3-font-weight);
+  letter-spacing: var(--heading-desktop-h3-letter-spacing);
+  line-height: var(--heading-desktop-h3-line-height);
+  display: block;
+  margin-top: 0;
+  color: var(--primitive-color-brand-parsley);
+  text-decoration: none;
+}
+
+.navbar-JR .company-name:hover {
+  color: var(--primitive-color-brand-carrot);
 }

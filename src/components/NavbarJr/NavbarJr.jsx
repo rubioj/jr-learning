@@ -4,6 +4,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 */
 
 import React from "react";
+import { Link } from "react-router-dom";
 import { IconRelume2 } from "../../icons/IconRelume2";
 import { Hover } from "../Hover";
 import { HoverAbout } from "../HoverAbout";
@@ -18,6 +19,9 @@ export const NavbarJr = ({
 }) => {
   return (
     <div className={`navbar-JR ${className}`}>
+      <Link to="/home-desktop" className="company-name">
+        JR Learning Labs
+      </Link>
       <div className="menu">
         <Hover
           className="design-component-instance-node"

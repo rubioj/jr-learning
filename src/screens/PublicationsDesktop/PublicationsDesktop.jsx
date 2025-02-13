@@ -9,6 +9,7 @@ import { Logo } from "../../icons/Logo";
 import { XIcon } from "../../icons/XIcon";
 import { YoutubeIcon } from "../../icons/YoutubeIcon";
 import "./style.css";
+import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 
 export const PublicationsDesktop = () => {
   return (
@@ -242,21 +243,7 @@ export const PublicationsDesktop = () => {
             <Logo className="logo-instance" />
           </div>
 
-          <div className="links">
-            <div className="text-wrapper-4">
-              <Link to="/about-desktop">About Us</Link>
-            </div>
-
-            <div className="text-wrapper-4">
-              <Link to="/services-desktop">Our Services</Link>
-            </div>
-
-            <div className="text-wrapper-4">
-              <Link to="/contact-desktop">Contact Us</Link>
-            </div>
-
-            
-          </div>
+          <FooterLinks />
 
           <div className="social-links">
             <LinkedinIcon className="icon-instance-node" />

@@ -13,7 +13,7 @@ import { YoutubeIcon } from "../../icons/YoutubeIcon";
 import "./style.css";
 import emailjs from '@emailjs/browser';
 import { useLocation } from "react-router-dom";
-
+import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 // Initialize EmailJS
 emailjs.init("1yjV981FEw1IgxTNn");
 
@@ -217,17 +217,8 @@ export const ContactDesktop = () => {
             <Logo className="logo-instance" />
           </div>
 
-          <div className="links">
-            <div className="text-wrapper-9">About Us</div>
-
-            <div className="text-wrapper-9">Our Services</div>
-
-            <div className="text-wrapper-9">Contact Us</div>
-
-            <div className="text-wrapper-9">Blog Posts</div>
-
-            <div className="text-wrapper-9">FAQs</div>
-          </div>
+          <FooterLinks />
+          
 
           <div className="social-links">
             <IconFacebook className="icon-instance-node" />

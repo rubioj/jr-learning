@@ -1,5 +1,6 @@
 import React from "react";
 import { Icon4 } from "../../icons/Icon4";
+import { IconRelume9 } from "../../icons/IconRelume9";
 import { IconFacebook } from "../../icons/IconFacebook";
 import { IconInstagram } from "../../icons/IconInstagram";
 import { IconLinkedin } from "../../icons/IconLinkedin";
@@ -10,7 +11,7 @@ import { YoutubeIcon } from "../../icons/YoutubeIcon";
 import "./style.css";
 import { Link } from "react-router-dom";
 import gardenVRVideo from "../../../static/img/Build-Learn-Play.mp4";
-import { IconRelume9 } from "../../icons/IconRelume9";
+import { Button } from "../../components/Button";
 
 export const ServicesMobile = () => {
   return (
@@ -45,37 +46,127 @@ export const ServicesMobile = () => {
         </div>
       </div>
 
-      <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="text-wrapper-3">Our Current Courses</p>
+      <div className="container-wrapper">
+        <div className="div-5">
+          <div className="div-3">
+            <IconRelume9 className="icon" />
+            <p className="heading-courses">
+            Co-Designing for Adults: Strategies to Create your own co-design workshop
+            </p>
 
-              <p className="text-wrapper-3 ">
-              Co-Designing for Adults: Strategies to Create your own co-design workshop          </p>
+            <p className="text">
+            A practical guide to co-design methods that equips educators and leaders 
+            with tools for creating community-driven innovation workshops.
+            </p>
+            
+            <Button
+            alternate={false}
+            className="inquire-courses"
+            iconPosition="no-icon"
+            small={true}
+            style="secondary"
+            text={
+              <Link 
+                to="/contact-mobile" 
+                className="inquire-link-text"
+                state={{ 
+                  prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                }}
+              >
+                Inquire 
+              </Link>
+            }
+          />
+          </div>
 
-              <p className="text">
-              A practical guide to co-design methods that equips educators 
-              and leaders with tools for creating community-driven innovation workshops.
+          <div className="div-3">
+            <IconRelume9 className="icon" />
+            <p className="heading-courses">
+            AI for Creatives: Unleash Your Imagination with AI
+            </p>
+
+            <p className="text">
+            A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling.*
               </p>
+          </div>
 
-              <p className="text-wrapper-3">
-              AI Foundations: Understanding the Basics
-              </p>
+          <Button
+            alternate={false}
+            className="inquire-courses"
+            iconPosition="no-icon"
+            small={true}
+            style="secondary"
+            text={
+              <Link 
+                to="/contact-mobile" 
+                className="inquire-link-text"
+                state={{ 
+                  prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                }}
+              >
+                Inquire 
+              </Link>
+            }
+          />
+          <div className="div-3">
+            <IconRelume9 className="icon" />
+            <p className="heading-courses">
+            AI Foundations: Understanding the Basics
+            </p>
 
-              <p className="text">
-              An accessible introduction to 
-              AI concepts, ethics, and real-world applications 
-              for learners of all backgrounds.
-              </p>
+            <p className="text">
+            An accessible introduction to AI concepts, ethics, and real-world applications for learners of all backgrounds.
+            </p>
+            <Button
+            alternate={false}
+            className="inquire-courses"
+            iconPosition="no-icon"
+            small={true}
+            style="secondary"
+            text={
+              <Link 
+                to="/contact-mobile" 
+                className="inquire-link-text"
+                state={{ 
+                  prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                }}
+              >
+                Inquire 
+              </Link>
+            }
+          />
+          </div>
 
-              <p className="text-wrapper-3">
-              AI for Creatives: Unleash Your Imagination with AI
-              </p>
+          <div className="div-3">
+            <IconRelume9 className="icon" />
+            <p className="heading-courses ">
+            Games-Based Learning: Designing & Facilitating Playful Learning Experiences
+            </p>
 
-              <p className="text">
-              A hands-on exploration of AI-powered tools that amplify creativity 
-              in art, design, and storytelling.
-              </p>
+            <p className="text">
+            Learn how to design and facilitate games-based learning workshops, explore the essential components of a game, and use simple software to create a prototype.
+            </p>
+            <Button
+            alternate={false}
+            className="inquire-courses"
+            iconPosition="no-icon"
+            small={true}
+            style="secondary"
+            text={
+              <Link 
+                to="/contact-mobile" 
+                className="inquire-link-text"
+                state={{ 
+                  prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
+                }}
+              >
+                Inquire 
+              </Link>
+            }
+          />
+          </div>
 
+        </div>
       </div>
 
       <div className="container-wrapper">
