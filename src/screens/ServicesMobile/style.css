@@ -283,6 +283,53 @@
   position: relative;
 }
 
+.services-mobile .actions-courses {
+  all: unset;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  color: var(--semantic-text-primary);
+}
+
+.services-mobile .inquire-courses {
+  background-color: var(--semantic-background-color-primary);
+  border: 1px solid;
+  border-color: var(--semantic-border-primary);
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  padding: 4px 16px;
+  min-width: 100px;
+  text-align: center;
+}
+
+.services-mobile .inquire-courses .text-wrapper-2 {
+  all: unset;
+}
+
+.services-mobile .inquire-courses .inquire-link-text {
+  color: var(--primitive-color-brand-espresso) !important;
+  font-family: var(--text-medium-light-font-family) !important;
+  font-size: var(--text-medium-light-font-size) !important;
+  font-style: var(--text-medium-light-font-style) !important;
+  font-weight: var(--text-medium-light-font-weight) !important;
+  letter-spacing: var(--text-medium-light-letter-spacing) !important;
+  line-height: var(--text-medium-light-line-height) !important;
+  text-decoration: none !important;
+}
+
 .services-mobile .div-wrapper {
   all: unset;
   align-items: center;
@@ -344,6 +391,17 @@
   width: 48px !important;
 }
 
+.services-mobile .heading-courses {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-style: var(--heading-mobile-h5-font-style);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  letter-spacing: var(--heading-mobile-h5-letter-spacing);
+  line-height: var(--heading-mobile-h5-line-height);
+  position: relative;
+  margin-top: -1.00px;
+  color: var(--primitive-color-brand-parsley);
+}
 .services-mobile .heading {
   align-self: stretch;
   color: var(--semantic-text-primary);
@@ -664,4 +722,15 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
+}
+
+.inquire-link-text {
+  color: var(--primitive-color-brand-espresso);
+  font-family: var(--text-medium-light-font-family);
+  font-size: var(--text-medium-light-font-size);
+  font-style: var(--text-medium-light-font-style);
+  font-weight: var(--text-medium-light-font-weight);
+  letter-spacing: var(--text-medium-light-letter-spacing);
+  line-height: var(--text-medium-light-line-height);
+  text-decoration: none;
 }

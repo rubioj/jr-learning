@@ -1,7 +1,7 @@
 {
   "name": "jr-services",
   "version": "1.0.0",
-  "description": "A project by Juan Rubio",
+  "description": "Learning Services",
   "source": "./index.html",
   "type": "module",
   "scripts": {
