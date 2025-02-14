@@ -34,7 +34,7 @@ export const HomeDesktop = () => {
               <span className="text-wrapper-4"></span>
 
               <span className="text-wrapper-company-name">
-                JR Learning Labs: Leaders in Technology and AI-Based Learning
+               Leaders in Technology and AI-Based Learning
               </span>
               
               <span className="text-wrapper-6">
