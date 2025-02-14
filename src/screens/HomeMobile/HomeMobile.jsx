@@ -37,7 +37,7 @@ export const HomeMobile = () => {
 
           <div className="div">
           <span className="text-wrapper-company-name">
-                JR Learning Labs: Leaders in Technology and AI-Based Learning
+              Leaders in Technology and AI-Based Learning
               </span>
             <p className="heading-1">
             a collaborative space that creates transformative learning

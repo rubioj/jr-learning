@@ -38020,7 +38020,7 @@ const HomeMobile = ()=>{
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         className: "text-wrapper-company-name",
-                                        children: "JR Learning Labs: Leaders in Technology and AI-Based Learning"
+                                        children: "Leaders in Technology and AI-Based Learning"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
                                         lineNumber: 39,
@@ -47825,20 +47825,14 @@ const MenuWithX = ({ iconMenuClassName, divClassName, onMenuClick })=>{
                     lineNumber: 13,
                     columnNumber: 9
                 }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                     className: "masthead",
-                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: `text-wrapper ${divClassName}`,
-                        children: "Collective Design for Social Impact"
-                    }, void 0, false, {
-                        fileName: "src/components/MenuWithX/MenuWithX.jsx",
-                        lineNumber: 21,
-                        columnNumber: 11
-                    }, undefined)
+                    alt: "Masthead",
+                    src: "/img/masthead.svg"
                 }, void 0, false, {
                     fileName: "src/components/MenuWithX/MenuWithX.jsx",
-                    lineNumber: 20,
-                    columnNumber: 9
+                    lineNumber: 19,
+                    columnNumber: 2
                 }, undefined)
             ]
         }, void 0, true, {

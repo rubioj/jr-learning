@@ -16,12 +16,8 @@ export const MenuWithX = ({ iconMenuClassName, divClassName, onMenuClick }) => {
           role="button"
           tabIndex={0}
         />
-
-        <div className="masthead">
-          <p className={`text-wrapper ${divClassName}`}>
-            Collective Design for Social Impact
-          </p>
-        </div>
+ <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+        
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 .menu-mobile {
   align-items: center;
-  background-color: var(--semantic-background-color-primary);
+  background-color: var(--semantic-background-color-secondary);
   display: flex;
   flex-direction: column;
   gap: 56px;
