@@ -35046,7 +35046,7 @@ const HomeDesktop = ()=>{
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                         className: "text-wrapper-company-name",
-                                        children: "JR Learning Labs: Leaders in Technology and AI-Based Learning"
+                                        children: "Leaders in Technology and AI-Based Learning"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
                                         lineNumber: 36,
