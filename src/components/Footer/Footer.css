@@ -1,0 +1,64 @@
+/* Copy the footer-related styles from your existing CSS file */
+.footer {
+    align-items: center;
+    background-color: var(--semantic-background-color-primary);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 48px;
+    padding: 48px 20px;
+    position: relative;
+    width: 393px;
+}
+
+.content-5 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 48px;
+    position: relative;
+    width: 100%;    
+}
+
+.credits {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    padding: 0px 0px 16px;
+    position: relative;
+    width: 100%;
+  }
+
+  .divider {
+    align-self: stretch;
+    background-color: var(--semantic-border-primary);
+    border: 1px solid;
+    border-color: var(--semantic-border-primary);
+    height: 1px;
+    position: relative;
+    width: 100%;
+  }
+
+  .row-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .logo-footer {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+  }
+  
+/* Add all other footer-related styles */ 

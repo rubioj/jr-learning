@@ -12,6 +12,7 @@ import "./style.css";
 import { Link } from "react-router-dom";
 import gardenVRVideo from "../../../static/img/Build-Learn-Play.mp4";
 import { Button } from "../../components/Button";
+import { Footer } from "../../components/Footer/Footer";
 
 export const ServicesMobile = () => {
   return (
@@ -540,51 +541,11 @@ export const ServicesMobile = () => {
         </div>
       </div>
 
-      <div className="footer">
-        <div className="content">
-          <div className="div-7">
-            <Logo className="logo-instance" />
+      <Footer />
+          
           </div>
-
-          <div className="div-7">
-            <div className="link-one">About Us</div>
-
-            <div className="text-wrapper-6">Our Services</div>
-
-            <div className="text-wrapper-6">Contact Us</div>
-
-            <div className="text-wrapper-6">Blog Posts</div>
-
-            <div className="text-wrapper-6">FAQs</div>
-          </div>
-
-          <div className="social-links">
-            <IconFacebook className="icon-instance-node" />
-            <IconInstagram className="icon-instance-node" />
-            <IconX className="icon-instance-node" />
-            <IconLinkedin className="icon-instance-node" />
-            <YoutubeIcon className="icon-instance-node" />
-          </div>
-        </div>
-
-        <div className="credits">
-          <div className="divider" />
-
-          <div className="row">
-            <div className="footer-links">
-              <div className="text-wrapper-7">Privacy Policy</div>
-
-              <div className="text-wrapper-8">Terms of Service</div>
-
-              <div className="text-wrapper-8">Cookie Settings</div>
-            </div>
-
-            <p className="element-relume-all">
-              © 2024 JR. All rights reserved.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
+        
+    
+    
   );
 };

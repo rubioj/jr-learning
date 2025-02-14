@@ -35108,113 +35108,59 @@ const HomeDesktop = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "carousel",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.uw.edu/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "logo-UW",
-                            alt: "Logo UW",
-                            src: "/img/logo-uw-1.png"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 60,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "logo-UW",
+                        alt: "Logo UW",
+                        src: "/img/logo-uw-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 59,
-                        columnNumber: 11
+                        lineNumber: 60,
+                        columnNumber: 13
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.tfiny.org/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "image",
-                            alt: "Image",
-                            src: "/img/image-1.png"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 64,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "image",
+                        alt: "Image",
+                        src: "/img/image-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
                         lineNumber: 63,
-                        columnNumber: 11
+                        columnNumber: 13
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.unc.edu/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "UNC",
-                            alt: "Unc",
-                            src: "/img/unc.svg"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 68,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "UNC",
+                        alt: "Unc",
+                        src: "/img/unc.svg"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
                         lineNumber: 67,
-                        columnNumber: 11
+                        columnNumber: 13
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.spl.org/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "logo-SPL",
-                            alt: "Logo SPL",
-                            src: "/img/logo-spl-1.png"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 72,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "logo-SPL",
+                        alt: "Logo SPL",
+                        src: "/img/logo-spl-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
                         lineNumber: 71,
-                        columnNumber: 11
+                        columnNumber: 13
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.cla-net.org/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "logo-CSLA",
-                            alt: "Logo CSLA",
-                            src: "/img/logo-csla-1.png"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 76,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "logo-CSLA",
+                        alt: "Logo CSLA",
+                        src: "/img/logo-csla-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
                         lineNumber: 75,
-                        columnNumber: 11
+                        columnNumber: 13
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.frontandcentered.org/",
-                        target: "_self",
-                        rel: "noopener noreferrer",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            className: "FC-logo-black-text",
-                            alt: "Fc logo black text",
-                            src: "/img/fc-logo-black-text-1.png"
-                        }, void 0, false, {
-                            fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 84,
-                            columnNumber: 13
-                        }, undefined)
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "FC-logo-black-text",
+                        alt: "Fc logo black text",
+                        src: "/img/fc-logo-black-text-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 83,
-                        columnNumber: 11
+                        lineNumber: 79,
+                        columnNumber: 13
                     }, undefined)
                 ]
             }, void 0, true, {
@@ -35230,12 +35176,12 @@ const HomeDesktop = ()=>{
                     src: "/img/skater-image.png"
                 }, void 0, false, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 94,
+                    lineNumber: 85,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 93,
+                lineNumber: 84,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35268,12 +35214,12 @@ const HomeDesktop = ()=>{
                                                         children: "Design"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 112,
+                                                        lineNumber: 103,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 111,
+                                                    lineNumber: 102,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35284,7 +35230,7 @@ const HomeDesktop = ()=>{
                                                             children: "Virtual Reality for Teen Mental Health"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                            lineNumber: 116,
+                                                            lineNumber: 107,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35292,19 +35238,19 @@ const HomeDesktop = ()=>{
                                                             children: "JR specializes in co-creating virtual reality tools aimed at addressing mental health challenges. These innovative solutions engage and support diverse communities. Collaborating with adults, undergraduate interns, and teens, JR leads the process from securing funding to guiding design efforts with libraries nationwide. This particular initiative enables teens to create their own responses to mental health needs through the development of custom virtual reality games."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                            lineNumber: 120,
+                                                            lineNumber: 111,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 115,
+                                                    lineNumber: 106,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 110,
+                                            lineNumber: 101,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35319,7 +35265,7 @@ const HomeDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 136,
+                                                                lineNumber: 127,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35327,7 +35273,7 @@ const HomeDesktop = ()=>{
                                                                 children: "Community Focused"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 137,
+                                                                lineNumber: 128,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35335,13 +35281,13 @@ const HomeDesktop = ()=>{
                                                                 children: "We prioritize the voices and needs of the communities we serve."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 139,
+                                                                lineNumber: 130,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 135,
+                                                        lineNumber: 126,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35351,7 +35297,7 @@ const HomeDesktop = ()=>{
                                                                 className: "icon-relume-10"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 146,
+                                                                lineNumber: 137,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35359,7 +35305,7 @@ const HomeDesktop = ()=>{
                                                                 children: "Collaborative Design"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 147,
+                                                                lineNumber: 138,
                                                                 columnNumber: 21
                                                             }, undefined),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35367,30 +35313,30 @@ const HomeDesktop = ()=>{
                                                                 children: "Our process involves community members in every step of the design journey."
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                                lineNumber: 149,
+                                                                lineNumber: 140,
                                                                 columnNumber: 21
                                                             }, undefined)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                        lineNumber: 145,
+                                                        lineNumber: 136,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                lineNumber: 134,
+                                                lineNumber: 125,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 133,
+                                            lineNumber: 124,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 109,
+                                    lineNumber: 100,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35407,18 +35353,18 @@ const HomeDesktop = ()=>{
                                         text: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 159,
+                                        lineNumber: 150,
                                         columnNumber: 13
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 158,
+                                    lineNumber: 149,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 108,
+                            lineNumber: 99,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35451,45 +35397,45 @@ const HomeDesktop = ()=>{
                                                     type: "video/mp4"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                                    lineNumber: 192,
+                                                    lineNumber: 183,
                                                     columnNumber: 21
                                                 }, undefined),
                                                 "Your browser does not support the video tag."
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 177,
+                                            lineNumber: 168,
                                             columnNumber: 19
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 176,
+                                        lineNumber: 167,
                                         columnNumber: 17
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 175,
+                                    lineNumber: 166,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 174,
+                                lineNumber: 165,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 173,
+                            lineNumber: 164,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 102,
+                    lineNumber: 93,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 101,
+                lineNumber: 92,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35507,7 +35453,7 @@ const HomeDesktop = ()=>{
                                         children: "Empowering Learning with AI: A Specialized GPT for Library Summer Services"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 206,
+                                        lineNumber: 197,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35517,12 +35463,12 @@ const HomeDesktop = ()=>{
                                             children: "Leveraging data from the BEBS project, JR developed a specialized GPT designed to support both beginners and experts in understanding the principles, elements, and concepts of an innovative framework for summer services in libraries. This process involved comprehensive data analysis, preparation, and the synthesis of complex ideas into accessible learning materials. To enhance usability, a dynamic concept map was created, offering a visual guide to the framework's structure and key relationships. By transforming intricate concepts into clear, actionable instructions, this AI-powered tool provides libraries and learners with a powerful resource to support community-driven summer programming."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 215,
+                                            lineNumber: 206,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 211,
+                                        lineNumber: 202,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -35536,18 +35482,18 @@ const HomeDesktop = ()=>{
                                         text: "Try it out"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 231,
+                                        lineNumber: 222,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 205,
+                                lineNumber: 196,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 204,
+                            lineNumber: 195,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35558,23 +35504,23 @@ const HomeDesktop = ()=>{
                                 src: "/img/bebs-concept-map-1.png"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 245,
+                                lineNumber: 236,
                                 columnNumber: 11
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 244,
+                            lineNumber: 235,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 203,
+                    lineNumber: 194,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 202,
+                lineNumber: 193,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35593,7 +35539,7 @@ const HomeDesktop = ()=>{
                                             children: "Building a Supportive Framework for Teen Mental Health"
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 258,
+                                            lineNumber: 249,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35601,13 +35547,13 @@ const HomeDesktop = ()=>{
                                             children: "Collaborating with seven libraries nationwide, JR spearheaded the development of a comprehensive framework to promote teen mental health. The Nourishing Minds project utilized participatory design principles, ensuring that the voices of teens, library staff, undergraduate and graduate interns, university professors, and design experts were at the heart of the process. This collaborative approach fostered an inclusive, community-driven effort to create resources and initiatives that address the unique mental health needs of teens in library spaces. By prioritizing co-creation and shared perspectives, the project established a sustainable model for mental wellness support in educational and community environments."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                            lineNumber: 262,
+                                            lineNumber: 253,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 257,
+                                    lineNumber: 248,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -35621,13 +35567,13 @@ const HomeDesktop = ()=>{
                                     text: "Learn More"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 278,
+                                    lineNumber: 269,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 256,
+                            lineNumber: 247,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35638,23 +35584,23 @@ const HomeDesktop = ()=>{
                                 src: "/img/nourishing-minds.png"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 291,
+                                lineNumber: 282,
                                 columnNumber: 11
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 290,
+                            lineNumber: 281,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 255,
+                    lineNumber: 246,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 254,
+                lineNumber: 245,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35672,7 +35618,7 @@ const HomeDesktop = ()=>{
                                         children: "Let's Collaborate for Change"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 304,
+                                        lineNumber: 295,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -35680,18 +35626,18 @@ const HomeDesktop = ()=>{
                                         children: "Reach out to explore partnership opportunities today!"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 306,
+                                        lineNumber: 297,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 303,
+                                lineNumber: 294,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 302,
+                            lineNumber: 293,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35707,23 +35653,23 @@ const HomeDesktop = ()=>{
                                 href: "/contact-desktop"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 313,
+                                lineNumber: 304,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 312,
+                            lineNumber: 303,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 301,
+                    lineNumber: 292,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 300,
+                lineNumber: 291,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35738,12 +35684,12 @@ const HomeDesktop = ()=>{
                                 children: "Discover the Journey of JR: Innovator in Technology-Driven Learning and Design"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 330,
+                                lineNumber: 321,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 329,
+                            lineNumber: 320,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35753,23 +35699,23 @@ const HomeDesktop = ()=>{
                                 children: "JR's professional journey is marked by a commitment to blending technology with education. As an award-winning instructional designer, JR has collaborated with prestigious organizations like the Tribeca Film Institute and the University of Washington, creating impactful learning experiences. With a focus on community empowerment, JR's work has transformed the educational landscape for diverse populations."
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 337,
+                                lineNumber: 328,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                            lineNumber: 336,
+                            lineNumber: 327,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                    lineNumber: 328,
+                    lineNumber: 319,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 327,
+                lineNumber: 318,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35784,17 +35730,17 @@ const HomeDesktop = ()=>{
                                     className: "company-logo"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 353,
+                                    lineNumber: 344,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 352,
+                                lineNumber: 343,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 356,
+                                lineNumber: 347,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35807,23 +35753,23 @@ const HomeDesktop = ()=>{
                                         className: "icon-instance-node"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 360,
+                                        lineNumber: 351,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                    lineNumber: 359,
+                                    lineNumber: 350,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 358,
+                                lineNumber: 349,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 351,
+                        lineNumber: 342,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35833,7 +35779,7 @@ const HomeDesktop = ()=>{
                                 className: "divider"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 366,
+                                lineNumber: 357,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35844,7 +35790,7 @@ const HomeDesktop = ()=>{
                                         children: "\xa9 2025"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 369,
+                                        lineNumber: 360,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35852,7 +35798,7 @@ const HomeDesktop = ()=>{
                                         children: "Privacy Policy"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 371,
+                                        lineNumber: 362,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35860,25 +35806,25 @@ const HomeDesktop = ()=>{
                                         children: "Terms of Service"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                        lineNumber: 373,
+                                        lineNumber: 364,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                                lineNumber: 368,
+                                lineNumber: 359,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                        lineNumber: 365,
+                        lineNumber: 356,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/HomeDesktop/HomeDesktop.jsx",
-                lineNumber: 350,
+                lineNumber: 341,
                 columnNumber: 7
             }, undefined)
         ]
@@ -37937,16 +37883,12 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _reactRouterDom = require("react-router-dom");
 var _button = require("../../components/Button");
-var _iconFacebook = require("../../icons/IconFacebook");
-var _iconInstagram = require("../../icons/IconInstagram");
-var _iconLinkedin = require("../../icons/IconLinkedin");
 var _iconMenu = require("../../icons/IconMenu");
-var _iconX = require("../../icons/IconX");
-var _iconYoutube = require("../../icons/IconYoutube");
 var _logo = require("../../icons/Logo");
 var _styleCss = require("./style.css");
 var _gardenVRMp4 = require("../../../static/img/GardenVR.mp4");
 var _gardenVRMp4Default = parcelHelpers.interopDefault(_gardenVRMp4);
+var _footer = require("../../components/Footer/Footer");
 const HomeMobile = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "home-mobile",
@@ -37966,12 +37908,12 @@ const HomeMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 20,
+                                lineNumber: 16,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 19,
+                            lineNumber: 15,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37980,18 +37922,18 @@ const HomeMobile = ()=>{
                             src: "/img/masthead.svg"
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 26,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 18,
+                    lineNumber: 14,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 17,
+                lineNumber: 13,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38007,12 +37949,12 @@ const HomeMobile = ()=>{
                                     children: "Creative Design for Social Impact"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 33,
+                                    lineNumber: 29,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 32,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38023,7 +37965,7 @@ const HomeMobile = ()=>{
                                         children: "Leaders in Technology and AI-Based Learning"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 39,
+                                        lineNumber: 35,
                                         columnNumber: 11
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38031,7 +37973,7 @@ const HomeMobile = ()=>{
                                         children: "a collaborative space that creates transformative learning experiences powered by technology and artificial intelligence. We facilitate growth, inclusion, and lifelong learning to build stronger communities."
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 42,
+                                        lineNumber: 38,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38047,24 +37989,24 @@ const HomeMobile = ()=>{
                                             href: "/contact-mobile"
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 50,
+                                            lineNumber: 46,
                                             columnNumber: 13
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 49,
+                                        lineNumber: 45,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 38,
+                                lineNumber: 34,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                        lineNumber: 31,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -38073,13 +38015,13 @@ const HomeMobile = ()=>{
                         src: "/img/skater.png"
                     }, void 0, false, {
                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                        lineNumber: 64,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 30,
+                lineNumber: 26,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38100,12 +38042,12 @@ const HomeMobile = ()=>{
                                                 children: "Projects"
                                             }, void 0, false, {
                                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                lineNumber: 72,
+                                                lineNumber: 68,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 71,
+                                            lineNumber: 67,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38116,7 +38058,7 @@ const HomeMobile = ()=>{
                                                     children: "Virtual Reality for Mental Health"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 76,
+                                                    lineNumber: 72,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38124,19 +38066,19 @@ const HomeMobile = ()=>{
                                                     children: "JR specializes in creating impactful learning experiences that leverage technology and community collaboration. With a focus on inclusivity and empowerment, JR's approach transforms educational landscapes for diverse audiences."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 74,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 75,
+                                            lineNumber: 71,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 70,
+                                    lineNumber: 66,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38158,18 +38100,18 @@ const HomeMobile = ()=>{
                                         children: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 88,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 87,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 69,
+                            lineNumber: 65,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("video", {
@@ -38195,25 +38137,25 @@ const HomeMobile = ()=>{
                                     type: "video/mp4"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 126,
+                                    lineNumber: 122,
                                     columnNumber: 15
                                 }, undefined),
                                 "Your browser does not support the video tag."
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 108,
+                            lineNumber: 104,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 68,
+                    lineNumber: 64,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 67,
+                lineNumber: 63,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38232,7 +38174,7 @@ const HomeMobile = ()=>{
                                             children: "Unlock the Power of Collaborative Learning with JR's Expertise"
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 136,
+                                            lineNumber: 132,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38240,13 +38182,13 @@ const HomeMobile = ()=>{
                                             children: "Partnering with JR means gaining access to innovative educational solutions tailored to your community's unique needs. Experience transformative learning that empowers individuals and fosters growth."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 141,
+                                            lineNumber: 137,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 135,
+                                    lineNumber: 131,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38260,7 +38202,7 @@ const HomeMobile = ()=>{
                                                     children: "Empower Communities"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 151,
+                                                    lineNumber: 147,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38268,13 +38210,13 @@ const HomeMobile = ()=>{
                                                     children: "Leverage technology and design to amplify voices and inspire change in your community."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 153,
+                                                    lineNumber: 149,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 150,
+                                            lineNumber: 146,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38285,7 +38227,7 @@ const HomeMobile = ()=>{
                                                     children: "Innovative Solutions"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 156,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38293,25 +38235,25 @@ const HomeMobile = ()=>{
                                                     children: "Collaborative projects that drive social impact and enhance educational experiences for all."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 162,
+                                                    lineNumber: 158,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 159,
+                                            lineNumber: 155,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 149,
+                                    lineNumber: 145,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 134,
+                            lineNumber: 130,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -38320,7 +38262,7 @@ const HomeMobile = ()=>{
                             src: "/img/placeholder-image.png"
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 170,
+                            lineNumber: 166,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -38340,18 +38282,18 @@ const HomeMobile = ()=>{
                             children: "Learn More"
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 176,
+                            lineNumber: 172,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 133,
+                    lineNumber: 129,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 132,
+                lineNumber: 128,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38367,7 +38309,7 @@ const HomeMobile = ()=>{
                                     children: "Let's Collaborate for Change"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 199,
+                                    lineNumber: 195,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38375,13 +38317,13 @@ const HomeMobile = ()=>{
                                     children: "Reach out to explore partnership opportunities today!"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 201,
+                                    lineNumber: 197,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 198,
+                            lineNumber: 194,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38399,28 +38341,28 @@ const HomeMobile = ()=>{
                                     href: "/contact-mobile"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 208,
+                                    lineNumber: 204,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 207,
+                                lineNumber: 203,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 206,
+                            lineNumber: 202,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 197,
+                    lineNumber: 193,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 196,
+                lineNumber: 192,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38435,12 +38377,12 @@ const HomeMobile = ()=>{
                                 children: "Discover the Journey of JR: Innovator in Technology-Driven Learning and Design"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 226,
+                                lineNumber: 222,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 225,
+                            lineNumber: 221,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38450,204 +38392,34 @@ const HomeMobile = ()=>{
                                 children: "JR's professional journey is marked by a commitment to blending technology with education. As an award-winning instructional designer, JR has collaborated with prestigious organizations like the Tribeca Film Institute and the University of Washington, creating impactful learning experiences. With a focus on community empowerment, JR's work has transformed the educational landscape for diverse populations."
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 233,
+                                lineNumber: 229,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 232,
+                            lineNumber: 228,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 224,
+                    lineNumber: 220,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 223,
+                lineNumber: 219,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
-                className: "footer",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "content-2",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "div-3",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logo.Logo), {
-                                    className: "logo-instance"
-                                }, void 0, false, {
-                                    fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 249,
-                                    columnNumber: 13
-                                }, undefined)
-                            }, void 0, false, {
-                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 248,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "div-3",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/about-mobile",
-                                            children: "About Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 254,
-                                            columnNumber: 17
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 253,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/services-mobile",
-                                            children: "Our Services"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 258,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 257,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-4",
-                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                                            to: "/contact-mobile",
-                                            children: "Contact Us"
-                                        }, void 0, false, {
-                                            fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 262,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 261,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 252,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "social-links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconLinkedin.IconLinkedin), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 271,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconYoutube.IconYoutube), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 272,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 268,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                        lineNumber: 247,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "credits",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "divider"
-                            }, void 0, false, {
-                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 277,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "row",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "footer-links",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-5",
-                                                children: "Privacy Policy"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                lineNumber: 281,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-6",
-                                                children: "Terms of Service"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                lineNumber: 283,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-6",
-                                                children: "Cookie Settings"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                lineNumber: 285,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 280,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                        className: "element-relume-all",
-                                        children: "\xa9 2025 ."
-                                    }, void 0, false, {
-                                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 288,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 279,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                        lineNumber: 276,
-                        columnNumber: 9
-                    }, undefined)
-                ]
-            }, void 0, true, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 246,
-                columnNumber: 7
+                lineNumber: 242,
+                columnNumber: 11
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-        lineNumber: 16,
+        lineNumber: 12,
         columnNumber: 5
     }, undefined);
 };
@@ -38660,117 +38432,7 @@ $RefreshReg$(_c, "HomeMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Button":"bNbfl","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconX":"ecQ8C","../../icons/IconYoutube":"kSowd","../../icons/Logo":"cuRYp","./style.css":"ibamZ","../../../static/img/GardenVR.mp4":"2Olsh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8yst2":[function(require,module,exports,__globalThis) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconFacebook", ()=>(0, _iconFacebook.IconFacebook));
-var _iconFacebook = require("./IconFacebook");
-
-},{"./IconFacebook":"aQka0","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"aQka0":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$841d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$841d.prelude(module);
-
-try {
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconFacebook", ()=>IconFacebook);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const IconFacebook = ({ className })=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
-        className: `icon-facebook ${className}`,
-        fill: "none",
-        height: "24",
-        viewBox: "0 0 24 24",
-        width: "24",
-        xmlns: "http://www.w3.org/2000/svg",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
-            className: "path",
-            d: "M22 12.3038C22 6.74719 17.5229 2.24268 12 2.24268C6.47715 2.24268 2 6.74719 2 12.3038C2 17.3255 5.65684 21.4879 10.4375 22.2427V15.2121H7.89844V12.3038H10.4375V10.0872C10.4375 7.56564 11.9305 6.1728 14.2146 6.1728C15.3088 6.1728 16.4531 6.36931 16.4531 6.36931V8.84529H15.1922C13.95 8.84529 13.5625 9.6209 13.5625 10.4166V12.3038H16.3359L15.8926 15.2121H13.5625V22.2427C18.3432 21.4879 22 17.3257 22 12.3038Z",
-            fill: "#5C191C"
-        }, void 0, false, {
-            fileName: "src/icons/IconFacebook/IconFacebook.jsx",
-            lineNumber: 18,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/icons/IconFacebook/IconFacebook.jsx",
-        lineNumber: 10,
-        columnNumber: 5
-    }, undefined);
-};
-_c = IconFacebook;
-var _c;
-$RefreshReg$(_c, "IconFacebook");
-
-  $parcel$ReactRefreshHelpers$841d.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"64nqj":[function(require,module,exports,__globalThis) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconInstagram", ()=>(0, _iconInstagram.IconInstagram));
-var _iconInstagram = require("./IconInstagram");
-
-},{"./IconInstagram":"4ANbc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"4ANbc":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$3d47 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$3d47.prelude(module);
-
-try {
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconInstagram", ()=>IconInstagram);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const IconInstagram = ({ className })=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
-        className: `icon-instagram ${className}`,
-        fill: "none",
-        height: "24",
-        viewBox: "0 0 24 24",
-        width: "24",
-        xmlns: "http://www.w3.org/2000/svg",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
-            className: "path",
-            clipRule: "evenodd",
-            d: "M16 3.24268H8C5.23858 3.24268 3 5.48126 3 8.24268V16.2427C3 19.0041 5.23858 21.2427 8 21.2427H16C18.7614 21.2427 21 19.0041 21 16.2427V8.24268C21 5.48126 18.7614 3.24268 16 3.24268ZM19.25 16.2427C19.2445 18.0353 17.7926 19.4872 16 19.4927H8C6.20735 19.4872 4.75549 18.0353 4.75 16.2427V8.24268C4.75549 6.45003 6.20735 4.99817 8 4.99268H16C17.7926 4.99817 19.2445 6.45003 19.25 8.24268V16.2427ZM16.75 8.49268C17.3023 8.49268 17.75 8.04496 17.75 7.49268C17.75 6.9404 17.3023 6.49268 16.75 6.49268C16.1977 6.49268 15.75 6.9404 15.75 7.49268C15.75 8.04496 16.1977 8.49268 16.75 8.49268ZM12 7.74268C9.51472 7.74268 7.5 9.7574 7.5 12.2427C7.5 14.728 9.51472 16.7427 12 16.7427C14.4853 16.7427 16.5 14.728 16.5 12.2427C16.5027 11.0484 16.0294 9.90225 15.1849 9.05776C14.3404 8.21327 13.1943 7.74002 12 7.74268ZM9.25 12.2427C9.25 13.7615 10.4812 14.9927 12 14.9927C13.5188 14.9927 14.75 13.7615 14.75 12.2427C14.75 10.7239 13.5188 9.49268 12 9.49268C10.4812 9.49268 9.25 10.7239 9.25 12.2427Z",
-            fill: "#5C191C",
-            fillRule: "evenodd"
-        }, void 0, false, {
-            fileName: "src/icons/IconInstagram/IconInstagram.jsx",
-            lineNumber: 18,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/icons/IconInstagram/IconInstagram.jsx",
-        lineNumber: 10,
-        columnNumber: 5
-    }, undefined);
-};
-_c = IconInstagram;
-var _c;
-$RefreshReg$(_c, "IconInstagram");
-
-  $parcel$ReactRefreshHelpers$3d47.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ftfv2":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Button":"bNbfl","../../icons/IconMenu":"ftfv2","../../icons/Logo":"cuRYp","./style.css":"ibamZ","../../../static/img/GardenVR.mp4":"2Olsh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../components/Footer/Footer":"Sm3O5"}],"ftfv2":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "IconMenu", ()=>(0, _iconMenu.IconMenu));
@@ -38829,115 +38491,7 @@ $RefreshReg$(_c, "IconMenu");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","prop-types":"7wKI2","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ecQ8C":[function(require,module,exports,__globalThis) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconX", ()=>(0, _iconX.IconX));
-var _iconX = require("./IconX");
-
-},{"./IconX":"jPW6p","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"jPW6p":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$616e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$616e.prelude(module);
-
-try {
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconX", ()=>IconX);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const IconX = ({ className })=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
-        className: `icon-x ${className}`,
-        fill: "none",
-        height: "24",
-        viewBox: "0 0 24 24",
-        width: "24",
-        xmlns: "http://www.w3.org/2000/svg",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
-            className: "path",
-            d: "M17.1761 4.24268H19.9362L13.9061 11.0201L21 20.2427H15.4456L11.0951 14.6493L6.11723 20.2427H3.35544L9.80517 12.9935L3 4.24268H8.69545L12.6279 9.3553L17.1761 4.24268ZM16.2073 18.6181H17.7368L7.86441 5.78196H6.2232L16.2073 18.6181Z",
-            fill: "#5C191C"
-        }, void 0, false, {
-            fileName: "src/icons/IconX/IconX.jsx",
-            lineNumber: 18,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/icons/IconX/IconX.jsx",
-        lineNumber: 10,
-        columnNumber: 5
-    }, undefined);
-};
-_c = IconX;
-var _c;
-$RefreshReg$(_c, "IconX");
-
-  $parcel$ReactRefreshHelpers$616e.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kSowd":[function(require,module,exports,__globalThis) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconYoutube", ()=>(0, _iconYoutube.IconYoutube));
-var _iconYoutube = require("./IconYoutube");
-
-},{"./IconYoutube":"efEgm","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"efEgm":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$59eb = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$59eb.prelude(module);
-
-try {
-/*
-We're constantly improving the code you see. 
-Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
-*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "IconYoutube", ()=>IconYoutube);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const IconYoutube = ({ className })=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
-        className: `icon-youtube ${className}`,
-        fill: "none",
-        height: "24",
-        viewBox: "0 0 25 24",
-        width: "25",
-        xmlns: "http://www.w3.org/2000/svg",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
-            className: "path",
-            d: "M22.093 7.20301C21.9791 6.78041 21.7565 6.39501 21.4474 6.08518C21.1382 5.77534 20.7533 5.55187 20.331 5.43701C18.765 5.00701 12.5 5.00001 12.5 5.00001C12.5 5.00001 6.236 4.99301 4.669 5.40401C4.24693 5.52415 3.86282 5.75078 3.55357 6.06214C3.24431 6.3735 3.02029 6.75913 2.903 7.18201C2.49 8.74801 2.486 11.996 2.486 11.996C2.486 11.996 2.482 15.26 2.892 16.81C3.122 17.667 3.797 18.344 4.655 18.575C6.237 19.005 12.485 19.012 12.485 19.012C12.485 19.012 18.75 19.019 20.316 18.609C20.7385 18.4943 21.1237 18.2714 21.4337 17.9622C21.7436 17.653 21.9674 17.2682 22.083 16.846C22.497 15.281 22.5 12.034 22.5 12.034C22.5 12.034 22.52 8.76901 22.093 7.20301ZM10.496 15.005L10.501 9.00501L15.708 12.01L10.496 15.005Z",
-            fill: "#5C191C"
-        }, void 0, false, {
-            fileName: "src/icons/IconYoutube/IconYoutube.jsx",
-            lineNumber: 18,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/icons/IconYoutube/IconYoutube.jsx",
-        lineNumber: 10,
-        columnNumber: 5
-    }, undefined);
-};
-_c = IconYoutube;
-var _c;
-$RefreshReg$(_c, "IconYoutube");
-
-  $parcel$ReactRefreshHelpers$59eb.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cuRYp":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","prop-types":"7wKI2","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cuRYp":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Logo", ()=>(0, _logo.Logo));
@@ -39173,7 +38727,144 @@ $RefreshReg$(_c, "Logo");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ibamZ":[function() {},{}],"eFJ4S":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ibamZ":[function() {},{}],"Sm3O5":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$5b81 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$5b81.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Footer", ()=>Footer);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _logo = require("../../icons/Logo");
+var _footerLinks = require("../FooterLinks/FooterLinks");
+var _iconLinkedin = require("../../icons/IconLinkedin");
+var _footerCss = require("./Footer.css");
+const Footer = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "footer",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "content-5",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "logo-footer",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logo.Logo), {
+                            className: "logo-instance"
+                        }, void 0, false, {
+                            fileName: "src/components/Footer/Footer.jsx",
+                            lineNumber: 12,
+                            columnNumber: 11
+                        }, undefined)
+                    }, void 0, false, {
+                        fileName: "src/components/Footer/Footer.jsx",
+                        lineNumber: 11,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerLinks.FooterLinks), {}, void 0, false, {
+                        fileName: "src/components/Footer/Footer.jsx",
+                        lineNumber: 15,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "social-links",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconLinkedin.IconLinkedin), {
+                            className: "icon-instance-node"
+                        }, void 0, false, {
+                            fileName: "src/components/Footer/Footer.jsx",
+                            lineNumber: 18,
+                            columnNumber: 11
+                        }, undefined)
+                    }, void 0, false, {
+                        fileName: "src/components/Footer/Footer.jsx",
+                        lineNumber: 17,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/Footer/Footer.jsx",
+                lineNumber: 10,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "credits",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "divider"
+                    }, void 0, false, {
+                        fileName: "src/components/Footer/Footer.jsx",
+                        lineNumber: 23,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "row-2",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "footer-links",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "text-wrapper-4",
+                                        children: "Privacy Policy"
+                                    }, void 0, false, {
+                                        fileName: "src/components/Footer/Footer.jsx",
+                                        lineNumber: 27,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "text-wrapper-5",
+                                        children: "Terms of Service"
+                                    }, void 0, false, {
+                                        fileName: "src/components/Footer/Footer.jsx",
+                                        lineNumber: 28,
+                                        columnNumber: 13
+                                    }, undefined)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/components/Footer/Footer.jsx",
+                                lineNumber: 26,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "element-relume-all",
+                                children: "\xa9 2025 JR. All rights reserved."
+                            }, void 0, false, {
+                                fileName: "src/components/Footer/Footer.jsx",
+                                lineNumber: 31,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/components/Footer/Footer.jsx",
+                        lineNumber: 25,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/Footer/Footer.jsx",
+                lineNumber: 22,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "src/components/Footer/Footer.jsx",
+        lineNumber: 9,
+        columnNumber: 5
+    }, undefined);
+};
+_c = Footer;
+var _c;
+$RefreshReg$(_c, "Footer");
+
+  $parcel$ReactRefreshHelpers$5b81.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Logo":"cuRYp","../FooterLinks/FooterLinks":"b3ooA","../../icons/IconLinkedin":"dxfdr","./Footer.css":"4PUEe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4PUEe":[function() {},{}],"eFJ4S":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "AboutDesktop", ()=>(0, _aboutDesktop.AboutDesktop));
@@ -40742,16 +40433,11 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _button = require("../../components/Button");
 var _styleSecondary = require("../../components/StyleSecondary");
 var _iconChevronRight = require("../../icons/IconChevronRight");
-var _iconFacebook = require("../../icons/IconFacebook");
-var _iconInstagram = require("../../icons/IconInstagram");
-var _iconLinkedin = require("../../icons/IconLinkedin");
 var _iconMenu = require("../../icons/IconMenu");
 var _iconRelume5 = require("../../icons/IconRelume5");
-var _iconX = require("../../icons/IconX");
-var _logo = require("../../icons/Logo");
-var _youtubeIcon = require("../../icons/YoutubeIcon");
 var _styleCss = require("./style.css");
 var _reactRouterDom = require("react-router-dom");
+var _footer = require("../../components/Footer/Footer");
 const AboutMobile = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "about-mobile",
@@ -40771,12 +40457,12 @@ const AboutMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 22,
+                                lineNumber: 17,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 21,
+                            lineNumber: 16,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40785,18 +40471,18 @@ const AboutMobile = ()=>{
                             src: "/img/masthead.svg"
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 28,
+                            lineNumber: 23,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 20,
+                    lineNumber: 15,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 19,
+                lineNumber: 14,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40814,12 +40500,12 @@ const AboutMobile = ()=>{
                                         children: "Inspire"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 36,
+                                        lineNumber: 31,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 35,
+                                    lineNumber: 30,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40827,13 +40513,13 @@ const AboutMobile = ()=>{
                                     children: "Transformative Learning Experiences"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 39,
+                                    lineNumber: 34,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 34,
+                            lineNumber: 29,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40847,29 +40533,40 @@ const AboutMobile = ()=>{
                                             children: "Harnessing the Power of Design and Technology"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 46,
+                                            lineNumber: 41,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 48,
+                                            lineNumber: 43,
                                             columnNumber: 15
                                         }, undefined),
                                         "We believe in the transformative potential of design, technology, and artificial intelligence to create impactful learning experiences shaped by the voices of communities. True power resides within communities, and by enhancing this power, we foster continuous learning and growth.",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 54,
+                                            lineNumber: 49,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 55,
+                                            lineNumber: 50,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                             className: "text-wrapper-2",
                                             children: "Our Mission"
                                         }, void 0, false, {
+                                            fileName: "src/screens/AboutMobile/AboutMobile.jsx",
+                                            lineNumber: 51,
+                                            columnNumber: 15
+                                        }, undefined),
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                                            fileName: "src/screens/AboutMobile/AboutMobile.jsx",
+                                            lineNumber: 52,
+                                            columnNumber: 15
+                                        }, undefined),
+                                        "By combining innovative technology with community-driven insights, we inspire individuals and organizations to strengthen the social fabric that connects us all.",
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
                                             lineNumber: 56,
                                             columnNumber: 15
@@ -40879,35 +40576,24 @@ const AboutMobile = ()=>{
                                             lineNumber: 57,
                                             columnNumber: 15
                                         }, undefined),
-                                        "By combining innovative technology with community-driven insights, we inspire individuals and organizations to strengthen the social fabric that connects us all.",
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                            fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 61,
-                                            columnNumber: 15
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                            fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 62,
-                                            columnNumber: 15
-                                        }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                             className: "text-wrapper-2",
                                             children: "How We Work"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 63,
+                                            lineNumber: 58,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 64,
+                                            lineNumber: 59,
                                             columnNumber: 15
                                         }, undefined),
                                         "Through cutting-edge frameworks and tools, we act as catalysts for positive change. Our goal is to cultivate thriving communities by providing the knowledge and opportunities they need to unlock their full potential and create a more equitable, connected, and learning-oriented world."
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 45,
+                                    lineNumber: 40,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40918,12 +40604,12 @@ const AboutMobile = ()=>{
                                             "JR Learning is: ",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 74,
+                                                lineNumber: 69,
                                                 columnNumber: 33
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 75,
+                                                lineNumber: 70,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -40933,12 +40619,12 @@ const AboutMobile = ()=>{
                                                 children: "Juan Rubio - Principal"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 76,
+                                                lineNumber: 71,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 76,
+                                                lineNumber: 71,
                                                 columnNumber: 129
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -40948,12 +40634,12 @@ const AboutMobile = ()=>{
                                                 children: "Mega Subramaniam - Academic Developer"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 77,
+                                                lineNumber: 72,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 77,
+                                                lineNumber: 72,
                                                 columnNumber: 154
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -40963,12 +40649,12 @@ const AboutMobile = ()=>{
                                                 children: "Kung Jin Lee - Academic Advisor"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 78,
+                                                lineNumber: 73,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 78,
+                                                lineNumber: 73,
                                                 columnNumber: 164
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -40978,45 +40664,45 @@ const AboutMobile = ()=>{
                                                 children: "Mark Niezgoda - LCSW - Mental Health Specialist"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 79,
+                                                lineNumber: 74,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 79,
+                                                lineNumber: 74,
                                                 columnNumber: 178
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 80,
+                                                lineNumber: 75,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 73,
+                                        lineNumber: 68,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 72,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 44,
+                            lineNumber: 39,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 33,
+                    lineNumber: 28,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 32,
+                lineNumber: 27,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41035,12 +40721,12 @@ const AboutMobile = ()=>{
                                             children: "Building"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 92,
+                                            lineNumber: 87,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 91,
+                                        lineNumber: 86,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41048,13 +40734,13 @@ const AboutMobile = ()=>{
                                         children: "Building Community Through Innovative Learning"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 95,
+                                        lineNumber: 90,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 90,
+                                lineNumber: 85,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41065,7 +40751,7 @@ const AboutMobile = ()=>{
                                         children: "At JR, we believe in the power of participatory design to transform learning experiences. Our mission is to inspire diverse communities by leveraging technology and co-creation to foster inclusive educational solutions. Through innovative programs, we aim to inspire and uplift voices that often go unheard."
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 101,
+                                        lineNumber: 96,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41077,24 +40763,24 @@ const AboutMobile = ()=>{
                                             text: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 110,
+                                            lineNumber: 105,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 109,
+                                        lineNumber: 104,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 100,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 89,
+                        lineNumber: 84,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41103,13 +40789,13 @@ const AboutMobile = ()=>{
                         src: "/img/placeholder-image.png"
                     }, void 0, false, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 120,
+                        lineNumber: 115,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 88,
+                lineNumber: 83,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41132,12 +40818,12 @@ const AboutMobile = ()=>{
                                                     children: "Inspire"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                    lineNumber: 133,
+                                                    lineNumber: 128,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 132,
+                                                lineNumber: 127,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41148,7 +40834,7 @@ const AboutMobile = ()=>{
                                                         children: "Innovative VR Tools for Mental Health"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 137,
+                                                        lineNumber: 132,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41156,19 +40842,19 @@ const AboutMobile = ()=>{
                                                         children: "JR specializes in co-creating virtual reality tools that address mental health challenges. These innovative solutions are designed to engage and support diverse communities."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 141,
+                                                        lineNumber: 136,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 136,
+                                                lineNumber: 131,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 131,
+                                        lineNumber: 126,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41181,7 +40867,7 @@ const AboutMobile = ()=>{
                                                         className: "icon-relume-5"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 151,
+                                                        lineNumber: 146,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41189,7 +40875,7 @@ const AboutMobile = ()=>{
                                                         children: "Community Focused"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 152,
+                                                        lineNumber: 147,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41197,13 +40883,13 @@ const AboutMobile = ()=>{
                                                         children: "We prioritize the voices and needs of the communities we serve."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 154,
+                                                        lineNumber: 149,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 150,
+                                                lineNumber: 145,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41213,7 +40899,7 @@ const AboutMobile = ()=>{
                                                         className: "icon-relume-5"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 161,
+                                                        lineNumber: 156,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41221,7 +40907,7 @@ const AboutMobile = ()=>{
                                                         children: "Collaborative Design"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 162,
+                                                        lineNumber: 157,
                                                         columnNumber: 19
                                                     }, undefined),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41229,25 +40915,25 @@ const AboutMobile = ()=>{
                                                         children: "Our process involves community members in every step of the design journey."
                                                     }, void 0, false, {
                                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                        lineNumber: 164,
+                                                        lineNumber: 159,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 160,
+                                                lineNumber: 155,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 149,
+                                        lineNumber: 144,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 130,
+                                lineNumber: 125,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41259,28 +40945,28 @@ const AboutMobile = ()=>{
                                     text: "Learn More"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 173,
+                                    lineNumber: 168,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 172,
+                                lineNumber: 167,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 129,
+                        lineNumber: 124,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 128,
+                    lineNumber: 123,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 127,
+                lineNumber: 122,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41299,7 +40985,7 @@ const AboutMobile = ()=>{
                                             children: "Building Communities Through Innovative Curriculum Design and Professional Development"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 191,
+                                            lineNumber: 186,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41307,13 +40993,13 @@ const AboutMobile = ()=>{
                                             children: "JR specializes in creating inclusive and impactful curricula that cater to diverse learning needs. Our mentorship and professional development programs equip educators with the tools to inspire and engage their communities."
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 196,
+                                            lineNumber: 191,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 190,
+                                    lineNumber: 185,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41327,7 +41013,7 @@ const AboutMobile = ()=>{
                                                     children: "Curriculum Design"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                    lineNumber: 206,
+                                                    lineNumber: 201,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41335,13 +41021,13 @@ const AboutMobile = ()=>{
                                                     children: "Innovative, research-based curricula designed to meet the unique needs of each community."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                    lineNumber: 208,
+                                                    lineNumber: 203,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 205,
+                                            lineNumber: 200,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41352,7 +41038,7 @@ const AboutMobile = ()=>{
                                                     children: "Mentorship Programs"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                    lineNumber: 215,
+                                                    lineNumber: 210,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41360,25 +41046,25 @@ const AboutMobile = ()=>{
                                                     children: "Hands-on mentorship that inspires educators to foster creativity and drive community engagement."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                    lineNumber: 217,
+                                                    lineNumber: 212,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 214,
+                                            lineNumber: 209,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 204,
+                                    lineNumber: 199,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 189,
+                            lineNumber: 184,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41387,18 +41073,18 @@ const AboutMobile = ()=>{
                             src: "/img/placeholder-image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 225,
+                            lineNumber: 220,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 188,
+                    lineNumber: 183,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 187,
+                lineNumber: 182,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41413,7 +41099,7 @@ const AboutMobile = ()=>{
                                     className: "icon-relume-5"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 236,
+                                    lineNumber: 231,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41424,7 +41110,7 @@ const AboutMobile = ()=>{
                                             children: "Transformative Design Sprints and Workshops for Community Building and Growth"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 238,
+                                            lineNumber: 233,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41432,19 +41118,19 @@ const AboutMobile = ()=>{
                                             children: "We specialize in leading dynamic design sprints and workshops that engage communities in co-creating impactful solutions. Our grant-funded initiatives create stronger communities through educational organizations and nonprofits."
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 243,
+                                            lineNumber: 238,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 237,
+                                    lineNumber: 232,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 235,
+                            lineNumber: 230,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41453,18 +41139,18 @@ const AboutMobile = ()=>{
                             src: "/img/placeholder-image-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 252,
+                            lineNumber: 247,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 234,
+                    lineNumber: 229,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 233,
+                lineNumber: 228,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41476,7 +41162,7 @@ const AboutMobile = ()=>{
                         src: "/img/nm-teens-1.png"
                     }, void 0, false, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 263,
+                        lineNumber: 258,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41489,12 +41175,12 @@ const AboutMobile = ()=>{
                                     children: "Discover the process behind JR's innovative learning solutions."
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 266,
+                                    lineNumber: 261,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 265,
+                                lineNumber: 260,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41505,7 +41191,7 @@ const AboutMobile = ()=>{
                                         children: "At JR, we believe in a collaborative approach to learning. Our process begins with understanding the unique needs of each community. By integrating technology and co-creation, we design tailored solutions that inspire."
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 273,
+                                        lineNumber: 268,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41513,7 +41199,7 @@ const AboutMobile = ()=>{
                                         children: "Building Community Through Innovative Curriculum Design and Engagement"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 279,
+                                        lineNumber: 274,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41521,25 +41207,25 @@ const AboutMobile = ()=>{
                                         children: "Our curriculum design focuses on inclusivity and research-based strategies to enhance learning."
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 283,
+                                        lineNumber: 278,
                                         columnNumber: 19
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 272,
+                                lineNumber: 267,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 264,
+                        lineNumber: 259,
                         columnNumber: 11
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 262,
+                lineNumber: 257,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41563,7 +41249,7 @@ const AboutMobile = ()=>{
                                                 color: "#5C191C"
                                             }, void 0, false, {
                                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 301,
+                                                lineNumber: 296,
                                                 columnNumber: 23
                                             }, void 0),
                                             iconPosition: "trailing",
@@ -41573,12 +41259,12 @@ const AboutMobile = ()=>{
                                             href: "https://www.spl.org/programs-and-services/fun-and-games/digital-games-for-kids/storyhood"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 296,
+                                            lineNumber: 291,
                                             columnNumber: 19
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 295,
+                                        lineNumber: 290,
                                         columnNumber: 17
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41587,7 +41273,7 @@ const AboutMobile = ()=>{
                                         src: "/img/header-50.png"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 314,
+                                        lineNumber: 309,
                                         columnNumber: 21
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -41599,12 +41285,12 @@ const AboutMobile = ()=>{
                                             children: "Exploring Sea Level Rise in South Seattle with Virtual Reality"
                                         }, void 0, false, {
                                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                            lineNumber: 325,
+                                            lineNumber: 320,
                                             columnNumber: 25
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 320,
+                                        lineNumber: 315,
                                         columnNumber: 23
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41613,23 +41299,23 @@ const AboutMobile = ()=>{
                                         src: "/img/VR-climate-change.jpeg"
                                     }, void 0, false, {
                                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 331,
+                                        lineNumber: 326,
                                         columnNumber: 23
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 294,
+                                lineNumber: 289,
                                 columnNumber: 15
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 293,
+                            lineNumber: 288,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 292,
+                        lineNumber: 287,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41640,7 +41326,7 @@ const AboutMobile = ()=>{
                                 children: "Partnering with Leading Educational Institutions"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 343,
+                                lineNumber: 338,
                                 columnNumber: 15
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41650,19 +41336,19 @@ const AboutMobile = ()=>{
                                     children: "Our Projects"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 349,
+                                    lineNumber: 344,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 348,
+                                lineNumber: 343,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                 className: "layout-3"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 353,
+                                lineNumber: 348,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -41682,13 +41368,13 @@ const AboutMobile = ()=>{
                                 children: "Learn More"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 354,
+                                lineNumber: 349,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 341,
+                        lineNumber: 336,
                         columnNumber: 11
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41701,12 +41387,12 @@ const AboutMobile = ()=>{
                                     children: "Discover the Journey of JR: Innovator in Technology-Driven Learning and Design"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 375,
+                                    lineNumber: 370,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 374,
+                                lineNumber: 369,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41716,24 +41402,24 @@ const AboutMobile = ()=>{
                                     children: "JR's professional journey is marked by a commitment to blending technology with education. As an award-winning instructional designer, JR has collaborated with prestigious organizations like the Tribeca Film Institute and the University of Washington, creating impactful learning experiences. With a focus on community building, JR's work has transformed the educational landscape for diverse populations."
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 382,
+                                    lineNumber: 377,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 381,
+                                lineNumber: 376,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 373,
+                        lineNumber: 368,
                         columnNumber: 11
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 291,
+                lineNumber: 286,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41749,7 +41435,7 @@ const AboutMobile = ()=>{
                                     children: "Let's Collaborate for Change"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 399,
+                                    lineNumber: 394,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41757,13 +41443,13 @@ const AboutMobile = ()=>{
                                     children: "Reach out to explore partnership opportunities today!"
                                 }, void 0, false, {
                                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 401,
+                                    lineNumber: 396,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 398,
+                            lineNumber: 393,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41779,171 +41465,34 @@ const AboutMobile = ()=>{
                                 href: "/contact-mobile"
                             }, void 0, false, {
                                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 407,
+                                lineNumber: 402,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                            lineNumber: 406,
+                            lineNumber: 401,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                    lineNumber: 397,
+                    lineNumber: 392,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 396,
+                lineNumber: 391,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "footer",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "content-5",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "div-4",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logo.Logo), {
-                                    className: "logo-instance"
-                                }, void 0, false, {
-                                    fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                    lineNumber: 424,
-                                    columnNumber: 13
-                                }, undefined)
-                            }, void 0, false, {
-                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 423,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "social-links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconFacebook.IconFacebook), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 428,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconInstagram.IconInstagram), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 429,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconX.IconX), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 430,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconLinkedin.IconLinkedin), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 431,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 432,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 427,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 422,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "credits",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "divider"
-                            }, void 0, false, {
-                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 437,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "row-2",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "footer-links",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-4",
-                                                children: "Privacy Policy"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 441,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-5",
-                                                children: "Terms of Service"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 443,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-5",
-                                                children: "Cookie Settings"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                                lineNumber: 445,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 440,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                        className: "element-relume-all",
-                                        children: "\xa9 2024 JR. All rights reserved."
-                                    }, void 0, false, {
-                                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                        lineNumber: 448,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                                lineNumber: 439,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                        lineNumber: 436,
-                        columnNumber: 9
-                    }, undefined)
-                ]
-            }, void 0, true, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
                 fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-                lineNumber: 421,
+                lineNumber: 416,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/AboutMobile/AboutMobile.jsx",
-        lineNumber: 18,
+        lineNumber: 13,
         columnNumber: 5
     }, undefined);
 };
@@ -41956,7 +41505,7 @@ $RefreshReg$(_c, "AboutMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/StyleSecondary":"1esV7","../../icons/IconChevronRight":"aueCS","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconRelume5":"eN2rd","../../icons/IconX":"ecQ8C","../../icons/Logo":"cuRYp","../../icons/YoutubeIcon":"h1FkG","./style.css":"kFhql","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"aueCS":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../components/StyleSecondary":"1esV7","../../icons/IconChevronRight":"aueCS","../../icons/IconMenu":"ftfv2","../../icons/IconRelume5":"eN2rd","./style.css":"kFhql","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../components/Footer/Footer":"Sm3O5"}],"aueCS":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "IconChevronRight", ()=>(0, _iconChevronRight.IconChevronRight));
@@ -44253,6 +43802,7 @@ var _reactRouterDom = require("react-router-dom");
 var _buildLearnPlayMp4 = require("../../../static/img/Build-Learn-Play.mp4");
 var _buildLearnPlayMp4Default = parcelHelpers.interopDefault(_buildLearnPlayMp4);
 var _button = require("../../components/Button");
+var _footer = require("../../components/Footer/Footer");
 const ServicesMobile = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "services-mobile",
@@ -44272,12 +43822,12 @@ const ServicesMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 23,
+                                lineNumber: 24,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 22,
+                            lineNumber: 23,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -44286,18 +43836,18 @@ const ServicesMobile = ()=>{
                             src: "/img/masthead.svg"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 29,
+                            lineNumber: 30,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 21,
+                    lineNumber: 22,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 20,
+                lineNumber: 21,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44314,7 +43864,7 @@ const ServicesMobile = ()=>{
                                     children: "Transformative Learning Solutions"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 39,
                                     columnNumber: 15
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44322,28 +43872,28 @@ const ServicesMobile = ()=>{
                                     children: "We specialize in co-creating impactful learning experiences that inspire and support communities."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 40,
+                                    lineNumber: 41,
                                     columnNumber: 15
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 37,
+                            lineNumber: 38,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 35,
+                        lineNumber: 36,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 34,
+                    lineNumber: 35,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 33,
+                lineNumber: 34,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44358,7 +43908,7 @@ const ServicesMobile = ()=>{
                                     className: "icon"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 52,
+                                    lineNumber: 53,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44366,7 +43916,7 @@ const ServicesMobile = ()=>{
                                     children: "Co-Designing for Adults: Strategies to Create your own co-design workshop"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 53,
+                                    lineNumber: 54,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44374,7 +43924,7 @@ const ServicesMobile = ()=>{
                                     children: "A practical guide to co-design methods that equips educators and leaders with tools for creating community-driven innovation workshops."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 57,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -44392,18 +43942,18 @@ const ServicesMobile = ()=>{
                                         children: "Inquire"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 69,
+                                        lineNumber: 70,
                                         columnNumber: 15
                                     }, void 0)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 62,
+                                    lineNumber: 63,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 51,
+                            lineNumber: 52,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44413,7 +43963,7 @@ const ServicesMobile = ()=>{
                                     className: "icon"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 83,
+                                    lineNumber: 84,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44421,7 +43971,7 @@ const ServicesMobile = ()=>{
                                     children: "AI for Creatives: Unleash Your Imagination with AI"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 84,
+                                    lineNumber: 85,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44429,13 +43979,13 @@ const ServicesMobile = ()=>{
                                     children: "A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling.*"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 88,
+                                    lineNumber: 89,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 82,
+                            lineNumber: 83,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -44453,12 +44003,12 @@ const ServicesMobile = ()=>{
                                 children: "Inquire"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 15
                             }, void 0)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 93,
+                            lineNumber: 94,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44468,7 +44018,7 @@ const ServicesMobile = ()=>{
                                     className: "icon"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 112,
+                                    lineNumber: 113,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44476,7 +44026,7 @@ const ServicesMobile = ()=>{
                                     children: "AI Foundations: Understanding the Basics"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 113,
+                                    lineNumber: 114,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44484,7 +44034,7 @@ const ServicesMobile = ()=>{
                                     children: "An accessible introduction to AI concepts, ethics, and real-world applications for learners of all backgrounds."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 117,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -44502,18 +44052,18 @@ const ServicesMobile = ()=>{
                                         children: "Inquire"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 127,
+                                        lineNumber: 128,
                                         columnNumber: 15
                                     }, void 0)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 120,
+                                    lineNumber: 121,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 111,
+                            lineNumber: 112,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44523,7 +44073,7 @@ const ServicesMobile = ()=>{
                                     className: "icon"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 141,
+                                    lineNumber: 142,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44531,7 +44081,7 @@ const ServicesMobile = ()=>{
                                     children: "Games-Based Learning: Designing & Facilitating Playful Learning Experiences"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 142,
+                                    lineNumber: 143,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44539,7 +44089,7 @@ const ServicesMobile = ()=>{
                                     children: "Learn how to design and facilitate games-based learning workshops, explore the essential components of a game, and use simple software to create a prototype."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 146,
+                                    lineNumber: 147,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -44557,29 +44107,29 @@ const ServicesMobile = ()=>{
                                         children: "Inquire"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 156,
+                                        lineNumber: 157,
                                         columnNumber: 15
                                     }, void 0)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 149,
+                                    lineNumber: 150,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 140,
+                            lineNumber: 141,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 50,
+                    lineNumber: 51,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 49,
+                lineNumber: 50,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44603,12 +44153,12 @@ const ServicesMobile = ()=>{
                                                         children: "Collaborate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 178,
+                                                        lineNumber: 179,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 177,
+                                                    lineNumber: 178,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44619,7 +44169,7 @@ const ServicesMobile = ()=>{
                                                             children: "Empowering Communities Through Collaborative Design"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 182,
+                                                            lineNumber: 183,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44627,19 +44177,19 @@ const ServicesMobile = ()=>{
                                                             children: "At JR, we unite diverse experts to create transformative learning experiences. Our multidisciplinary approach ensures that every voice is heard and valued in the design process."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 186,
+                                                            lineNumber: 187,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 181,
+                                                    lineNumber: 182,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 176,
+                                            lineNumber: 177,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44653,7 +44203,7 @@ const ServicesMobile = ()=>{
                                                             children: "Participatory Design"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 196,
+                                                            lineNumber: 197,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44661,13 +44211,13 @@ const ServicesMobile = ()=>{
                                                             children: "Engaging communities for observable outcomes through active participation and collaboration."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 198,
+                                                            lineNumber: 199,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 195,
+                                                    lineNumber: 196,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44678,7 +44228,7 @@ const ServicesMobile = ()=>{
                                                             children: "Innovative Curriculum"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 205,
+                                                            lineNumber: 206,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44686,25 +44236,25 @@ const ServicesMobile = ()=>{
                                                             children: "Crafting curricula that inspire and meet the unique needs of diverse learners."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 207,
+                                                            lineNumber: 208,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 204,
+                                                    lineNumber: 205,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 194,
+                                            lineNumber: 195,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 175,
+                                    lineNumber: 176,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44716,23 +44266,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 217,
+                                            lineNumber: 218,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 216,
+                                        lineNumber: 217,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 215,
+                                    lineNumber: 216,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 174,
+                            lineNumber: 175,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("video", {
@@ -44756,25 +44306,25 @@ const ServicesMobile = ()=>{
                                     type: "video/mp4"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 238,
+                                    lineNumber: 239,
                                     columnNumber: 13
                                 }, undefined),
                                 "Your browser does not support the video tag."
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 222,
+                            lineNumber: 223,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 173,
+                    lineNumber: 174,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 172,
+                lineNumber: 173,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44790,12 +44340,12 @@ const ServicesMobile = ()=>{
                                     children: "Expertise"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 247,
+                                    lineNumber: 248,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 246,
+                                lineNumber: 247,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44806,7 +44356,7 @@ const ServicesMobile = ()=>{
                                         children: "Our Five Key Areas of Expertise"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 251,
+                                        lineNumber: 252,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44814,19 +44364,19 @@ const ServicesMobile = ()=>{
                                         children: "At JR, we specialize in five essential areas that empower communities through innovative learning solutions. Our multidisciplinary approach ensures that every project is tailored to meet the unique needs of diverse populations."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 253,
+                                        lineNumber: 254,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 250,
+                                lineNumber: 251,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 245,
+                        lineNumber: 246,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44839,7 +44389,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 264,
+                                        lineNumber: 265,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44847,7 +44397,7 @@ const ServicesMobile = ()=>{
                                         children: "Participatory Design for Equitable Outcomes"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 265,
+                                        lineNumber: 266,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44855,13 +44405,13 @@ const ServicesMobile = ()=>{
                                         children: "We engage communities in the co-creation process to ensure that all voices are heard and valued."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 269,
+                                        lineNumber: 270,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 263,
+                                lineNumber: 264,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44871,7 +44421,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 276,
+                                        lineNumber: 277,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44879,7 +44429,7 @@ const ServicesMobile = ()=>{
                                         children: "Innovative Learning Program Design"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 277,
+                                        lineNumber: 278,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44887,13 +44437,13 @@ const ServicesMobile = ()=>{
                                         children: "Our curricula are crafted to inspire and engage learners of all backgrounds."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 279,
+                                        lineNumber: 280,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 275,
+                                lineNumber: 276,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44903,7 +44453,7 @@ const ServicesMobile = ()=>{
                                         className: "icon"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 286,
+                                        lineNumber: 287,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44911,7 +44461,7 @@ const ServicesMobile = ()=>{
                                         children: "Empowering Professional Development for Teams"
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 287,
+                                        lineNumber: 288,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44919,19 +44469,19 @@ const ServicesMobile = ()=>{
                                         children: "We provide hands-on training that equips educators and leaders with essential strategies for growth."
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 291,
+                                        lineNumber: 292,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 285,
+                                lineNumber: 286,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 262,
+                        lineNumber: 263,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -44943,23 +44493,23 @@ const ServicesMobile = ()=>{
                                 children: "Learn More"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 300,
+                                lineNumber: 301,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 299,
+                            lineNumber: 300,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 298,
+                        lineNumber: 299,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 244,
+                lineNumber: 245,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -44975,7 +44525,7 @@ const ServicesMobile = ()=>{
                                     children: "Participatory Design: Empowering Communities Through Collaborative Learning Experiences"
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 308,
+                                    lineNumber: 309,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -44983,13 +44533,13 @@ const ServicesMobile = ()=>{
                                     children: "Participatory Design invites community members to actively engage in the creation of learning experiences. This collaborative approach ensures that diverse voices are heard, leading to equitable and impactful outcomes that truly reflect the needs of the community."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 313,
+                                    lineNumber: 314,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 307,
+                            lineNumber: 308,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -44998,18 +44548,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 322,
+                            lineNumber: 323,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 306,
+                    lineNumber: 307,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 305,
+                lineNumber: 306,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45033,12 +44583,12 @@ const ServicesMobile = ()=>{
                                                         children: "Innovate"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 336,
+                                                        lineNumber: 337,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 335,
+                                                    lineNumber: 336,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45049,7 +44599,7 @@ const ServicesMobile = ()=>{
                                                             children: "Crafting Curricula for Diverse Learning Needs"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 340,
+                                                            lineNumber: 341,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45057,19 +44607,19 @@ const ServicesMobile = ()=>{
                                                             children: "Our Learning Program Design focuses on creating curricula that resonate with various audiences. We prioritize inclusivity and engagement to ensure every learner's needs are met."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 344,
+                                                            lineNumber: 345,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 339,
+                                                    lineNumber: 340,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 334,
+                                            lineNumber: 335,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45082,7 +44632,7 @@ const ServicesMobile = ()=>{
                                                             className: "icon"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 355,
+                                                            lineNumber: 356,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45090,7 +44640,7 @@ const ServicesMobile = ()=>{
                                                             children: "Tailored Solutions"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 356,
+                                                            lineNumber: 357,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45098,13 +44648,13 @@ const ServicesMobile = ()=>{
                                                             children: "Custom curricula designed to enhance engagement and meet specific community needs."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 358,
+                                                            lineNumber: 359,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 354,
+                                                    lineNumber: 355,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45114,7 +44664,7 @@ const ServicesMobile = ()=>{
                                                             className: "icon"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 365,
+                                                            lineNumber: 366,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45122,7 +44672,7 @@ const ServicesMobile = ()=>{
                                                             children: "Collaborative Approach"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 366,
+                                                            lineNumber: 367,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45130,25 +44680,25 @@ const ServicesMobile = ()=>{
                                                             children: "We work with stakeholders to ensure relevant and impactful learning experiences."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 368,
+                                                            lineNumber: 369,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 364,
+                                                    lineNumber: 365,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 353,
+                                            lineNumber: 354,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 333,
+                                    lineNumber: 334,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45160,23 +44710,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 378,
+                                            lineNumber: 379,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 377,
+                                        lineNumber: 378,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 376,
+                                    lineNumber: 377,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 332,
+                            lineNumber: 333,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45185,18 +44735,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-1.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 383,
+                            lineNumber: 384,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 331,
+                    lineNumber: 332,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 330,
+                lineNumber: 331,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45214,7 +44764,7 @@ const ServicesMobile = ()=>{
                                             className: "icon-4"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 395,
+                                            lineNumber: 396,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45225,7 +44775,7 @@ const ServicesMobile = ()=>{
                                                     children: "Empowering Teams for Growth and Innovation"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 397,
+                                                    lineNumber: 398,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45233,19 +44783,19 @@ const ServicesMobile = ()=>{
                                                     children: "Our Professional Development services equip teams with the essential strategies and tools needed to foster innovation and drive growth. We focus on hands-on training that inspires educators and leaders to create impactful learning environments."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 401,
+                                                    lineNumber: 402,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 396,
+                                            lineNumber: 397,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 394,
+                                    lineNumber: 395,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45257,23 +44807,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 413,
+                                            lineNumber: 414,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 412,
+                                        lineNumber: 413,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 411,
+                                    lineNumber: 412,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 393,
+                            lineNumber: 394,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45282,18 +44832,18 @@ const ServicesMobile = ()=>{
                             src: "/img/photograph-in-color-of-a-group-of-people-participating-in-a-desi.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 418,
+                            lineNumber: 419,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 392,
+                    lineNumber: 393,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 391,
+                lineNumber: 392,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45314,12 +44864,12 @@ const ServicesMobile = ()=>{
                                                 children: "Impact"
                                             }, void 0, false, {
                                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 431,
+                                                lineNumber: 432,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 430,
+                                            lineNumber: 431,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45330,7 +44880,7 @@ const ServicesMobile = ()=>{
                                                     children: "Comprehensive Project Management for Lasting Change"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 435,
+                                                    lineNumber: 436,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45338,19 +44888,19 @@ const ServicesMobile = ()=>{
                                                     children: "Our project management approach ensures that every initiative is meticulously planned and executed. We focus on collaboration, transparency, and measurable outcomes to drive success from start to finish."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 439,
+                                                    lineNumber: 440,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 434,
+                                            lineNumber: 435,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 429,
+                                    lineNumber: 430,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45362,23 +44912,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 450,
+                                            lineNumber: 451,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 449,
+                                        lineNumber: 450,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 448,
+                                    lineNumber: 449,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 428,
+                            lineNumber: 429,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45387,18 +44937,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-2.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 455,
+                            lineNumber: 456,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 427,
+                    lineNumber: 428,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 426,
+                lineNumber: 427,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45422,12 +44972,12 @@ const ServicesMobile = ()=>{
                                                         children: "Funding"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                        lineNumber: 469,
+                                                        lineNumber: 470,
                                                         columnNumber: 19
                                                     }, undefined)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 468,
+                                                    lineNumber: 469,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45438,7 +44988,7 @@ const ServicesMobile = ()=>{
                                                             children: "Expert Grant Administration for Meaningful Initiatives"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 473,
+                                                            lineNumber: 474,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45446,19 +44996,19 @@ const ServicesMobile = ()=>{
                                                             children: "Securing and managing funding is crucial for impactful projects. Our expertise ensures that your initiatives receive the financial support they need to thrive."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 477,
+                                                            lineNumber: 478,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 472,
+                                                    lineNumber: 473,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 467,
+                                            lineNumber: 468,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45472,7 +45022,7 @@ const ServicesMobile = ()=>{
                                                             children: "50%"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 487,
+                                                            lineNumber: 488,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45480,13 +45030,13 @@ const ServicesMobile = ()=>{
                                                             children: "Transform your vision into reality with our support."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 489,
+                                                            lineNumber: 490,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 486,
+                                                    lineNumber: 487,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45497,7 +45047,7 @@ const ServicesMobile = ()=>{
                                                             children: "50%"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 495,
+                                                            lineNumber: 496,
                                                             columnNumber: 19
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -45505,25 +45055,25 @@ const ServicesMobile = ()=>{
                                                             children: "Empower your community through secured funding initiatives."
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                            lineNumber: 497,
+                                                            lineNumber: 498,
                                                             columnNumber: 19
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                    lineNumber: 494,
+                                                    lineNumber: 495,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 485,
+                                            lineNumber: 486,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 466,
+                                    lineNumber: 467,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -45535,23 +45085,23 @@ const ServicesMobile = ()=>{
                                             children: "Learn More"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 506,
+                                            lineNumber: 507,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 505,
+                                        lineNumber: 506,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 504,
+                                    lineNumber: 505,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 465,
+                            lineNumber: 466,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -45560,18 +45110,18 @@ const ServicesMobile = ()=>{
                             src: "/img/placeholder-image-3.png"
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 511,
+                            lineNumber: 512,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 464,
+                    lineNumber: 465,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 463,
+                lineNumber: 464,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45586,12 +45136,12 @@ const ServicesMobile = ()=>{
                                 children: "Let's Transform Learning Together"
                             }, void 0, false, {
                                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 522,
+                                lineNumber: 523,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 521,
+                            lineNumber: 522,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45602,7 +45152,7 @@ const ServicesMobile = ()=>{
                                     children: "Ready to elevate your educational initiatives? Contact JR today for a consultation and discover how we can co-create impactful learning experiences tailored to your community's needs."
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 528,
+                                    lineNumber: 529,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -45614,231 +45164,45 @@ const ServicesMobile = ()=>{
                                             children: "Inquire"
                                         }, void 0, false, {
                                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                            lineNumber: 536,
+                                            lineNumber: 537,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 535,
+                                        lineNumber: 536,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 534,
+                                    lineNumber: 535,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                            lineNumber: 527,
+                            lineNumber: 528,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                    lineNumber: 520,
+                    lineNumber: 521,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 519,
+                lineNumber: 520,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "footer",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "content",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "div-7",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logo.Logo), {
-                                    className: "logo-instance"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                    lineNumber: 546,
-                                    columnNumber: 13
-                                }, undefined)
-                            }, void 0, false, {
-                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 545,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "div-7",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "link-one",
-                                        children: "About Us"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 550,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-6",
-                                        children: "Our Services"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 552,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-6",
-                                        children: "Contact Us"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 554,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-6",
-                                        children: "Blog Posts"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 556,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "text-wrapper-6",
-                                        children: "FAQs"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 558,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 549,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "social-links",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconFacebook.IconFacebook), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 562,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconInstagram.IconInstagram), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 563,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconX.IconX), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 564,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconLinkedin.IconLinkedin), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 565,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
-                                        className: "icon-instance-node"
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 566,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 561,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 544,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "credits",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "divider"
-                            }, void 0, false, {
-                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 571,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "row",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "footer-links",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-7",
-                                                children: "Privacy Policy"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 575,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-8",
-                                                children: "Terms of Service"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 577,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                className: "text-wrapper-8",
-                                                children: "Cookie Settings"
-                                            }, void 0, false, {
-                                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                                lineNumber: 579,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 574,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                        className: "element-relume-all",
-                                        children: "\xa9 2024 JR. All rights reserved."
-                                    }, void 0, false, {
-                                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                        lineNumber: 582,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                                lineNumber: 573,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                        lineNumber: 570,
-                        columnNumber: 9
-                    }, undefined)
-                ]
-            }, void 0, true, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
                 fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-                lineNumber: 543,
+                lineNumber: 544,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/ServicesMobile/ServicesMobile.jsx",
-        lineNumber: 18,
+        lineNumber: 19,
         columnNumber: 5
     }, undefined);
 };
@@ -45851,7 +45215,7 @@ $RefreshReg$(_c, "ServicesMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Icon4":"cXHcu","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconX":"ecQ8C","../../icons/Logo":"cuRYp","../../icons/YoutubeIcon":"h1FkG","./style.css":"7C8ET","react-router-dom":"9xmpe","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/IconRelume9":"bK37R","../../components/Button":"bNbfl"}],"cXHcu":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Icon4":"cXHcu","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/IconLinkedin":"dxfdr","../../icons/IconMenu":"ftfv2","../../icons/IconX":"ecQ8C","../../icons/Logo":"cuRYp","../../icons/YoutubeIcon":"h1FkG","./style.css":"7C8ET","react-router-dom":"9xmpe","../../../static/img/Build-Learn-Play.mp4":"5weLF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../icons/IconRelume9":"bK37R","../../components/Button":"bNbfl","../../components/Footer/Footer":"Sm3O5"}],"cXHcu":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Icon4", ()=>(0, _icon4.Icon4));
@@ -45934,6 +45298,170 @@ var _c;
 $RefreshReg$(_c, "Icon4");
 
   $parcel$ReactRefreshHelpers$de3f.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8yst2":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconFacebook", ()=>(0, _iconFacebook.IconFacebook));
+var _iconFacebook = require("./IconFacebook");
+
+},{"./IconFacebook":"aQka0","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"aQka0":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$841d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$841d.prelude(module);
+
+try {
+/*
+We're constantly improving the code you see. 
+Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
+*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconFacebook", ()=>IconFacebook);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+const IconFacebook = ({ className })=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
+        className: `icon-facebook ${className}`,
+        fill: "none",
+        height: "24",
+        viewBox: "0 0 24 24",
+        width: "24",
+        xmlns: "http://www.w3.org/2000/svg",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
+            className: "path",
+            d: "M22 12.3038C22 6.74719 17.5229 2.24268 12 2.24268C6.47715 2.24268 2 6.74719 2 12.3038C2 17.3255 5.65684 21.4879 10.4375 22.2427V15.2121H7.89844V12.3038H10.4375V10.0872C10.4375 7.56564 11.9305 6.1728 14.2146 6.1728C15.3088 6.1728 16.4531 6.36931 16.4531 6.36931V8.84529H15.1922C13.95 8.84529 13.5625 9.6209 13.5625 10.4166V12.3038H16.3359L15.8926 15.2121H13.5625V22.2427C18.3432 21.4879 22 17.3257 22 12.3038Z",
+            fill: "#5C191C"
+        }, void 0, false, {
+            fileName: "src/icons/IconFacebook/IconFacebook.jsx",
+            lineNumber: 18,
+            columnNumber: 7
+        }, undefined)
+    }, void 0, false, {
+        fileName: "src/icons/IconFacebook/IconFacebook.jsx",
+        lineNumber: 10,
+        columnNumber: 5
+    }, undefined);
+};
+_c = IconFacebook;
+var _c;
+$RefreshReg$(_c, "IconFacebook");
+
+  $parcel$ReactRefreshHelpers$841d.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"64nqj":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconInstagram", ()=>(0, _iconInstagram.IconInstagram));
+var _iconInstagram = require("./IconInstagram");
+
+},{"./IconInstagram":"4ANbc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"4ANbc":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$3d47 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$3d47.prelude(module);
+
+try {
+/*
+We're constantly improving the code you see. 
+Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
+*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconInstagram", ()=>IconInstagram);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+const IconInstagram = ({ className })=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
+        className: `icon-instagram ${className}`,
+        fill: "none",
+        height: "24",
+        viewBox: "0 0 24 24",
+        width: "24",
+        xmlns: "http://www.w3.org/2000/svg",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
+            className: "path",
+            clipRule: "evenodd",
+            d: "M16 3.24268H8C5.23858 3.24268 3 5.48126 3 8.24268V16.2427C3 19.0041 5.23858 21.2427 8 21.2427H16C18.7614 21.2427 21 19.0041 21 16.2427V8.24268C21 5.48126 18.7614 3.24268 16 3.24268ZM19.25 16.2427C19.2445 18.0353 17.7926 19.4872 16 19.4927H8C6.20735 19.4872 4.75549 18.0353 4.75 16.2427V8.24268C4.75549 6.45003 6.20735 4.99817 8 4.99268H16C17.7926 4.99817 19.2445 6.45003 19.25 8.24268V16.2427ZM16.75 8.49268C17.3023 8.49268 17.75 8.04496 17.75 7.49268C17.75 6.9404 17.3023 6.49268 16.75 6.49268C16.1977 6.49268 15.75 6.9404 15.75 7.49268C15.75 8.04496 16.1977 8.49268 16.75 8.49268ZM12 7.74268C9.51472 7.74268 7.5 9.7574 7.5 12.2427C7.5 14.728 9.51472 16.7427 12 16.7427C14.4853 16.7427 16.5 14.728 16.5 12.2427C16.5027 11.0484 16.0294 9.90225 15.1849 9.05776C14.3404 8.21327 13.1943 7.74002 12 7.74268ZM9.25 12.2427C9.25 13.7615 10.4812 14.9927 12 14.9927C13.5188 14.9927 14.75 13.7615 14.75 12.2427C14.75 10.7239 13.5188 9.49268 12 9.49268C10.4812 9.49268 9.25 10.7239 9.25 12.2427Z",
+            fill: "#5C191C",
+            fillRule: "evenodd"
+        }, void 0, false, {
+            fileName: "src/icons/IconInstagram/IconInstagram.jsx",
+            lineNumber: 18,
+            columnNumber: 7
+        }, undefined)
+    }, void 0, false, {
+        fileName: "src/icons/IconInstagram/IconInstagram.jsx",
+        lineNumber: 10,
+        columnNumber: 5
+    }, undefined);
+};
+_c = IconInstagram;
+var _c;
+$RefreshReg$(_c, "IconInstagram");
+
+  $parcel$ReactRefreshHelpers$3d47.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ecQ8C":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconX", ()=>(0, _iconX.IconX));
+var _iconX = require("./IconX");
+
+},{"./IconX":"jPW6p","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"jPW6p":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$616e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$616e.prelude(module);
+
+try {
+/*
+We're constantly improving the code you see. 
+Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
+*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "IconX", ()=>IconX);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+const IconX = ({ className })=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("svg", {
+        className: `icon-x ${className}`,
+        fill: "none",
+        height: "24",
+        viewBox: "0 0 24 24",
+        width: "24",
+        xmlns: "http://www.w3.org/2000/svg",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("path", {
+            className: "path",
+            d: "M17.1761 4.24268H19.9362L13.9061 11.0201L21 20.2427H15.4456L11.0951 14.6493L6.11723 20.2427H3.35544L9.80517 12.9935L3 4.24268H8.69545L12.6279 9.3553L17.1761 4.24268ZM16.2073 18.6181H17.7368L7.86441 5.78196H6.2232L16.2073 18.6181Z",
+            fill: "#5C191C"
+        }, void 0, false, {
+            fileName: "src/icons/IconX/IconX.jsx",
+            lineNumber: 18,
+            columnNumber: 7
+        }, undefined)
+    }, void 0, false, {
+        fileName: "src/icons/IconX/IconX.jsx",
+        lineNumber: 10,
+        columnNumber: 5
+    }, undefined);
+};
+_c = IconX;
+var _c;
+$RefreshReg$(_c, "IconX");
+
+  $parcel$ReactRefreshHelpers$616e.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
@@ -47169,6 +46697,7 @@ var _reactRouterDom = require("react-router-dom");
 var _styleCss = require("./style.css");
 var _browser = require("@emailjs/browser");
 var _browserDefault = parcelHelpers.interopDefault(_browser);
+var _footer = require("../../components/Footer/Footer");
 var _s = $RefreshSig$();
 // Initialize EmailJS
 (0, _browserDefault.default).init("1yjV981FEw1IgxTNn");
@@ -47502,87 +47031,10 @@ const ContactMobile = ()=>{
                 lineNumber: 92,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
-                className: "footer",
-                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "footer-content",
-                    children: [
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "logo-section",
-                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logo.Logo), {
-                                className: "logo-instance"
-                            }, void 0, false, {
-                                fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                lineNumber: 201,
-                                columnNumber: 13
-                            }, undefined)
-                        }, void 0, false, {
-                            fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                            lineNumber: 200,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "social-links",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconFacebook.IconFacebook), {
-                                    className: "social-icon"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                    lineNumber: 205,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconInstagram.IconInstagram), {
-                                    className: "social-icon"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                    lineNumber: 206,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _linkedinIcon.LinkedinIcon), {
-                                    className: "social-icon"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                    lineNumber: 207,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _xicon.XIcon), {
-                                    className: "social-icon"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                    lineNumber: 208,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _youtubeIcon.YoutubeIcon), {
-                                    className: "social-icon"
-                                }, void 0, false, {
-                                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                                    lineNumber: 209,
-                                    columnNumber: 13
-                                }, undefined)
-                            ]
-                        }, void 0, true, {
-                            fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                            lineNumber: 204,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "copyright",
-                            children: "\xa9 2024 JR Learning. All rights reserved."
-                        }, void 0, false, {
-                            fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                            lineNumber: 212,
-                            columnNumber: 11
-                        }, undefined)
-                    ]
-                }, void 0, true, {
-                    fileName: "src/screens/ContactMobile/ContactMobile.jsx",
-                    lineNumber: 199,
-                    columnNumber: 9
-                }, undefined)
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
                 fileName: "src/screens/ContactMobile/ContactMobile.jsx",
                 lineNumber: 198,
-                columnNumber: 7
+                columnNumber: 9
             }, undefined)
         ]
     }, void 0, true, {
@@ -47601,7 +47053,7 @@ $RefreshReg$(_c, "ContactMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","../../icons/IconMenu":"ftfv2","react-router-dom":"9xmpe","./style.css":"glDY5","@emailjs/browser":"kbSqr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"glDY5":[function() {},{}],"9lCsz":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/IconFacebook":"8yst2","../../icons/IconInstagram":"64nqj","../../icons/LinkedinIcon":"5dLDj","../../icons/Logo":"cuRYp","../../icons/XIcon":"7UhEa","../../icons/YoutubeIcon":"h1FkG","../../icons/IconMenu":"ftfv2","react-router-dom":"9xmpe","./style.css":"glDY5","@emailjs/browser":"kbSqr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../components/Footer/Footer":"Sm3O5"}],"glDY5":[function() {},{}],"9lCsz":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "MenuMobile", ()=>(0, _menuMobile.MenuMobile));
@@ -47880,6 +47332,7 @@ var _iconMenu = require("../../icons/IconMenu");
 var _iconRelume1 = require("../../icons/IconRelume1");
 var _styleCss = require("./style.css");
 var _reactRouterDom = require("react-router-dom");
+var _footer = require("../../components/Footer/Footer");
 const PublicationsMobile = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "publications-mobile",
@@ -47899,12 +47352,12 @@ const PublicationsMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 15,
+                                lineNumber: 16,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                            lineNumber: 14,
+                            lineNumber: 15,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -47913,18 +47366,18 @@ const PublicationsMobile = ()=>{
                             src: "/img/masthead.svg"
                         }, void 0, false, {
                             fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                            lineNumber: 21,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                    lineNumber: 13,
+                    lineNumber: 14,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 12,
+                lineNumber: 13,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -47937,7 +47390,7 @@ const PublicationsMobile = ()=>{
                                 className: "article-icon"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 27,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -47949,18 +47402,18 @@ const PublicationsMobile = ()=>{
                                     children: "Facilitating Effective Co-design in Library Settings"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                    lineNumber: 33,
+                                    lineNumber: 34,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 28,
+                                lineNumber: 29,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                        lineNumber: 26,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -47970,7 +47423,7 @@ const PublicationsMobile = ()=>{
                                 className: "article-icon"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 40,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -47982,18 +47435,18 @@ const PublicationsMobile = ()=>{
                                     children: "Navigating an AI -Empowered Future"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                    lineNumber: 46,
+                                    lineNumber: 47,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 41,
+                                lineNumber: 42,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                        lineNumber: 39,
+                        lineNumber: 40,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48003,7 +47456,7 @@ const PublicationsMobile = ()=>{
                                 className: "article-icon"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 51,
+                                lineNumber: 52,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48015,18 +47468,18 @@ const PublicationsMobile = ()=>{
                                     children: "Designing for Teen Mental Health: An exploration of the co-design of virtual reality in the public library setting"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                    lineNumber: 57,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 52,
+                                lineNumber: 53,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                        lineNumber: 50,
+                        lineNumber: 51,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48036,7 +47489,7 @@ const PublicationsMobile = ()=>{
                                 className: "article-icon"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 65,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48048,18 +47501,18 @@ const PublicationsMobile = ()=>{
                                     children: "How I Learned to Stop Worrying and Love Youth AR Game Creation"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                    lineNumber: 71,
+                                    lineNumber: 72,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 66,
+                                lineNumber: 67,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                        lineNumber: 64,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48069,7 +47522,7 @@ const PublicationsMobile = ()=>{
                                 className: "article-icon"
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 78,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -48081,24 +47534,24 @@ const PublicationsMobile = ()=>{
                                     children: "Enhancing Children's Voice with Media and Technology\xa0\xa0Interaction Design and Children"
                                 }, void 0, false, {
                                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                    lineNumber: 84,
+                                    lineNumber: 85,
                                     columnNumber: 13
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                                lineNumber: 79,
+                                lineNumber: 80,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                        lineNumber: 77,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 25,
+                lineNumber: 26,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -48106,7 +47559,7 @@ const PublicationsMobile = ()=>{
                 children: "Learning for Change"
             }, void 0, false, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 92,
+                lineNumber: 93,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -48116,16 +47569,17 @@ const PublicationsMobile = ()=>{
                     className: "icon-relume-1"
                 }, void 0, false, {
                     fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                    lineNumber: 97,
+                    lineNumber: 98,
                     columnNumber: 15
                 }, void 0),
                 iconPosition: "leading",
                 small: false,
                 style: "secondary",
-                text: "Contact Us"
+                text: "Contact Us",
+                href: "/contact-mobile"
             }, void 0, false, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 94,
+                lineNumber: 95,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48133,7 +47587,7 @@ const PublicationsMobile = ()=>{
                 children: "Collective Design for Social Good"
             }, void 0, false, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 103,
+                lineNumber: 105,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -48141,13 +47595,18 @@ const PublicationsMobile = ()=>{
                 children: "Harnessing the power of design, technology, and artificial intelligence to create transformative learning experiences grounded on communities and their voice."
             }, void 0, false, {
                 fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-                lineNumber: 105,
+                lineNumber: 107,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
+                fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
+                lineNumber: 112,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/PublicationsMobile/PublicationsMobile.jsx",
-        lineNumber: 11,
+        lineNumber: 12,
         columnNumber: 5
     }, undefined);
 };
@@ -48160,7 +47619,7 @@ $RefreshReg$(_c, "PublicationsMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../icons/IconLinkExternal":"cxu1Y","../../icons/IconMenu":"ftfv2","../../icons/IconRelume1":"bcr67","./style.css":"h0Zwb","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cxu1Y":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Button":"bNbfl","../../icons/IconLinkExternal":"cxu1Y","../../icons/IconMenu":"ftfv2","../../icons/IconRelume1":"bcr67","./style.css":"h0Zwb","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../components/Footer/Footer":"Sm3O5"}],"cxu1Y":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "IconLinkExternal", ()=>(0, _iconLinkExternal.IconLinkExternal));

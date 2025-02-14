@@ -56,37 +56,28 @@ export const HomeDesktop = () => {
         </div>
 
         <div className="carousel">
-          <a href="https://www.uw.edu/" target="_self" rel="noopener noreferrer">
+          
             <img className="logo-UW" alt="Logo UW" src="/img/logo-uw-1.png" />
-          </a>
 
-          <a href="https://www.tfiny.org/" target="_self" rel="noopener noreferrer">
+          
             <img className="image" alt="Image" src="/img/image-1.png" />
-          </a>
+          
 
-          <a href="https://www.unc.edu/" target="_self" rel="noopener noreferrer">
+          
             <img className="UNC" alt="Unc" src="/img/unc.svg" />
-          </a>
+          
 
-          <a href="https://www.spl.org/" target="_self" rel="noopener noreferrer">
+          
             <img className="logo-SPL" alt="Logo SPL" src="/img/logo-spl-1.png" />
-          </a>
+          
 
-          <a href="https://www.cla-net.org/" target="_self" rel="noopener noreferrer">
-            <img
-              className="logo-CSLA"
-              alt="Logo CSLA"
-              src="/img/logo-csla-1.png"
-            />
-          </a>
+          
+            <img className="logo-CSLA" alt="Logo CSLA" src="/img/logo-csla-1.png" />
+          
 
-          <a href="https://www.frontandcentered.org/" target="_self" rel="noopener noreferrer">
-            <img
-              className="FC-logo-black-text"
-              alt="Fc logo black text"
-              src="/img/fc-logo-black-text-1.png"
-            />
-          </a>
+          
+            <img className="FC-logo-black-text" alt="Fc logo black text" src="/img/fc-logo-black-text-1.png" />
+          
         </div>
     
 
