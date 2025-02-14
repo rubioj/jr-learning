@@ -5,6 +5,7 @@ import { IconMenu } from "../../icons/IconMenu";
 import { IconRelume1 } from "../../icons/IconRelume1";
 import "./style.css";
 import { Link } from "react-router-dom";
+import { Footer } from "../../components/Footer/Footer";
 
 export const PublicationsMobile = () => {
   return (
@@ -99,6 +100,7 @@ export const PublicationsMobile = () => {
         small={false}
         style="secondary"
         text="Contact Us"
+        href="/contact-mobile"
       />
       <p className="subtitle">Collective Design for Social Good</p>
 
@@ -107,6 +109,7 @@ export const PublicationsMobile = () => {
         to create transformative learning experiences grounded on communities
         and their voice.
       </p>
+      <Footer />
     </div>
   );
 };

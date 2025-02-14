@@ -9,7 +9,7 @@ import { IconMenu } from "../../icons/IconMenu";
 import { Link } from "react-router-dom";
 import "./style.css";
 import emailjs from '@emailjs/browser';
-
+import { Footer } from "../../components/Footer/Footer";
 // Initialize EmailJS
 emailjs.init("1yjV981FEw1IgxTNn");
 
@@ -194,26 +194,10 @@ export const ContactMobile = () => {
         </form>
       </div>
 
-      {/* Add Footer Section */}
-      <footer className="footer">
-        <div className="footer-content">
-          <div className="logo-section">
-            <Logo className="logo-instance" />
-          </div>
+      
+        <Footer />
+      
           
-          <div className="social-links">
-            <IconFacebook className="social-icon" />
-            <IconInstagram className="social-icon" />
-            <LinkedinIcon className="social-icon" />
-            <XIcon className="social-icon" />
-            <YoutubeIcon className="social-icon" />
-          </div>
-
-          <div className="copyright">
-            © 2024 JR Learning. All rights reserved.
-          </div>
-        </div>
-      </footer>
     </div>
   );
 };

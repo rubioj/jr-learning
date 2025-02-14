@@ -2,16 +2,11 @@ import React from "react";
 import { Button } from "../../components/Button";
 import { StyleSecondary } from "../../components/StyleSecondary";
 import { IconChevronRight } from "../../icons/IconChevronRight";
-import { IconFacebook } from "../../icons/IconFacebook";
-import { IconInstagram } from "../../icons/IconInstagram";
-import { IconLinkedin } from "../../icons/IconLinkedin";
 import { IconMenu } from "../../icons/IconMenu";
 import { IconRelume5 } from "../../icons/IconRelume5";
-import { IconX } from "../../icons/IconX";
-import { Logo } from "../../icons/Logo";
-import { YoutubeIcon } from "../../icons/YoutubeIcon";
 import "./style.css";
 import { Link } from "react-router-dom";
+import { Footer } from "../../components/Footer/Footer";
 
 export const AboutMobile = () => {
   return (
@@ -257,7 +252,7 @@ export const AboutMobile = () => {
         </div>
       </div>
 
-     
+       
         
         <div className="nourishing-minds">
           <img className="NM-teens" alt="Nm teens" src="/img/nm-teens-1.png" />
@@ -418,39 +413,7 @@ export const AboutMobile = () => {
         </div>
       </div>
 
-      <div className="footer">
-        <div className="content-5">
-          <div className="div-4">
-            <Logo className="logo-instance" />
-          </div>
-
-          <div className="social-links">
-            <IconFacebook className="icon-instance-node" />
-            <IconInstagram className="icon-instance-node" />
-            <IconX className="icon-instance-node" />
-            <IconLinkedin className="icon-instance-node" />
-            <YoutubeIcon className="icon-instance-node" />
-          </div>
-        </div>
-
-        <div className="credits">
-          <div className="divider" />
-
-          <div className="row-2">
-            <div className="footer-links">
-              <div className="text-wrapper-4">Privacy Policy</div>
-
-              <div className="text-wrapper-5">Terms of Service</div>
-
-              <div className="text-wrapper-5">Cookie Settings</div>
-            </div>
-
-            <p className="element-relume-all">
-              © 2024 JR. All rights reserved.
-            </p>
-          </div>
-        </div>
-      </div>
+      <Footer />
     </div>
   );
 };

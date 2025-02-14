@@ -25,8 +25,12 @@
 
 .menu-mobile .menu-item-instance {
   flex: 0 0 auto !important;
-  color: var(--semantic-text-primary) !important;
+  color: var(--semantic-link-primary) !important;
   font-size: 12px !important;
+}
+
+.menu-mobile .menu-item-instance:hover {
+  color: var(--primitive-color-brand-carrot) !important;
 }
 
 .menu-mobile .design-component-instance-node {

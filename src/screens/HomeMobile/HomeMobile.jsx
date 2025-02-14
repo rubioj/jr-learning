@@ -1,15 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "../../components/Button";
-import { IconFacebook } from "../../icons/IconFacebook";
-import { IconInstagram } from "../../icons/IconInstagram";
-import { IconLinkedin } from "../../icons/IconLinkedin";
 import { IconMenu } from "../../icons/IconMenu";
-import { IconX } from "../../icons/IconX";
-import { IconYoutube } from "../../icons/IconYoutube";
 import { Logo } from "../../icons/Logo";
 import "./style.css";
 import gardenVRVideo from "../../../static/img/GardenVR.mp4";
+import { Footer } from "../../components/Footer/Footer";
 
 export const HomeMobile = () => {
   return (
@@ -243,54 +239,8 @@ export const HomeMobile = () => {
         </div>
       </div>
 
-      <footer className="footer">
-        <div className="content-2">
-          <div className="div-3">
-            <Logo className="logo-instance" />
-          </div>
-
-          <div className="div-3">
-            <div className="text-wrapper-4">
-                <Link to="/about-mobile">About Us</Link>
-            </div>
-
-            <div className="text-wrapper-4">
-              <Link to="/services-mobile">Our Services</Link>
-            </div>
-
-            <div className="text-wrapper-4">
-              <Link to="/contact-mobile">Contact Us</Link>
-            </div>
-
-            
-          </div>
-
-          <div className="social-links">
-            
+          <Footer />
       
-            <IconLinkedin className="icon-instance-node" />
-            <IconYoutube className="icon-instance-node" />
-          </div>
-        </div>
-
-        <div className="credits">
-          <div className="divider" />
-
-          <div className="row">
-            <div className="footer-links">
-              <div className="text-wrapper-5">Privacy Policy</div>
-
-              <div className="text-wrapper-6">Terms of Service</div>
-
-              <div className="text-wrapper-6">Cookie Settings</div>
-            </div>
-
-            <p className="element-relume-all">
-              © 2025 .
-            </p>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 };
