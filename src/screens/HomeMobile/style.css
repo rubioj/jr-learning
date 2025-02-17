@@ -57,7 +57,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 32px;
-  padding: 36px 20px 45px;
+  padding: 16px 20px 45px;
   position: relative;
   width: 393px;
   box-sizing: border-box;
@@ -83,8 +83,7 @@
   justify-content: center;
   position: relative;
   width: 100%;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  padding: 20px;
+  padding: 0px;
   border-radius: 8px;
   text-align: center;
   margin-top: 10px; /* Add margin-top to create space between header and text */  

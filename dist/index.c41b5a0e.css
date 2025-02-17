@@ -1143,7 +1143,7 @@
   align-items: flex-start;
   gap: 32px;
   width: 393px;
-  padding: 36px 20px 45px;
+  padding: 16px 20px 45px;
   display: flex;
   position: relative;
 }
@@ -1160,7 +1160,6 @@
 }
 
 .home-mobile .column {
-  text-shadow: 2px 2px 4px #0003;
   text-align: center;
   border-radius: 8px;
   flex-direction: column;
@@ -1170,7 +1169,7 @@
   align-items: center;
   width: 100%;
   margin-top: 10px;
-  padding: 20px;
+  padding: 0;
   display: flex;
   position: relative;
 }
