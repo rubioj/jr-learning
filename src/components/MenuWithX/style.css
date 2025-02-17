@@ -4,13 +4,13 @@
   height: 81px;
   position: relative;
   width: 393px;
-  background-color: var(--semantic-background-color-secondary);
+  background-color: var(--semantic-background-color-primary);
 }
 
 .menu-with-x .header {
   align-items: center;
   align-self: stretch;
-  background-color: var(---primitive-color-brand-champagne);
+  background-color: var(--semantic-background-color-primary);
   display: flex;
   gap: 0;
   justify-content: center;
@@ -27,18 +27,17 @@
   cursor: pointer;
   padding: 0;
   display: block;
-  background-color: var(--primitive-color-brand-champagne);
+  background-color: var(--semantic-background-color-primary);
   border: none;
   margin: 0;
 }
 
 .menu-with-x .masthead {
   align-items: center;
-  background-color: var(--primitive-color-brand-champagne);
+  background-color: var(--semantic-background-color-primary);
   display: flex;
   gap: 0;
   height: 81px;
-  justify-content: center;
   padding: 0;
   position: relative;
   width: 100%;

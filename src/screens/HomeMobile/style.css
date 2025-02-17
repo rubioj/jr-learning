@@ -3,8 +3,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  width: 393px;
-  background-color: var(--semantic-background-color-primary);
+  width: 100%;
 }
 
 .home-mobile .header-no-text {
@@ -20,7 +19,7 @@
 .home-mobile .header {
   align-items: center;
   align-self: stretch;
-  background-color: var(--primitive-color-brand-champagne-duplicate);
+  background-color: var(--primitive-color-brand-champagne);
   display: flex;
   gap: 10px;
   justify-content: center;
@@ -38,9 +37,17 @@
 }
 
 .home-mobile .masthead {
+  align-items: center;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  gap: 0;
   height: 81px;
+  padding: 0;
   position: relative;
-  width: 320px;
+  width: 100%;
+  border: none;
+  align-items: center;
+  justify-content: center;
 }
 
 .home-mobile .hero {
@@ -76,56 +83,58 @@
   justify-content: center;
   position: relative;
   width: 100%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 10px; /* Add margin-top to create space between header and text */  
+}
+
+
+.home-mobile .text-wrapper-company-name {
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: 20px;
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: 700;
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
+  line-height: var(--text-heading-mobile-light-line-height);
+  display: block;
+  margin-top: 10px;
+  color: var(--semantic-text-primary);
+  padding: 15px;
+  position: relative;
+  text-align: center;
+  
 }
 
 .home-mobile .medium-length-hero {
   align-self: stretch;
   color: var(--semantic-text-primary);
-  font-family: var(--heading-mobile-h1-font-family);
-  font-size: var(--heading-mobile-h1-font-size);
-  font-style: var(--heading-mobile-h1-font-style);
-  font-weight: var(--heading-mobile-h1-font-weight);
-  letter-spacing: var(--heading-mobile-h1-letter-spacing);
-  line-height: var(--heading-mobile-h1-line-height);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: var(--text-heading-mobile-light-font-size);
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: var(--text-heading-mobile-light-font-weight);
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
+  line-height: var(--text-heading-mobile-light-line-height);
   margin-top: -1.00px;
   position: relative;
-}
-
-.home-mobile .div {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
+  padding-top: 20px;
 }
 
 .home-mobile .heading-1 {
   align-self: stretch;
   color: var(--semantic-text-primary);
-  font-family: var(--text-large-normal-font-family);
-  font-size: var(--text-large-normal-font-size);
-  font-style: var(--text-large-normal-font-style);
-  font-weight: var(--text-large-normal-font-weight);
-  letter-spacing: var(--text-large-normal-letter-spacing);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: 20px;
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: 400;
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
   line-height: var(--text-large-normal-line-height);
   margin-top: -1.00px;
   position: relative;
+  text-align: center
 }
 
-.home-mobile .text-wrapper-company-name {
-  font-family: var(--heading-mobile-h5-font-family);
-  font-size: var(--heading-mobile-h5-font-size);
-  font-style: var(--heading-mobile-h5-font-style);
-  font-weight: var(--heading-mobile-h5-font-weight);
-  letter-spacing: var(--heading-mobile-h5-letter-spacing);
-  line-height: var(--heading-mobile-h5-line-height);
-  display: block;
-  margin-top: 10px;
-  color: var(--semantic-text-primary);
-}
 
 .home-mobile .actions {
   align-items: center;
@@ -137,6 +146,18 @@
   position: relative;
   width: 123px;
   background-color: var(--primitive-color-brand-carrot);
+}
+
+
+.home-mobile .div {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .home-desktop .contact-wrapper {
@@ -194,12 +215,12 @@
 
 .home-mobile .skater {
   height: 578px;
-  object-fit: contain;
+  object-fit: cover;
   position: relative;
   width: 100%;
   max-width: 393px;
   box-sizing: border-box;
-  align-self: center;
+  align-self: left;
 }
 
 .home-mobile .vrtality {
@@ -416,8 +437,6 @@
   position: relative;
 }
 
-
-
 .home-mobile .heading-wrapper {
   align-items: flex-start;
   align-self: stretch;
@@ -497,7 +516,6 @@
   text-align: center;
 }
 
-
 .home-mobile .social-links {
   align-items: flex-start;
   align-self: stretch;
@@ -567,6 +585,7 @@
   position: relative;
   text-align: center;
 }
+
 .home-mobile .text-wrapper-5 {
   color: var(--semantic-link-primary);
   font-family: var(--text-small-link-font-family);
@@ -613,4 +632,76 @@
   background-color: #5C191C !important;  /* Espresso color */
   color: #F7E7CE !important;  /* Champagne color */
   text-decoration: none !important;
+}
+
+.hero-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--semantic-background-color-secondary);
+}
+
+.hero {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  width: 100%;
+  padding: 1rem;
+}
+
+.photo-skater {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%; /* Full width */
+  height: 100vh; /* Full viewport height */
+  z-index: 1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.skater-image {
+  width: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0.9;
+  height: 830px;
+  
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+
+.logo-heading {
+  position: relative;
+  z-index: 2;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.heading {
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.text-wrapper-subheading {
+  text-align: left;
+}
+
+.hero-description {
+  text-align: left;
+  padding: 0;
 }

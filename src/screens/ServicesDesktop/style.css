@@ -198,6 +198,64 @@
   width: 100%;
 }
 
+.services-desktop .list-classes {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--semantic-background-color-secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 112px 64px;
+  position: relative;
+  width: 100%;
+}
+
+
+.services-desktop .classes-header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 40px 64px;
+  position: relative;
+  width: 100%;
+}
+.services-desktop .inquire-courses {
+  background-color: var(--semantic-background-color-champagne);
+  border: 1px solid;
+  border-color: var(--semantic-border-primary);
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  padding: 4px 16px;
+  min-width: 120px;
+  text-align: center;
+}
+
+.services-desktop .inquire-courses .text-wrapper-2 {
+  all: unset;
+}
+
+.services-desktop .inquire-courses .inquire-link-text {
+  color: var(--primitive-color-brand-espresso) !important;
+  font-family: var(--text-medium-light-font-family) !important;
+  font-size: var(--text-medium-light-font-size) !important;
+  font-style: var(--text-medium-light-font-style) !important;
+  font-weight: var(--text-medium-light-font-weight) !important;
+  letter-spacing: var(--text-medium-light-letter-spacing) !important;
+  line-height: var(--text-medium-light-line-height) !important;
+  text-decoration: none !important;
+}
+
 .services-desktop .container-2 {
   align-items: center;
   align-self: stretch;
@@ -391,11 +449,13 @@
 .services-desktop .row-2 {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 48px;
+  display: grid;
+  grid-template-columns: calc((100vw - 128px - 40px) / 3) calc((100vw - 128px - 40px) / 3) calc((100vw - 128px - 40px) / 3);
+  gap: 20px;
   position: relative;
-  width: 100%;
+  width: calc(100vw - 128px);
+  margin: 0 auto;
+  padding: 0;
 }
 
 .services-desktop .div-6 {
@@ -404,6 +464,14 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
+  gap: 24px;
+  position: relative;
+}
+
+.services-desktop .class-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
   gap: 24px;
   position: relative;
 }

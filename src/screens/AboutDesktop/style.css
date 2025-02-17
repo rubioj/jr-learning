@@ -42,6 +42,18 @@
   overflow: hidden;
 }
 
+.about-desktop .GPT {
+  align-items: flex-start;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  height: auto;
+  padding: 112px 64px;
+  position: relative;
+  width: 100%;
+}
+
 .about-desktop .content {
   align-items: flex-start;
   align-self: stretch;
@@ -479,17 +491,7 @@
   width: 746px;
 }
 
-.about-desktop .GPT {
-  align-items: flex-start;
-  background-color: var(--semantic-background-color-primary);
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
-  height: 806px;
-  padding: 112px 64px;
-  position: relative;
-  width: 100%;
-}
+
 
 .about-desktop .container-2 {
   align-items: center;

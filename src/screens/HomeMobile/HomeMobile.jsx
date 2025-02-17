@@ -8,6 +8,19 @@ import gardenVRVideo from "../../../static/img/GardenVR.mp4";
 import { Footer } from "../../components/Footer/Footer";
 
 export const HomeMobile = () => {
+  const [offset, setOffset] = React.useState(0);
+
+  React.useEffect(() => {
+    const handleScroll = () => {
+      setOffset(window.pageYOffset);
+    };
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
   return (
     <div className="home-mobile">
       <div className="header-no-text">
@@ -22,43 +35,43 @@ export const HomeMobile = () => {
           <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
         </header>
       </div>
+              
+        <div className="hero">
+          <div className="content">
+            <div className="column">
+              <p className="medium-length-hero">
+                Creative Design for Social Impact
+              </p>
+            </div>
 
-      <div className="hero">
-        <div className="content">
-          <div className="column">
-            <p className="medium-length-hero">
-              Creative Design for Social Impact
-            </p>
-          </div>
+           
+            <span className="text-wrapper-company-name">
+                Leaders in Technology and AI-Based Learning
+                </span>
+              <p className="heading-1">
+              a collaborative space that creates transformative learning
+                  experiences powered by technology and artificial intelligence.
+                  We facilitate growth, inclusion, and lifelong learning to build
+                  stronger communities.
+              </p>
 
-          <div className="div">
-          <span className="text-wrapper-company-name">
-              Leaders in Technology and AI-Based Learning
-              </span>
-            <p className="heading-1">
-            a collaborative space that creates transformative learning
-                experiences powered by technology and artificial intelligence.
-                We facilitate growth, inclusion, and lifelong learning to build
-                stronger communities.
-            </p>
-
-            <div className="actions">
-            <Button
-              alternate={false}
-              className="contact"
-              divClassName="button-instance"
-              iconPosition="no-icon"
-              small
-              style="primary"
-              text="Contact Us"
-              href="/contact-mobile"
-            />
-          </div>
-          </div>
+              <div className="actions">
+              <Button
+                alternate={false}
+                className="contact"
+                divClassName="button-instance"
+                iconPosition="no-icon"
+                small
+                style="primary"
+                text="Contact Us"
+                href="/contact-mobile"
+              />
+            </div>
+            </div>
+         
         </div>
-
+      
         <img className="skater" alt="Skater" src="/img/skater.png" />
-      </div>
 
       <div className="vrtality">
         <div className="container">

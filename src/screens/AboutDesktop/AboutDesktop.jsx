@@ -73,10 +73,10 @@ export const AboutDesktop = () => {
               </span>
 
               <span className="span">
-                Through cutting-edge frameworks and tools, we act as catalysts
+                Through cutting-edge structured approaches. and tools, we act as catalysts
                 for positive change. Our goal is to cultivate thriving
                 communities by providing the knowledge and opportunities they
-                need to unlock their full potential and create a more equitable,
+                need to unlock their full potential and create a more 
                 connected, and learning-oriented world.
               </span>
             </p>
@@ -112,11 +112,10 @@ export const AboutDesktop = () => {
           <div className="div-6">
             <p className="text-suspendisse">
               We believe that learning should be a joyful experience, enriched
-              by the diverse perspectives of everyone involved. We harness the
-              power of community to create transformative, liberating learning
+              by different perspectives of everyone involved. We harness the
+              power of community to create transformative learning
               experiences. Guided by this vision, our methodology is rooted in
-              participatory design, driven by the principles of liberation, and
-              fueled by creativity.
+              participatory design, driven by the principles of creativity and collaboration.
             </p>
 
             <div className="actions-2">
@@ -244,11 +243,18 @@ export const AboutDesktop = () => {
                   Inspiring Community Empowerment Through Collaborative
                   Strategies and Initiatives
                 </p>
-
-                <p className="text">
-                  We provide tools and strategies that mobilize communities to
-                  inspire change.
+                <p className="text">At JR Learning Labs, we believe that true change is rooted 
+                in collaboration, knowledge, and shared vision. Our approach is centered on providing 
+                the tools and strategies that empower communities to take action and drive meaningful impact.
+                Through a combination of technology, AI-driven learning, and human-centered methodologies,
+                we help individuals and organizations unlock their full potential, equipping them with the skills 
+                and insights needed to create lasting transformation.
+                We facilitate inclusive learning environments, hands-on workshops, and interactive experiences
+                that bring together different voices to co-create solutions for today’s challenges. 
+                By fostering collaboration and leveraging innovative strategies, we help communities 
+                turn ideas into tangible action, ensuring that growth and learning remain at the heart of progress.
                 </p>
+        
               </div>
             </div>
 
@@ -261,8 +267,16 @@ export const AboutDesktop = () => {
                 </p>
 
                 <p className="text">
-                  Our learning experiences are tailored to meet the unique needs
-                  of each community.
+                At JR Learning Labs, we believe that learning is most powerful when it is relevant, 
+                immersive, and deeply connected to the needs of the communities it serves. 
+                Our approach goes beyond traditional education by designing dynamic, 
+                hands-on learning experiences that are tailored to the unique challenges, 
+                aspirations, and strengths of each community.
+
+                Through AI-driven insights, interactive methodologies, and collaborative problem-solving, 
+                we create environments where learning is not just informative but transformative. 
+                Whether through customized workshops, digital learning platforms, or in-person community labs, our programs are designed to spark curiosity, inspire action, and build lasting skills that drive sustainable change.
+
                 </p>
               </div>
 

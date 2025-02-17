@@ -9,6 +9,7 @@ import "./style.css";
 import BuildLearnPlayVideo from "../../../static/img/Build-Learn-Play.mp4";
 import { Link } from "react-router-dom";
 import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
+import { courses } from "../../data/courses";
 
 export const ServicesDesktop = () => {
   return (
@@ -35,9 +36,9 @@ export const ServicesDesktop = () => {
           
         </div>
       </div>
-
-      <div className="div-5">
-        <div className="section-title-2">
+    
+      <div className="classes-header">
+      <div className="section-title-2">
           <div className="tagline-wrapper">
             <div className="tagline-2">Offerings</div>
           </div>
@@ -53,123 +54,53 @@ export const ServicesDesktop = () => {
             </p>
           </div>
         </div>
+        </div>
+
+      <div className="list-classes">
+       
 
         <div className="row-wrapper">
           <div className="row-2">
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              AI for Everyone: A Community-Centered Introduction to AI
-              </p>
-
-              <p className="text-2">
-              Engaging communities in the co-creation process to ensure 
-              that all voices are heard and valued in the evolving landscape of AI.
-              </p>
-            </div>
-
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <div className="heading-classes">AI Foundations: Understanding the Basics</div>
-
-              <p className="text-2">
-              An accessible introduction to AI concepts, ethics, and real-world 
-              applications for learners of all backgrounds
-              </p>
-            </div>
-
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              AI for Adults: Practical Applications for Work & Life
-              </p>
-
-              <p className="text-2">
-              Designed for adult learners, this course explores how AI can enhance productivity, 
-              decision-making, and everyday tasks
-              </p>
-            </div>
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              AI for Creatives: Unleash Your Imagination with AI
-              </p>
-
-              <p className="text-2">
-              A hands-on exploration of AI-powered tools
-               that amplify creativity in art, design, and storytelling.
-              </p>
-            </div>
-           
-          </div>
-
           <div className="row-wrapper">
-          <div className="row-2">
- <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              AI for Youth: Supporting the Next Generation of Innovators             </p>
-
-              <p className="text-2">
-              An interactive program that introduces 
-              young learners to AI through engaging, real-world projects.
-              </p>
-            </div>
-          <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              Co-Designing with Youth: Creating the Future Together             </p>
-
-              <p className="text-2">
-              A participatory approach to co-design, 
-              equipping youth with the skills to collaborate, innovate, and lead impactful projects.
-              </p>
-            </div>
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              Co-Designing for Adults: Strategies for Inclusive Innovation          </p>
-
-              <p className="text-2">
-              An interactive program 
-              that introduces young learners to AI through engaging, real-world projects.
-              </p>
-            </div>
-            <div className="div-6">
-              <IconRelume9 className="icon-relume-7" />
-              <p className="heading-classes">
-              Games-Based Learning: Designing & Facilitating Learning Experiences with Games         </p>
-
-              <p className="text-2">
-              Learn how to design and facilitate games-based learning workshops,
-              explore the fundamental components of game design, 
-              and create a playable prototype using accessible digital tools.
-              </p>
-            </div>
-          </div>
-        </div>
-        </div>
-
-        <div className="actions-2">
-          <Button
+  <div className="row-2">
+    {courses.map((course) => (
+      <div key={course.id} className="class-wrapper">
+        <IconRelume9 className="icon-relume-7" />
+        <p className="heading-classes">{course.title}</p>
+        <p className="text-2">{course.description}</p>
+        <Button
             alternate={false}
-            className="button-4"
+            className="inquire-courses"
             iconPosition="no-icon"
-            small={false}
+            small={true}
             style="secondary"
             text={
               <Link 
-                to="/contact-desktop" 
+                to="/contact-mobile" 
+                className="inquire-link-text"
                 state={{ 
                   prefilledMessage: "We will be happy to help you! Please tell us what class you are interested in."
                 }}
               >
-                Inquire Now
+                Inquire 
               </Link>
             }
           />
+            </div>
+    ))}
+  </div>
+</div>
+
+             
+
+            
+           
+           
           
         </div>
+        </div>
+
+       
       </div>
 
       <div className="container-wrapper">

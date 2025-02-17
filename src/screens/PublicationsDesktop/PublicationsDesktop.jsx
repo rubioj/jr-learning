@@ -30,26 +30,26 @@ export const PublicationsDesktop = () => {
             <a
               href="https://journals.sagepub.com/doi/10.1177/09610006241307385?utm_source=selligent&amp;utm_medium=email&amp;utm_campaign=joa_con_authc_multi_publishedauthorcarejourney&amp;utm_content=23u0062_a&amp;utm_term=&amp;m_i=nPTnhLSqLchfEWzdGbDTJWRou2wuXbrwD1XW2m95e3mYk5UHXEhNJeUJA3_06nqsCQqdQ%2BycTkSbepJUX9y4yxId_yGJLx%2BWkLLCnc&amp;nbd=56519933&amp;nbd_source=slgnt&amp;M_BT=1597260145504089"
               rel="noopener noreferrer"
-              target="_blank"
+              target="_self"
             >
-              <p className="title">
+              <p className="link-text-4">
                 Facilitating Effective Co-design in Library Settings
               </p>
             </a>
           </div>
-
+          
           <div className="article">
             <IconLinkExternal className="article-icon" />
             <a
               href="https://drive.google.com/file/d/1ei7CfN_JllS5_4jYeQZ6_tfs0jMgN6fr/view"
               rel="noopener noreferrer"
-              target="_blank"
+              target="_self"
             >
-              <p className="p">Navigating an AI -Empowered Future</p>
+              <p className="link-text-4">Navigating an AI -Empowered Future</p>
             </a>
           </div>
 
-          <div className="article-2">
+          <div className="article">
             <IconLinkExternal className="article-icon" />
             <a
               href="https://www.sciencedirect.com/science/article/abs/pii/S221286892400062X"

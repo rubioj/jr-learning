@@ -92,16 +92,17 @@ export const PublicationsMobile = () => {
 
       <div className="main-title">Learning for Change</div>
 
-      <Button
-        alternate={false}
-        className="contact-us"
-        icon={<IconRelume1 className="icon-relume-1" />}
-        iconPosition="leading"
-        small={false}
-        style="secondary"
-        text="Contact Us"
-        href="/contact-mobile"
-      />
+      <Link to="/contact-mobile">
+        <Button
+          alternate={false}
+          className="contact-us"
+          icon={<IconRelume1 className="icon-relume-1" />}
+          iconPosition="leading"
+          small={false}
+          style="secondary"
+          text="Contact Us"
+        />
+      </Link>
       <p className="subtitle">Collective Design for Social Good</p>
 
       <p className="description">

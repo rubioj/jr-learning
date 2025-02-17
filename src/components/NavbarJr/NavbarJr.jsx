@@ -19,8 +19,13 @@ export const NavbarJr = ({
 }) => {
   return (
     <div className={`navbar-JR ${className}`}>
+      
       <Link to="/home-desktop" className="company-name">
-        JR Learning Labs
+        <div className="logo-wrapper">
+          <img className="logo default-logo" alt="Logo" src="/img/navbar-logo.png" />
+          <img className="logo hover-logo" alt="Logo" src="/img/navbar-logo-carrot.png" />
+          Learning Labs
+        </div>
       </Link>
       <div className="menu">
         <Hover
