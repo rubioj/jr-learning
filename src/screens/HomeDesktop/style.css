@@ -11,7 +11,6 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
-  height: 112px;
   position: relative;
   width: 100%;
 }
@@ -27,82 +26,116 @@
   width: 24px !important;
 }
 
-.home-desktop .hero {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--semantic-background-color-secondary);
-  display: flex;
-  flex-direction: column;
-  gap: 11px;
-  height: 769px;
-  padding: 0px 0px 1px;
+.home-desktop .hero-container {
   position: relative;
   width: 100%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 2rem;
 }
 
-.home-desktop .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  height: 808px;
-  margin-bottom: -40.00px;
-  padding: 0px 0px 17px;
+.home-desktop .hero {
   position: relative;
+  z-index: 2;
+  height: 100%;
   width: 100%;
+  padding: 2rem; 
+  margin-top: 0px;/* Add padding if needed */
+}
+
+.home-desktop .hero-description {
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: 36px;
+  line-height: 1.5;
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: center;
+  color: var(--primitive-color-brand-espresso);
+  padding: 15px;
+  border-radius: 8px;
+  position: relative;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.home-desktop .content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
 }
 
 .home-desktop .logo-heading {
-  align-items: center;
-  align-self: stretch;
+  position: relative;
+  z-index: 2;
+  max-width: 100%;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
-  gap: 24px;
-  height: 760px;
-  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
   position: relative;
-  width: 100%;
 }
 
-.home-desktop .logo {
+.home-desktop .logo-homepage {
   height: 194.02px;
   position: relative;
 }
 
 .home-desktop .heading {
   align-self: stretch;
-  color: var(--semantic-text-primary);
-  font-family: "Roboto", Helvetica;
-  font-size: 96px;
+  color: var(--primitive-color-brand-espresso);
+  font-family: "Noto Sans", sans-serif;
   font-weight: 700;
-  height: auto;
-  letter-spacing: 0;
+  font-size: 96px;
+  letter-spacing: 2px;
   line-height: 115.2px;
   position: relative;
   text-align: center;
   width: 100%;
- 
+  /*text-shadow: 
+    3px 3px 6px rgba(0, 0, 0, 0.3),
+    0 0 20px rgba(255, 255, 255, 0.4);*/
+  padding: 40px;
+  border-radius: 8px;
+  position: relative;
 }
+
 
 .home-desktop .span {
-  color: #5c191c;
-  font-family: "Roboto", Helvetica;
+  color: var(--primitive-color-brand-carrot);
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
   font-size: 96px;
-  font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 2px;
   line-height: 115.2px;
+  text-transform: uppercase;
+  background: linear-gradient(
+    45deg,
+    var(--primitive-color-brand-carrot) 0%,
+    #FF8B5E 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: none;
 }
 
-
-.home-desktop .text-wrapper-company-name {
-  font-family: var(--heading-mobile-h3-font-family);
-  font-size: var(--heading-mobile-h3-font-size);
-  font-style: var(--heading-mobile-h3-font-style);
-  font-weight: var(--heading-mobile-h3-font-weight);
-  letter-spacing: var(--heading-mobile-h3-letter-spacing);
-  line-height: var(--heading-mobile-h3-line-height);
+.home-desktop .text-wrapper-subheading {
+  font-family: var(--text-heading-light-font-family);
+  font-size: 48px;
+  font-weight: var(--text-heading-light-font-weight);
+  letter-spacing: var(--text-heading-light-letter-spacing);
+  line-height: var(--text-heading-light-line-height);
   display: block;
-  margin-top: 10px;
+  margin-top: 20px;
+  color: var(--espresso);
+  text-align: center;
+  
 }
 
 .home-desktop .institutions {
@@ -134,8 +167,8 @@
   font-weight: var(--heading-desktop-h6-font-weight);
   letter-spacing: var(--heading-desktop-h6-letter-spacing);
   line-height: var(--heading-desktop-h6-line-height);
-  
-}
+  color: var(--primitive-color-brand-espresso);
+  }
 
 .home-desktop .text-wrapper-5 {
   font-family: var(--heading-mobile-h5-font-family);
@@ -214,8 +247,7 @@
   display: flex;
   flex-direction: column;
   gap: 80px;
-  height: auto;
-  padding: 0px 0px 36px;
+  height: 650px;
   position: relative;
   width: 100%;
 }
@@ -485,19 +517,7 @@
   position: relative;
 }
 
-.home-desktop .text-wrapper-6 {
-  color: #5c191c;
-  font-family: var(--text-large-normal-font-family);
-  font-size: var(--text-large-normal-font-size); 
-  font-style: var(--text-large-normal-font-style);
-  font-weight: var(--text-large-normal-font-weight);
-  letter-spacing: var(--text-large-normal-letter-spacing);
-  line-height: var(--text-large-normal-line-height);
-  width: 50%;
-  margin: 0 auto;
-  display: block;
-  text-align: justify;
-}
+
 
 .home-desktop .text-wrapper-7 {
   font-family: var(--text-medium-normal-font-family);
@@ -763,3 +783,6 @@
   white-space: nowrap;
   width: fit-content;
 }
+
+/* Additional specific text color overrides */
+

@@ -24,7 +24,6 @@ export const ContactDesktop = () => {
     firstName: '',
     lastName: '',
     email: '',
-    phone: '',
     description: '',
     acceptTerms: false
   });
@@ -53,7 +52,6 @@ export const ContactDesktop = () => {
       const templateParams = {
         from_name: `${formData.firstName} ${formData.lastName}`,
         reply_to: formData.email,
-        phone: formData.phone,
         message: formData.description,
         to_email: 'rubiojuan@gmail.com'
       };
@@ -73,7 +71,6 @@ export const ContactDesktop = () => {
         firstName: '',
         lastName: '',
         email: '',
-        phone: '',
         description: '',
         acceptTerms: false
       });
@@ -148,14 +145,7 @@ export const ContactDesktop = () => {
             </div>
 
             <div className="input">
-              <input 
-                className="div-4" 
-                placeholder="Phone number" 
-                type="tel"
-                name="phone"
-                value={formData.phone}
-                onChange={(e) => setFormData({...formData, phone: e.target.value})}
-              />
+              
             </div>
           </div>
 

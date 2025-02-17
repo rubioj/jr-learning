@@ -39,18 +39,60 @@
 }
 
 .navbar-JR .company-name {
-  font-family: var(--heading-desktop-h3-font-family);
-  font-size: var(--heading-desktop-h3-font-size);
-  font-style: var(--heading-desktop-h3-font-style);
-  font-weight: var(--heading-desktop-h3-font-weight);
-  letter-spacing: var(--heading-desktop-h3-letter-spacing);
-  line-height: var(--heading-desktop-h3-line-height);
-  display: block;
-  margin-top: 0;
+  font-family: var(--text-heading-light-font-family);
+  font-size: 50px;
+  font-style: var(--text-heading-light-font-style);
+  font-weight: var(--text-heading-light-font-weight);
+  letter-spacing: var(--text-heading-light-letter-spacing);
+  line-height: var(--text-heading-light-line-height);
+  display: flex;
+  align-items: center;
+  gap: 12px;
   color: var(--primitive-color-brand-parsley);
   text-decoration: none;
 }
 
 .navbar-JR .company-name:hover {
   color: var(--primitive-color-brand-carrot);
+}
+
+.navbar-JR .logo {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+}
+
+.navbar-JR .logo-text {
+  font-family: var(--heading-desktop-h3-font-family);
+  font-size: var(--heading-desktop-h3-font-size);
+  font-style: var(--heading-desktop-h3-font-style);
+  font-weight: var(--heading-desktop-h3-font-weight);
+  letter-spacing: var(--heading-desktop-h3-letter-spacing);
+  line-height: var(--heading-desktop-h3-line-height);
+  color: var(--semantic-text-primary);
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.logo {
+  transition: opacity 0.3s ease;
+}
+
+.hover-logo {
+  position: absolute;
+  left: 0;
+  opacity: 0;
+}
+
+.company-name:hover .default-logo {
+  opacity: 0;
+}
+
+.company-name:hover .hover-logo {
+  opacity: 1;
 }

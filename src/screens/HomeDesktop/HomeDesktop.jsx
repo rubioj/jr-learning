@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Button } from "../../components/Button";
 import { NavbarJr } from "../../components/NavbarJr";
 import { CompanyLogo } from "../../icons/CompanyLogo";
@@ -12,6 +12,20 @@ import { Link } from "react-router-dom";
 import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 
 export const HomeDesktop = () => {
+  const [offset, setOffset] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setOffset(window.pageYOffset);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
     <div className="home-desktop">
       <div className="navbar">
@@ -21,33 +35,36 @@ export const HomeDesktop = () => {
         />
       </div>
 
-      <div className="hero">
-        <div className="content">
-          <div className="logo-heading">
-            <img className="logo" alt="Logo" src="/img/logo.svg" />
+      <div className="hero-container">
+        <div className="hero">
+          <div className="content">
+            <div className="logo-heading">
+            <img className="logo-homepage" alt="Logo" src="/img/logo.svg" />
+          
 
-            <p className="heading">
-              <span className="span">
-                Creative Design for Social Impact
-              </span>
+              <p className="heading">
+                    Creative Design for Social Impact  
+              </p>
 
-              <span className="text-wrapper-4"></span>
+                <p className="text-wrapper-subheading">
+                 Leaders in Technology and AI-Based Learning
+                </p>
+                
+                
+                <p className="hero-description">
+                  a collaborative space that creates transformative learning
+                  experiences powered by technology and artificial intelligence.
+                  We facilitate growth and lifelong learning to build
+                  stronger communities.
+                </p>
 
-              <span className="text-wrapper-company-name">
-               Leaders in Technology and AI-Based Learning
-              </span>
               
-              <span className="text-wrapper-6">
-                a collaborative space that creates transformative learning
-                experiences powered by technology and artificial intelligence.
-                We facilitate growth, inclusion, and lifelong learning to build
-                stronger communities.
-              </span>
-
-              <span className="span"> </span>
-            </p>
+              
+            </div>
           </div>
         </div>
+
+        
       </div>
 
      
@@ -80,8 +97,7 @@ export const HomeDesktop = () => {
           
         </div>
     
-
-      <div className="photo-skater">
+        <div className="photo-skater">
         <img
           className="skater-image"
           alt="Skater image"
@@ -253,7 +269,8 @@ export const HomeDesktop = () => {
               <p className="text-2">
                 Collaborating with seven libraries nationwide, JR spearheaded
                 the development of a comprehensive framework to promote teen
-                mental health. The Nourishing Minds project utilized
+                mental health. The Nourishing Minds project,  with support from IMLS at 
+                the Seattle Public Library, utilized
                 participatory design principles, ensuring that the voices of
                 teens, library staff, undergraduate and graduate interns,
                 university professors, and design experts were at the heart of
@@ -295,7 +312,7 @@ export const HomeDesktop = () => {
               <div className="heading-2">Let&#39;s Collaborate for Change</div>
 
               <p className="text">
-                Reach out to explore partnership opportunities today!
+                Reach out to explore how we can work together to design and develop learning programs and services.
               </p>
             </div>
           </div>

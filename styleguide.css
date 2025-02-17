@@ -133,7 +133,7 @@
   --semantic-link-secondary: var(--primitive-color-neutral-neutral);
   --semantic-text-error: var(--primitive-color-system-error-red);
   --semantic-text-primary: var(--primitive-color-brand-espresso);
-  --semantic-text-secondary: var(--primitive-color-neutral-neutral-light);
+  --semantic-text-secondary: var(--primitive-color-brand-parsley);
   --semantic-text-success: var(--primitive-color-system-success-green);
   --small: 0px 2px 4px -2px rgba(0, 0, 0, 0.06), 0px 4px 8px -2px
     rgba(0, 0, 0, 0.1);
@@ -353,6 +353,30 @@
     rgba(0, 0, 0, 0.1);
   --xxlarge: 0px 32px 64px -12px rgba(0, 0, 0, 0.14);
   --xxsmall: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+  --text-heading-light-font-family: "Noto Sans", sans-serif;
+  --text-heading-light-font-size: 96px;
+  --text-heading-light-font-style: normal;
+  --text-heading-light-font-weight: 400;
+  --text-heading-light-letter-spacing: 2px;
+  --text-heading-light-line-height: 115.2px;
+  
+  --text-heading-mobile-light-font-family: "Noto Sans", sans-serif;
+  --text-heading-mobile-light-font-size: 30px;
+  --text-heading-mobile-light-font-style: normal;
+  --text-heading-mobile-light-font-weight: 800;
+  --text-heading-mobile-light-letter-spacing: 2px;
+  --text-heading-mobile-light-line-height: 40.2px;
+
+  --text-heading-bold-font-family: "Noto Sans", sans-serif;
+  --text-heading-bold-font-size: 96px;
+  --text-heading-bold-font-style: normal;
+  --text-heading-bold-font-weight: 400;
+  --text-heading-bold-letter-spacing: 2px;
+  --text-heading-bold-line-height: 115.2px;
+  
+
+
 }
 
 /*

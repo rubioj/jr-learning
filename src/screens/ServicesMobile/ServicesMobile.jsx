@@ -87,7 +87,7 @@ export const ServicesMobile = () => {
             </p>
 
             <p className="text">
-            A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling.*
+            A hands-on exploration of AI-powered tools that amplify creativity in art, design, and storytelling.
               </p>
           </div>
 

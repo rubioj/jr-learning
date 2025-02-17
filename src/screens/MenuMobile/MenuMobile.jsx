@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import { MenuItem } from "../../components/MenuItem/MenuItem.jsx";
 import { MenuWithX } from "../../components/MenuWithX/MenuWithX.jsx";
 import "./style.css";
+import { Button } from "../../components/Button";
+import { IconRelume1 } from "../../icons/IconRelume1";
 
 export const MenuMobile = () => {
   const handleMenuClick = () => {
@@ -12,8 +14,6 @@ export const MenuMobile = () => {
   return (
     <div className="menu-mobile">
       <MenuWithX
-        divClassName="menu-with-x-instance"
-        iconMenuClassName="menu-header"
         onMenuClick={handleMenuClick}
       />
       <Link to="/">
@@ -42,6 +42,18 @@ export const MenuMobile = () => {
           className="menu-item-instance"
           divClassName="design-component-instance-node"
           text="Publications"
+        />
+      </Link>
+
+      <Link to="/contact-mobile">
+        <Button
+          alternate={false}
+          className="contact-us"
+          icon={<IconRelume1 className="icon-relume-1" />}
+          iconPosition="leading"
+          small={false}
+          style="secondary"
+          text="Contact Us"
         />
       </Link>
       

@@ -20,7 +20,6 @@ export const ContactMobile = () => {
     firstName: '',
     lastName: '',
     email: '',
-    phone: '',
     description: '',
     acceptTerms: false
   });
@@ -40,7 +39,6 @@ export const ContactMobile = () => {
       const templateParams = {
         from_name: `${formData.firstName} ${formData.lastName}`,
         reply_to: formData.email,
-        phone: formData.phone,
         message: formData.description,
         to_email: 'rubiojuan@gmail.com'
       };
@@ -60,8 +58,7 @@ export const ContactMobile = () => {
         firstName: '',
         lastName: '',
         email: '',
-        phone: '',
-        description: '',
+          description: '',
         acceptTerms: false
       });
     } catch (error) {
@@ -133,16 +130,7 @@ export const ContactMobile = () => {
             />
           </div>
 
-          <div className="input">
-            <input 
-              className="div-4" 
-              placeholder="Phone number" 
-              type="tel"
-              name="phone"
-              value={formData.phone}
-              onChange={(e) => setFormData({...formData, phone: e.target.value})}
-            />
-          </div>
+          
 
           <div className="input-2">
             <div className="text-wrapper-7">Message</div>

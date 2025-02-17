@@ -11,7 +11,7 @@
 .publications-mobile .header {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--primitive-color-brand-champagne-duplicate);
+  background-color: var(--primitive-color-brand-champagne);
   display: flex;
   flex: 0 0 auto;
   position: relative;
@@ -22,8 +22,6 @@
   align-items: center;
   align-self: stretch;
   background-color: var(--primitive-color-brand-champagne-duplicate);
-  border: 1px solid;
-  border-color: var(--primitive-color-brand-purple-duplicate);
   display: flex;
   gap: 10px;
   justify-content: center;
