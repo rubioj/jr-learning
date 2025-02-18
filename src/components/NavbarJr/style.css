@@ -5,19 +5,20 @@
   flex-direction: row;
   height: 112px;
   justify-content: space-between;
-  padding: 0px 63px 0px 64px;
+  padding: 0px 32px;
   position: relative;
-  width: 1768px;
+  width: 100%;
 }
 
 .navbar-JR .menu {
   align-items: center;
   display: flex;
-  flex: 0 0 auto;
-  gap: 61px;
+  flex: 1;
+  gap: 32px;
   justify-content: flex-end;
   position: relative;
-  width: 914px;
+  min-width: 0;
+  margin-left: 32px;
 }
 
 .navbar-JR .design-component-instance-node {
@@ -50,6 +51,7 @@
   gap: 12px;
   color: var(--primitive-color-brand-parsley);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .navbar-JR .company-name:hover {
@@ -77,6 +79,7 @@
   align-items: center;
   gap: 8px;
   position: relative;
+  white-space: nowrap;
 }
 
 .logo {
