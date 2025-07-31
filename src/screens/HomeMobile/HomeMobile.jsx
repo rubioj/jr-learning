@@ -36,6 +36,7 @@ export const HomeMobile = () => {
             />
           </Link>
           <img className="masthead" alt="Masthead" src={mastheadSvg} />
+          {/* Debug: {mastheadSvg} */}
         </header>
       </div>
               

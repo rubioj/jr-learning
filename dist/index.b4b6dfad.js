@@ -37970,6 +37970,12 @@ var _logo = require("../../icons/Logo");
 var _styleCss = require("./style.css");
 var _gardenVRMp4 = require("../../../static/img/GardenVR.mp4");
 var _gardenVRMp4Default = parcelHelpers.interopDefault(_gardenVRMp4);
+var _mastheadSvg = require("../../../static/img/masthead.svg");
+var _mastheadSvgDefault = parcelHelpers.interopDefault(_mastheadSvg);
+var _skaterPng = require("../../../static/img/skater.png");
+var _skaterPngDefault = parcelHelpers.interopDefault(_skaterPng);
+var _placeholderImagePng = require("../../../static/img/placeholder-image.png");
+var _placeholderImagePngDefault = parcelHelpers.interopDefault(_placeholderImagePng);
 var _footer = require("../../components/Footer/Footer");
 var _s = $RefreshSig$();
 const HomeMobile = ()=>{
@@ -38002,32 +38008,32 @@ const HomeMobile = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 29,
+                                lineNumber: 32,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 28,
+                            lineNumber: 31,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "masthead",
                             alt: "Masthead",
-                            src: "/img/masthead.svg"
+                            src: (0, _mastheadSvgDefault.default)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 35,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 27,
+                    lineNumber: 30,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 26,
+                lineNumber: 29,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38042,12 +38048,12 @@ const HomeMobile = ()=>{
                                 children: "Creative Design for Social Impact"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 42,
+                                lineNumber: 46,
                                 columnNumber: 15
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 41,
+                            lineNumber: 45,
                             columnNumber: 13
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -38055,7 +38061,7 @@ const HomeMobile = ()=>{
                             children: "Leaders in Technology and AI-Based Learning"
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 48,
+                            lineNumber: 52,
                             columnNumber: 13
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38063,7 +38069,7 @@ const HomeMobile = ()=>{
                             children: "a collaborative space that creates transformative learning experiences powered by technology and artificial intelligence. We facilitate growth, inclusion, and lifelong learning to build stronger communities."
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 51,
+                            lineNumber: 55,
                             columnNumber: 15
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38079,32 +38085,32 @@ const HomeMobile = ()=>{
                                 href: "/contact-mobile"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 59,
+                                lineNumber: 63,
                                 columnNumber: 15
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 58,
+                            lineNumber: 62,
                             columnNumber: 15
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 40,
+                    lineNumber: 44,
                     columnNumber: 11
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 39,
+                lineNumber: 43,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "skater",
                 alt: "Skater",
-                src: "/img/skater.png"
+                src: (0, _skaterPngDefault.default)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 74,
+                lineNumber: 78,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38125,12 +38131,12 @@ const HomeMobile = ()=>{
                                                 children: "Projects"
                                             }, void 0, false, {
                                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                lineNumber: 81,
+                                                lineNumber: 85,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 80,
+                                            lineNumber: 84,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38141,7 +38147,7 @@ const HomeMobile = ()=>{
                                                     children: "Virtual Reality for Mental Health"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 89,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38149,19 +38155,19 @@ const HomeMobile = ()=>{
                                                     children: "JR specializes in creating impactful learning experiences that leverage technology and community collaboration. With a focus on inclusivity and empowerment, JR's approach transforms educational landscapes for diverse audiences."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 91,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 84,
+                                            lineNumber: 88,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 79,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38183,18 +38189,18 @@ const HomeMobile = ()=>{
                                         children: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                        lineNumber: 97,
+                                        lineNumber: 101,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 96,
+                                    lineNumber: 100,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 78,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("video", {
@@ -38220,25 +38226,25 @@ const HomeMobile = ()=>{
                                     type: "video/mp4"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 135,
+                                    lineNumber: 139,
                                     columnNumber: 15
                                 }, undefined),
                                 "Your browser does not support the video tag."
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 117,
+                            lineNumber: 121,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 77,
+                    lineNumber: 81,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 76,
+                lineNumber: 80,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38257,7 +38263,7 @@ const HomeMobile = ()=>{
                                             children: "Unlock the Power of Collaborative Learning with JR's Expertise"
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 145,
+                                            lineNumber: 149,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38265,13 +38271,13 @@ const HomeMobile = ()=>{
                                             children: "Partnering with JR means gaining access to innovative educational solutions tailored to your community's unique needs. Experience transformative learning that empowers individuals and fosters growth."
                                         }, void 0, false, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 150,
+                                            lineNumber: 154,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 144,
+                                    lineNumber: 148,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38285,7 +38291,7 @@ const HomeMobile = ()=>{
                                                     children: "Empower Communities"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 164,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38293,13 +38299,13 @@ const HomeMobile = ()=>{
                                                     children: "Leverage technology and design to amplify voices and inspire change in your community."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 162,
+                                                    lineNumber: 166,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 159,
+                                            lineNumber: 163,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38310,7 +38316,7 @@ const HomeMobile = ()=>{
                                                     children: "Innovative Solutions"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 169,
+                                                    lineNumber: 173,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38318,34 +38324,34 @@ const HomeMobile = ()=>{
                                                     children: "Collaborative projects that drive social impact and enhance educational experiences for all."
                                                 }, void 0, false, {
                                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                                    lineNumber: 171,
+                                                    lineNumber: 175,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                            lineNumber: 168,
+                                            lineNumber: 172,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 158,
+                                    lineNumber: 162,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 143,
+                            lineNumber: 147,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "placeholder-image",
                             alt: "Placeholder image",
-                            src: "/img/placeholder-image.png"
+                            src: (0, _placeholderImagePngDefault.default)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 179,
+                            lineNumber: 183,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -38365,18 +38371,18 @@ const HomeMobile = ()=>{
                             children: "Learn More"
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 185,
+                            lineNumber: 189,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 142,
+                    lineNumber: 146,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 141,
+                lineNumber: 145,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38392,7 +38398,7 @@ const HomeMobile = ()=>{
                                     children: "Let's Collaborate for Change"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 208,
+                                    lineNumber: 212,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38400,13 +38406,13 @@ const HomeMobile = ()=>{
                                     children: "Reach out to explore partnership opportunities today!"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 210,
+                                    lineNumber: 214,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 207,
+                            lineNumber: 211,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38424,28 +38430,28 @@ const HomeMobile = ()=>{
                                     href: "/contact-mobile"
                                 }, void 0, false, {
                                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                    lineNumber: 217,
+                                    lineNumber: 221,
                                     columnNumber: 15
                                 }, undefined)
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 216,
+                                lineNumber: 220,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 215,
+                            lineNumber: 219,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 206,
+                    lineNumber: 210,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 205,
+                lineNumber: 209,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38460,12 +38466,12 @@ const HomeMobile = ()=>{
                                 children: "Discover the Journey of JR: Innovator in Technology-Driven Learning and Design"
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 235,
+                                lineNumber: 239,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 234,
+                            lineNumber: 238,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38475,34 +38481,34 @@ const HomeMobile = ()=>{
                                 children: "JR's professional journey is marked by a commitment to blending technology with education. As an award-winning instructional designer, JR has collaborated with prestigious organizations like the Tribeca Film Institute and the University of Washington, creating impactful learning experiences. With a focus on community empowerment, JR's work has transformed the educational landscape for diverse populations."
                             }, void 0, false, {
                                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                                lineNumber: 242,
+                                lineNumber: 246,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                            lineNumber: 241,
+                            lineNumber: 245,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                    lineNumber: 233,
+                    lineNumber: 237,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 232,
+                lineNumber: 236,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footer.Footer), {}, void 0, false, {
                 fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-                lineNumber: 255,
+                lineNumber: 259,
                 columnNumber: 11
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/screens/HomeMobile/HomeMobile.jsx",
-        lineNumber: 25,
+        lineNumber: 28,
         columnNumber: 5
     }, undefined);
 };
@@ -38516,7 +38522,7 @@ $RefreshReg$(_c, "HomeMobile");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Button":"bNbfl","../../icons/IconMenu":"ftfv2","../../icons/Logo":"cuRYp","./style.css":"ibamZ","../../../static/img/GardenVR.mp4":"2Olsh","../../components/Footer/Footer":"Sm3O5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ftfv2":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../components/Button":"bNbfl","../../icons/IconMenu":"ftfv2","../../icons/Logo":"cuRYp","./style.css":"ibamZ","../../../static/img/GardenVR.mp4":"2Olsh","../../components/Footer/Footer":"Sm3O5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../../static/img/masthead.svg":"3IVia","../../../static/img/skater.png":"ffhoI","../../../static/img/placeholder-image.png":"cwoWy"}],"ftfv2":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "IconMenu", ()=>(0, _iconMenu.IconMenu));
@@ -38948,7 +38954,16 @@ $RefreshReg$(_c, "Footer");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Logo":"cuRYp","../FooterLinks/FooterLinks":"b3ooA","../../icons/IconLinkedin":"dxfdr","./Footer.css":"4PUEe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4PUEe":[function() {},{}],"eFJ4S":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../icons/Logo":"cuRYp","../FooterLinks/FooterLinks":"b3ooA","../../icons/IconLinkedin":"dxfdr","./Footer.css":"4PUEe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4PUEe":[function() {},{}],"3IVia":[function(require,module,exports,__globalThis) {
+module.exports = require("5e2c72f3a27a2d71").getBundleURL('byUka') + "masthead.a1eed8f1.svg" + "?" + Date.now();
+
+},{"5e2c72f3a27a2d71":"lgJ39"}],"ffhoI":[function(require,module,exports,__globalThis) {
+module.exports = require("6c105e0ee8e00de5").getBundleURL('byUka') + "skater.ef659501.png" + "?" + Date.now();
+
+},{"6c105e0ee8e00de5":"lgJ39"}],"cwoWy":[function(require,module,exports,__globalThis) {
+module.exports = require("5651c2e46b0b1552").getBundleURL('byUka') + "placeholder-image.692f57d6.png" + "?" + Date.now();
+
+},{"5651c2e46b0b1552":"lgJ39"}],"eFJ4S":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "AboutDesktop", ()=>(0, _aboutDesktop.AboutDesktop));
@@ -43677,10 +43692,7 @@ const courses = [
     }
 ];
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"cwoWy":[function(require,module,exports,__globalThis) {
-module.exports = require("5651c2e46b0b1552").getBundleURL('byUka') + "placeholder-image.692f57d6.png" + "?" + Date.now();
-
-},{"5651c2e46b0b1552":"lgJ39"}],"apY9U":[function(require,module,exports,__globalThis) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"apY9U":[function(require,module,exports,__globalThis) {
 module.exports = require("c912be1457db466c").getBundleURL('byUka') + "photograph-in-color-of-a-group-of-people-participating-in-a-desi.5cd39af5.png" + "?" + Date.now();
 
 },{"c912be1457db466c":"lgJ39"}],"k4KPE":[function(require,module,exports,__globalThis) {
@@ -45395,10 +45407,7 @@ $RefreshReg$(_c, "IconX");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7C8ET":[function() {},{}],"3IVia":[function(require,module,exports,__globalThis) {
-module.exports = require("5e2c72f3a27a2d71").getBundleURL('byUka') + "masthead.a1eed8f1.svg" + "?" + Date.now();
-
-},{"5e2c72f3a27a2d71":"lgJ39"}],"kbSFA":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7C8ET":[function() {},{}],"kbSFA":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ContactDesktop", ()=>(0, _contactDesktop.ContactDesktop));
