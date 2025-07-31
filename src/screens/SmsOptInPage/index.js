@@ -1,1 +1,0 @@
-export { SmsOptInPage } from './SmsOptInPage';
