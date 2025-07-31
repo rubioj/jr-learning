@@ -4,6 +4,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 */
 
 import React from "react";
+import mastheadSvg from "../../../static/img/masthead.svg";
 import "./style.css";
 
 export const MenuWithX = ({ iconMenuClassName, divClassName, onMenuClick }) => {
@@ -16,7 +17,7 @@ export const MenuWithX = ({ iconMenuClassName, divClassName, onMenuClick }) => {
           role="button"
           tabIndex={0}
         />
- <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+ <img className="masthead" alt="Masthead" src={mastheadSvg} />
         
       </div>
     </div>

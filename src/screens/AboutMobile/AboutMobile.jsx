@@ -6,6 +6,13 @@ import { IconMenu } from "../../icons/IconMenu";
 import { IconRelume5 } from "../../icons/IconRelume5";
 import "./style.css";
 import { Link } from "react-router-dom";
+import mastheadSvg from "../../../static/img/masthead.svg";
+import placeholderImage from "../../../static/img/placeholder-image.png";
+import placeholderImage1 from "../../../static/img/placeholder-image-1.png";
+import placeholderImage2 from "../../../static/img/placeholder-image-2.png";
+import nmTeens from "../../../static/img/nm-teens-1.png";
+import header50 from "../../../static/img/header-50.png";
+import vrClimateChange from "../../../static/img/VR-climate-change.jpeg";
 import { Footer } from "../../components/Footer/Footer";
 
 export const AboutMobile = () => {
@@ -20,7 +27,7 @@ export const AboutMobile = () => {
               style={{ cursor: 'pointer' }}
             />
           </Link>
-          <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+          <img className="masthead" alt="Masthead" src={mastheadSvg} />
         </div>
       </div>
 
@@ -115,7 +122,7 @@ export const AboutMobile = () => {
         <img
           className="placeholder-image"
           alt="Placeholder image"
-          src="/img/placeholder-image.png"
+          src={placeholderImage}
         />
       </div>
 
@@ -220,7 +227,7 @@ export const AboutMobile = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image-1.png"
+            src={placeholderImage1}
           />
         </div>
       </div>
@@ -247,7 +254,7 @@ export const AboutMobile = () => {
           <img
             className="placeholder-image-2"
             alt="Placeholder image"
-            src="/img/placeholder-image-2.png"
+            src={placeholderImage2}
           />
         </div>
       </div>
@@ -255,7 +262,7 @@ export const AboutMobile = () => {
        
         
         <div className="nourishing-minds">
-          <img className="NM-teens" alt="Nm teens" src="/img/nm-teens-1.png" />
+          <img className="NM-teens" alt="Nm teens" src={nmTeens} />
           <div className="section-title">
             <div className="heading-wrapper">
               <p className="heading-4">
@@ -309,7 +316,7 @@ export const AboutMobile = () => {
                     <img
                       className="placeholder-image-3"
                       alt="Placeholder image"
-                      src="/img/header-50.png"
+                      src={header50}
                     />
 
                       <a
@@ -326,7 +333,7 @@ export const AboutMobile = () => {
                       <img
                       className="placeholder-image-3"
                       alt="VR Climate Change"
-                      src="/img/VR-climate-change.jpeg"
+                      src={vrClimateChange}
                     />
                   </div>
             

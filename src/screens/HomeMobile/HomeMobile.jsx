@@ -5,6 +5,9 @@ import { IconMenu } from "../../icons/IconMenu";
 import { Logo } from "../../icons/Logo";
 import "./style.css";
 import gardenVRVideo from "../../../static/img/GardenVR.mp4";
+import mastheadSvg from "../../../static/img/masthead.svg";
+import skaterImage from "../../../static/img/skater.png";
+import placeholderImage from "../../../static/img/placeholder-image.png";
 import { Footer } from "../../components/Footer/Footer";
 
 export const HomeMobile = () => {
@@ -32,7 +35,7 @@ export const HomeMobile = () => {
               style={{ cursor: 'pointer' }}
             />
           </Link>
-          <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+          <img className="masthead" alt="Masthead" src={mastheadSvg} />
         </header>
       </div>
               
@@ -71,7 +74,7 @@ export const HomeMobile = () => {
          
         </div>
       
-        <img className="skater" alt="Skater" src="/img/skater.png" />
+        <img className="skater" alt="Skater" src={skaterImage} />
 
       <div className="vrtality">
         <div className="container">
@@ -179,7 +182,7 @@ export const HomeMobile = () => {
           <img
             className="placeholder-image"
             alt="Placeholder image"
-            src="/img/placeholder-image.png"
+            src={placeholderImage}
           />
 
           <a

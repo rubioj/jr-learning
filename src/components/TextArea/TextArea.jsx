@@ -5,6 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
+import line2Svg from "../../../static/img/line-2-1.svg";
 import "./style.css";
 
 export const TextArea = ({
@@ -26,7 +27,7 @@ export const TextArea = ({
       <img
         className={`img ${lineClassNameOverride}`}
         alt="Line"
-        src="/img/line-2-1.svg"
+        src={line2Svg}
       />
     </div>
   );

@@ -5,6 +5,7 @@ import { IconMenu } from "../../icons/IconMenu";
 import { IconRelume1 } from "../../icons/IconRelume1";
 import "./style.css";
 import { Link } from "react-router-dom";
+import mastheadSvg from "../../../static/img/masthead.svg";
 import { Footer } from "../../components/Footer/Footer";
 
 export const PublicationsMobile = () => {
@@ -19,7 +20,7 @@ export const PublicationsMobile = () => {
               style={{ cursor: 'pointer' }}
             />
           </Link>
-          <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+          <img className="masthead" alt="Masthead" src={mastheadSvg} />
         </div>
       </div>
 

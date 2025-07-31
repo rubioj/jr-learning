@@ -9,6 +9,7 @@ import { IconMenu } from "../../icons/IconMenu";
 import { Link } from "react-router-dom";
 import "./style.css";
 import emailjs from '@emailjs/browser';
+import mastheadSvg from "../../../static/img/masthead.svg";
 import { Footer } from "../../components/Footer/Footer";
 // Initialize EmailJS
 emailjs.init("1yjV981FEw1IgxTNn");
@@ -82,7 +83,7 @@ export const ContactMobile = () => {
               style={{ cursor: 'pointer' }}
             />
           </Link>
-          <img className="masthead" alt="Masthead" src="/img/masthead.svg" />
+          <img className="masthead" alt="Masthead" src={mastheadSvg} />
         </header>
       </div>
 
