@@ -364,7 +364,7 @@ export const HomeDesktop = () => {
           <FooterLinks />
 
           <div className="social-links">
-            <a href="https://www.linkedin.com/in/rubioj" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/rubioj" rel="noopener noreferrer">
               <IconLinkedin className="icon-instance-node" />
             </a>
           </div>

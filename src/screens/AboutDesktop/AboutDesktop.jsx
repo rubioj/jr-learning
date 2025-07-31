@@ -84,7 +84,7 @@ export const AboutDesktop = () => {
               <span className="text-wrapper-4">
                 JR Learning is: <br/>
                 <br/>
-                <a href="https://www.linkedin.com/in/rubioj" target="_self" rel="noopener noreferrer">Juan Rubio - Principal</a><br/>
+                <a href="https://www.linkedin.com/in/rubioj" rel="noopener noreferrer">Juan Rubio - Principal</a><br/>
                 <a href="https://www.linkedin.com/in/mega-subramaniam" target="_self" rel="noopener noreferrer">Mega Subramaniam - Academic Developer</a><br/>
                 <a href="https://scholar.google.com/citations?user=OzAVC3kAAAAJ&hl=en" target="_self" rel="noopener noreferrer">Kung Jin Lee - Academic Advisor</a><br/>
                 <a href="https://www.linkedin.com/in/mark-niezgoda-ab21993a" target="_self" rel="noopener noreferrer">Mark Niezgoda - LCSW - Mental Health Specialist</a><br/>
@@ -250,7 +250,7 @@ export const AboutDesktop = () => {
                 we help individuals and organizations unlock their full potential, equipping them with the skills 
                 and insights needed to create lasting transformation.
                 We facilitate inclusive learning environments, hands-on workshops, and interactive experiences
-                that bring together different voices to co-create solutions for today’s challenges. 
+                that bring together different voices to co-create solutions for today's challenges. 
                 By fostering collaboration and leveraging innovative strategies, we help communities 
                 turn ideas into tangible action, ensuring that growth and learning remain at the heart of progress.
                 </p>
@@ -557,7 +557,7 @@ export const AboutDesktop = () => {
           <FooterLinks />
 
           <div className="social-links">
-            <a href="https://www.linkedin.com/in/rubioj" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/rubioj" rel="noopener noreferrer">
               <IconLinkedin className="icon-instance-node" />
             </a>
 
