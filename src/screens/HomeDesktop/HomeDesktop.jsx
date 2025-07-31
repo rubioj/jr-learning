@@ -7,6 +7,16 @@ import { IconRelume2 } from "../../icons/IconRelume2";
 import { YoutubeIcon } from "../../icons/YoutubeIcon";
 import "./style.css";
 import gardenVRVideo from "../../../static/img/GardenVR.mp4";
+import logoSvg from "../../../static/img/logo.svg";
+import logoUw from "../../../static/img/logo-uw-1.png";
+import image1 from "../../../static/img/image-1.png";
+import uncSvg from "../../../static/img/unc.svg";
+import logoSpl from "../../../static/img/logo-spl-1.png";
+import logoCsla from "../../../static/img/logo-csla-1.png";
+import fcLogoBlack from "../../../static/img/fc-logo-black-text-1.png";
+import skaterImage from "../../../static/img/skater-image.png";
+import bebsConceptMap from "../../../static/img/bebs-concept-map-1.png";
+import nourishingMinds from "../../../static/img/nourishing-minds.png";
 import { IconRelume8 } from "../../icons/IconRelume8";
 import { Link } from "react-router-dom";
 import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
@@ -39,7 +49,7 @@ export const HomeDesktop = () => {
         <div className="hero">
           <div className="content">
             <div className="logo-heading">
-            <img className="logo-homepage" alt="Logo" src="/img/logo.svg" />
+            <img className="logo-homepage" alt="Logo" src={logoSvg} />
           
 
               <p className="heading">
@@ -74,26 +84,26 @@ export const HomeDesktop = () => {
 
         <div className="carousel">
           
-            <img className="logo-UW" alt="Logo UW" src="/img/logo-uw-1.png" />
+            <img className="logo-UW" alt="Logo UW" src={logoUw} />
 
           
-            <img className="image" alt="Image" src="/img/image-1.png" />
-          
-
-          
-            <img className="UNC" alt="Unc" src="/img/unc.svg" />
+            <img className="image" alt="Image" src={image1} />
           
 
           
-            <img className="logo-SPL" alt="Logo SPL" src="/img/logo-spl-1.png" />
+            <img className="UNC" alt="Unc" src={uncSvg} />
           
 
           
-            <img className="logo-CSLA" alt="Logo CSLA" src="/img/logo-csla-1.png" />
+            <img className="logo-SPL" alt="Logo SPL" src={logoSpl} />
           
 
           
-            <img className="FC-logo-black-text" alt="Fc logo black text" src="/img/fc-logo-black-text-1.png" />
+            <img className="logo-CSLA" alt="Logo CSLA" src={logoCsla} />
+          
+
+          
+            <img className="FC-logo-black-text" alt="Fc logo black text" src={fcLogoBlack} />
           
         </div>
     
@@ -101,7 +111,7 @@ export const HomeDesktop = () => {
         <img
           className="skater-image"
           alt="Skater image"
-          src="/img/skater-image.png"
+          src={skaterImage}
         />
       </div>
 
@@ -252,7 +262,7 @@ export const HomeDesktop = () => {
           <img
             className="BEBS-concept-map"
             alt="Bebs concept map"
-            src="/img/bebs-concept-map-1.png"
+            src={bebsConceptMap}
           />
           </div>
         </div>
@@ -299,7 +309,7 @@ export const HomeDesktop = () => {
           <img
             className="img"
             alt="Nourishing minds"
-            src="/img/nourishing-minds.png"
+            src={nourishingMinds}
           />
           </div>
         </div>

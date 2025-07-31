@@ -11,6 +11,8 @@ import { HoverAbout } from "../HoverAbout";
 import { HoverPublications } from "../HoverPublications";
 import { HoverServices } from "../HoverServices";
 import { HoverContact } from "../HoverContact";
+import navbarLogoDefault from "../../../static/img/navbar-logo-parsley.png";
+import navbarLogoHover from "../../../static/img/navbar-logo-carrot.png";
 import "./style.css";
 
 export const NavbarJr = ({
@@ -22,8 +24,8 @@ export const NavbarJr = ({
       
       <Link to="/home-desktop" className="company-name">
         <div className="logo-wrapper">
-          <img className="logo default-logo" alt="Logo" src="/img/navbar-logo.png" />
-          <img className="logo hover-logo" alt="Logo" src="/img/navbar-logo-carrot.png" />
+          <img className="logo default-logo" alt="Logo" src={navbarLogoDefault} />
+          <img className="logo hover-logo" alt="Logo" src={navbarLogoHover} />
           Learning Labs
         </div>
       </Link>

@@ -5,7 +5,7 @@
   "source": "./index.html",
   "type": "module",
   "scripts": {
-    "start": "parcel serve index.html",
+    "start": "parcel serve index.html --public-url / --dist-dir dist --port 1234",
     "build": "parcel build index.html"
   },
   "dependencies": {

@@ -5,6 +5,9 @@ import { StyleSecondary } from "../../components/StyleSecondary";
 import { IconRelume8 } from "../../icons/IconRelume8";
 import "./style.css";
 import gardenVRVideo from "../../../static/img/GardenVR.mp4";
+import artsShareImage from "../../../static/img/arts-share.jpeg";
+import placeholderImage1 from "../../../static/img/placeholder-image-1.png";
+import placeholderImage2 from "../../../static/img/placeholder-image-2.png";
 import { CompanyLogo } from "../../icons/CompanyLogo";
 import { IconLinkedin } from "../../icons/IconLinkedin";
 import { Link } from "react-router-dom";
@@ -33,7 +36,7 @@ export const AboutDesktop = () => {
             <img
               className="main-image-top"
               alt="learning space"
-              src="/img/arts-sha.jpeg"
+              src={artsShareImage}
             />
           </div>
 
@@ -382,7 +385,7 @@ export const AboutDesktop = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image-1.png"
+            src={placeholderImage1}
           />
 
           <div className="div-6">
@@ -466,7 +469,7 @@ export const AboutDesktop = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image-2.png"
+            src={placeholderImage2}
           />
 
           <div className="div-6">
@@ -541,7 +544,7 @@ export const AboutDesktop = () => {
               iconPosition="no-icon"
               small={false}
               style="primary"
-              text={<span className="text-wrapper-7">Contact Us</span>}
+              text="Contact Us"
               href="/contact-desktop"
             />
           </div>

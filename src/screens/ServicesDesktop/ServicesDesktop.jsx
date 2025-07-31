@@ -7,6 +7,11 @@ import { IconRelume9 } from "../../icons/IconRelume9";
 import { IconYoutube1 } from "../../icons/IconYoutube1";
 import "./style.css";
 import BuildLearnPlayVideo from "../../../static/img/Build-Learn-Play.mp4";
+import placeholderImage from "../../../static/img/placeholder-image.png";
+import photographImage from "../../../static/img/photograph-in-color-of-a-group-of-people-participating-in-a-desi.png";
+import placeholderImage1 from "../../../static/img/placeholder-image-1.png";
+import placeholderImage2 from "../../../static/img/placeholder-image-2.png";
+import placeholderImage3 from "../../../static/img/placeholder-image-3.png";
 import { Link } from "react-router-dom";
 import { FooterLinks } from "../../components/FooterLinks/FooterLinks";
 import { courses } from "../../data/courses";
@@ -166,7 +171,7 @@ export const ServicesDesktop = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image.png"
+            src={placeholderImage}
           />
         </div>
       </div>
@@ -260,7 +265,7 @@ export const ServicesDesktop = () => {
           <img
             className="img"
             alt="Photograph in color"
-            src="/img/photograph-in-color-of-a-group-of-people-participating-in-a-desi.png"
+            src={photographImage}
           />
         </div>
       </div>
@@ -382,7 +387,7 @@ export const ServicesDesktop = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image-1.png"
+            src={placeholderImage1}
           />
         </div>
       </div>
@@ -426,7 +431,7 @@ export const ServicesDesktop = () => {
           <img
             className="img"
             alt="Placeholder image"
-            src="/img/placeholder-image-2.png"
+            src={placeholderImage2}
           />
         </div>
       </div>
@@ -491,7 +496,7 @@ export const ServicesDesktop = () => {
           <img
             className="placeholder-image-2"
             alt="Placeholder image"
-            src="/img/placeholder-image-3.png"
+            src={placeholderImage3}
           />
         </div>
       </div>
