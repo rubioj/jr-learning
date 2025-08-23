@@ -11,6 +11,7 @@ import { ContactMobile } from '../screens/ContactMobile';
 import { MenuMobile } from '../screens/MenuMobile';
 import { PublicationsMobile } from '../screens/PublicationsMobile';
 import { PublicationsDesktop } from '../screens/PublicationsDesktop';
+import { SmsOptInPage } from '../screens/SmsOptInPage';
 
 function AppRouter() {
   return (
@@ -29,6 +30,7 @@ function AppRouter() {
         <Route path="/menu-mobile" element={<MenuMobile />} />
         <Route path="/publications-desktop" element={<PublicationsDesktop />} />
         <Route path="/publications-mobile" element={<PublicationsMobile />} />
+        <Route path="/sms-opt-in" element={<SmsOptInPage />} />
       </Routes>
     </>
   );

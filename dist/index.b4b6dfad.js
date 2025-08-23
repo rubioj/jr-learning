@@ -34519,12 +34519,13 @@ var _contactMobile = require("../screens/ContactMobile");
 var _menuMobile = require("../screens/MenuMobile");
 var _publicationsMobile = require("../screens/PublicationsMobile");
 var _publicationsDesktop = require("../screens/PublicationsDesktop");
+var _smsOptInPage = require("../screens/SmsOptInPage");
 function AppRouter() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _responsiveRouter.ResponsiveRouter), {}, void 0, false, {
                 fileName: "src/routes/AppRouter.jsx",
-                lineNumber: 18,
+                lineNumber: 19,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Routes), {
@@ -34536,20 +34537,8 @@ function AppRouter() {
                             replace: true
                         }, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
-                            lineNumber: 20,
-                            columnNumber: 34
-                        }, void 0)
-                    }, void 0, false, {
-                        fileName: "src/routes/AppRouter.jsx",
-                        lineNumber: 20,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/home-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDesktop.HomeDesktop), {}, void 0, false, {
-                            fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 21,
-                            columnNumber: 46
+                            columnNumber: 34
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34557,11 +34546,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/home-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeMobile.HomeMobile), {}, void 0, false, {
+                        path: "/home-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDesktop.HomeDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 22,
-                            columnNumber: 45
+                            columnNumber: 46
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34569,11 +34558,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/about-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDesktop.AboutDesktop), {}, void 0, false, {
+                        path: "/home-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeMobile.HomeMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 23,
-                            columnNumber: 47
+                            columnNumber: 45
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34581,11 +34570,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/about-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutMobile.AboutMobile), {}, void 0, false, {
+                        path: "/about-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDesktop.AboutDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 24,
-                            columnNumber: 46
+                            columnNumber: 47
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34593,11 +34582,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/services-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesDesktop.ServicesDesktop), {}, void 0, false, {
+                        path: "/about-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutMobile.AboutMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 25,
-                            columnNumber: 50
+                            columnNumber: 46
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34605,11 +34594,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/services-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesMobile.ServicesMobile), {}, void 0, false, {
+                        path: "/services-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesDesktop.ServicesDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 26,
-                            columnNumber: 49
+                            columnNumber: 50
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34617,8 +34606,8 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/contact-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactDesktop.ContactDesktop), {}, void 0, false, {
+                        path: "/services-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesMobile.ServicesMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 27,
                             columnNumber: 49
@@ -34629,11 +34618,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/contact-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactMobile.ContactMobile), {}, void 0, false, {
+                        path: "/contact-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactDesktop.ContactDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 28,
-                            columnNumber: 48
+                            columnNumber: 49
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34641,11 +34630,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/menu-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _menuMobile.MenuMobile), {}, void 0, false, {
+                        path: "/contact-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactMobile.ContactMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 29,
-                            columnNumber: 45
+                            columnNumber: 48
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34653,11 +34642,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/publications-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsDesktop.PublicationsDesktop), {}, void 0, false, {
+                        path: "/menu-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _menuMobile.MenuMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 30,
-                            columnNumber: 54
+                            columnNumber: 45
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34665,21 +34654,45 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/publications-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsMobile.PublicationsMobile), {}, void 0, false, {
+                        path: "/publications-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsDesktop.PublicationsDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 31,
-                            columnNumber: 53
+                            columnNumber: 54
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
                         lineNumber: 31,
                         columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                        path: "/publications-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsMobile.PublicationsMobile), {}, void 0, false, {
+                            fileName: "src/routes/AppRouter.jsx",
+                            lineNumber: 32,
+                            columnNumber: 53
+                        }, void 0)
+                    }, void 0, false, {
+                        fileName: "src/routes/AppRouter.jsx",
+                        lineNumber: 32,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                        path: "/sms-opt-in",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _smsOptInPage.SmsOptInPage), {}, void 0, false, {
+                            fileName: "src/routes/AppRouter.jsx",
+                            lineNumber: 33,
+                            columnNumber: 44
+                        }, void 0)
+                    }, void 0, false, {
+                        fileName: "src/routes/AppRouter.jsx",
+                        lineNumber: 33,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/routes/AppRouter.jsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 7
             }, this)
         ]
@@ -34695,7 +34708,7 @@ $RefreshReg$(_c, "AppRouter");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kOLnc":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../screens/SmsOptInPage":"7BttD"}],"kOLnc":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ResponsiveRouter", ()=>(0, _responsiveRouter.ResponsiveRouter));
@@ -34723,6 +34736,12 @@ const ResponsiveRouter = ()=>{
     (0, _react.useEffect)(()=>{
         const isMobile = width < 600;
         const currentPath = location.pathname;
+        // Routes that should NOT be responsive (no mobile/desktop variants)
+        const nonResponsiveRoutes = [
+            '/sms-opt-in'
+        ];
+        // Skip responsive routing for non-responsive routes
+        if (nonResponsiveRoutes.includes(currentPath)) return;
         // Skip if we're already on the correct version
         if (currentPath.includes(isMobile ? '-mobile' : '-desktop')) return;
         // Map of desktop routes to mobile routes
@@ -48567,6 +48586,183 @@ $RefreshReg$(_c, "Icon2");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4uS4o":[function() {},{}]},["aQL8O","7qMjn","d8Dch"], "d8Dch", "parcelRequire94c2")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4uS4o":[function() {},{}],"7BttD":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "SmsOptInPage", ()=>(0, _smsOptInPage.SmsOptInPage));
+var _smsOptInPage = require("./SmsOptInPage");
+
+},{"./SmsOptInPage":"2cTh7","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"2cTh7":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$c4f1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$c4f1.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "SmsOptInPage", ()=>SmsOptInPage);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _styleCss = require("./style.css");
+var _s = $RefreshSig$();
+const SmsOptInPage = ()=>{
+    _s();
+    const [phoneNumber, setPhoneNumber] = (0, _react.useState)('');
+    const [isSubmitted, setIsSubmitted] = (0, _react.useState)(false);
+    const [error, setError] = (0, _react.useState)('');
+    const validatePhoneNumber = (phone)=>{
+        // Remove all non-digits
+        const cleaned = phone.replace(/\D/g, '');
+        // Check if it's 10 digits (US format)
+        return cleaned.length === 10;
+    };
+    const handleSubmit = (e)=>{
+        e.preventDefault();
+        setError('');
+        if (!phoneNumber.trim()) {
+            setError('Please enter a valid phone number');
+            return;
+        }
+        if (!validatePhoneNumber(phoneNumber)) {
+            setError('Please enter a valid 10-digit phone number');
+            return;
+        }
+        // Simulate saving the phone number
+        console.log('Phone number submitted:', phoneNumber);
+        // Show confirmation
+        setIsSubmitted(true);
+    };
+    const handlePhoneChange = (e)=>{
+        setPhoneNumber(e.target.value);
+        if (error) setError('');
+    };
+    if (isSubmitted) return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "sms-opt-in-page",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+            className: "sms-form-card",
+            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "confirmation-message",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                        children: "Thank you!"
+                    }, void 0, false, {
+                        fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                        lineNumber: 47,
+                        columnNumber: 13
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                        children: "You are now subscribed to SMS updates. Reply STOP to unsubscribe at any time."
+                    }, void 0, false, {
+                        fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                        lineNumber: 48,
+                        columnNumber: 13
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                lineNumber: 46,
+                columnNumber: 11
+            }, undefined)
+        }, void 0, false, {
+            fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+            lineNumber: 45,
+            columnNumber: 9
+        }, undefined)
+    }, void 0, false, {
+        fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+        lineNumber: 44,
+        columnNumber: 7
+    }, undefined);
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "sms-opt-in-page",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+            className: "sms-form-card",
+            children: [
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                    children: "SMS Updates"
+                }, void 0, false, {
+                    fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                    lineNumber: 58,
+                    columnNumber: 9
+                }, undefined),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
+                    onSubmit: handleSubmit,
+                    className: "sms-form",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "input-group",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                                    type: "tel",
+                                    value: phoneNumber,
+                                    onChange: handlePhoneChange,
+                                    placeholder: "Enter your phone number",
+                                    className: `phone-input ${error ? 'error' : ''}`
+                                }, void 0, false, {
+                                    fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                                    lineNumber: 61,
+                                    columnNumber: 13
+                                }, undefined),
+                                error && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "error-message",
+                                    children: error
+                                }, void 0, false, {
+                                    fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                                    lineNumber: 68,
+                                    columnNumber: 23
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                            lineNumber: 60,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "consent-text",
+                            children: "I agree to receive text messages from JR Learning Labs for interactive movie viewings, event reminders, interactive prompts, and occasional promotions. Reply STOP to unsubscribe."
+                        }, void 0, false, {
+                            fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                            lineNumber: 71,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                            type: "submit",
+                            className: "submit-button",
+                            children: "Subscribe"
+                        }, void 0, false, {
+                            fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                            lineNumber: 75,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+                    lineNumber: 59,
+                    columnNumber: 9
+                }, undefined)
+            ]
+        }, void 0, true, {
+            fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+            lineNumber: 57,
+            columnNumber: 7
+        }, undefined)
+    }, void 0, false, {
+        fileName: "src/screens/SmsOptInPage/SmsOptInPage.jsx",
+        lineNumber: 56,
+        columnNumber: 5
+    }, undefined);
+};
+_s(SmsOptInPage, "m05ryJTYPQ8mfO42JIJ92iW2utY=");
+_c = SmsOptInPage;
+var _c;
+$RefreshReg$(_c, "SmsOptInPage");
+
+  $parcel$ReactRefreshHelpers$c4f1.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"8sKPM","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8sKPM":[function() {},{}]},["aQL8O","7qMjn","d8Dch"], "d8Dch", "parcelRequire94c2")
 
 //# sourceMappingURL=index.b4b6dfad.js.map

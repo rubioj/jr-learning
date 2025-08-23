@@ -7527,4 +7527,134 @@
   text-decoration: underline;
   position: relative;
 }
+
+.sms-opt-in-page {
+  background-color: #f8f9fa;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+}
+
+.sms-form-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 40px;
+  box-shadow: 0 4px 16px #0000001a;
+}
+
+.sms-form-card h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.sms-form {
+  flex-direction: column;
+  gap: 20px;
+  display: flex;
+}
+
+.input-group {
+  position: relative;
+}
+
+.phone-input {
+  box-sizing: border-box;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 16px;
+  transition: border-color .3s;
+}
+
+.phone-input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.phone-input.error {
+  border-color: #dc3545;
+}
+
+.error-message {
+  color: #dc3545;
+  margin-top: 8px;
+  font-size: 14px;
+  display: block;
+}
+
+.consent-text {
+  color: #666;
+  text-align: center;
+  background-color: #f8f9fa;
+  border-left: 4px solid #007bff;
+  border-radius: 6px;
+  padding: 16px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.submit-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  padding: 14px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color .3s;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.submit-button:active {
+  transform: translateY(1px);
+}
+
+.confirmation-message {
+  text-align: center;
+}
+
+.confirmation-message h2 {
+  color: #28a745;
+  margin-bottom: 20px;
+}
+
+.confirmation-message p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@media (width <= 480px) {
+  .sms-form-card {
+    margin: 0 16px;
+    padding: 24px;
+  }
+
+  .sms-form-card h2 {
+    font-size: 20px;
+  }
+
+  .consent-text {
+    padding: 12px;
+    font-size: 13px;
+  }
+
+  .phone-input, .submit-button {
+    font-size: 14px;
+  }
+}
 /*# sourceMappingURL=index.c41b5a0e.css.map */

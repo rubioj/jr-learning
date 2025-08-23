@@ -1,0 +1,131 @@
+.sms-opt-in-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.sms-form-card {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.sms-form-card h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.sms-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-group {
+  position: relative;
+}
+
+.phone-input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+}
+
+.phone-input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.phone-input.error {
+  border-color: #dc3545;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 14px;
+  margin-top: 8px;
+  display: block;
+}
+
+.consent-text {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #666;
+  text-align: center;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  border-left: 4px solid #007bff;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 14px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.submit-button:active {
+  transform: translateY(1px);
+}
+
+.confirmation-message {
+  text-align: center;
+}
+
+.confirmation-message h2 {
+  color: #28a745;
+  margin-bottom: 20px;
+}
+
+.confirmation-message p {
+  color: #666;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+  .sms-form-card {
+    padding: 24px;
+    margin: 0 16px;
+  }
+  
+  .sms-form-card h2 {
+    font-size: 20px;
+  }
+  
+  .consent-text {
+    font-size: 13px;
+    padding: 12px;
+  }
+  
+  .phone-input,
+  .submit-button {
+    font-size: 14px;
+  }
+}

@@ -11,6 +11,14 @@ export const ResponsiveRouter = () => {
     const isMobile = width < 600;
     const currentPath = location.pathname;
 
+    // Routes that should NOT be responsive (no mobile/desktop variants)
+    const nonResponsiveRoutes = ['/sms-opt-in'];
+    
+    // Skip responsive routing for non-responsive routes
+    if (nonResponsiveRoutes.includes(currentPath)) {
+      return;
+    }
+
     // Skip if we're already on the correct version
     if (currentPath.includes(isMobile ? '-mobile' : '-desktop')) {
       return;
