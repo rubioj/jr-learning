@@ -12,7 +12,7 @@ export const ResponsiveRouter = () => {
     const currentPath = location.pathname;
 
     // Routes that should NOT be responsive (no mobile/desktop variants)
-    const nonResponsiveRoutes = ['/sms-opt-in', '/currents-of-care'];
+    const nonResponsiveRoutes = ['/sms-opt-in'];
     
     // Skip responsive routing for non-responsive routes
     if (nonResponsiveRoutes.includes(currentPath)) {

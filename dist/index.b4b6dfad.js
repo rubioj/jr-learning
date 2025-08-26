@@ -34522,12 +34522,13 @@ var _publicationsDesktop = require("../screens/PublicationsDesktop");
 var _smsOptInPage = require("../screens/SmsOptInPage");
 var _currentsOfCarePage = require("../pages/CurrentsOfCarePage");
 var _currentsOfCarePageDefault = parcelHelpers.interopDefault(_currentsOfCarePage);
+var _currentsOfCareMobile = require("../screens/CurrentsOfCareMobile");
 function AppRouter() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _responsiveRouter.ResponsiveRouter), {}, void 0, false, {
                 fileName: "src/routes/AppRouter.jsx",
-                lineNumber: 20,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Routes), {
@@ -34539,20 +34540,8 @@ function AppRouter() {
                             replace: true
                         }, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
-                            lineNumber: 22,
-                            columnNumber: 34
-                        }, void 0)
-                    }, void 0, false, {
-                        fileName: "src/routes/AppRouter.jsx",
-                        lineNumber: 22,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/home-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDesktop.HomeDesktop), {}, void 0, false, {
-                            fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 23,
-                            columnNumber: 46
+                            columnNumber: 34
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34560,11 +34549,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/home-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeMobile.HomeMobile), {}, void 0, false, {
+                        path: "/home-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeDesktop.HomeDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 24,
-                            columnNumber: 45
+                            columnNumber: 46
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34572,11 +34561,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/about-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDesktop.AboutDesktop), {}, void 0, false, {
+                        path: "/home-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _homeMobile.HomeMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 25,
-                            columnNumber: 47
+                            columnNumber: 45
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34584,11 +34573,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/about-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutMobile.AboutMobile), {}, void 0, false, {
+                        path: "/about-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDesktop.AboutDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 26,
-                            columnNumber: 46
+                            columnNumber: 47
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34596,11 +34585,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/services-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesDesktop.ServicesDesktop), {}, void 0, false, {
+                        path: "/about-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutMobile.AboutMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 27,
-                            columnNumber: 50
+                            columnNumber: 46
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34608,11 +34597,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/services-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesMobile.ServicesMobile), {}, void 0, false, {
+                        path: "/services-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesDesktop.ServicesDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 28,
-                            columnNumber: 49
+                            columnNumber: 50
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34620,8 +34609,8 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/contact-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactDesktop.ContactDesktop), {}, void 0, false, {
+                        path: "/services-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesMobile.ServicesMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 29,
                             columnNumber: 49
@@ -34632,11 +34621,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/contact-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactMobile.ContactMobile), {}, void 0, false, {
+                        path: "/contact-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactDesktop.ContactDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 30,
-                            columnNumber: 48
+                            columnNumber: 49
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34644,11 +34633,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/menu-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _menuMobile.MenuMobile), {}, void 0, false, {
+                        path: "/contact-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contactMobile.ContactMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 31,
-                            columnNumber: 45
+                            columnNumber: 48
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34656,11 +34645,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/publications-desktop",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsDesktop.PublicationsDesktop), {}, void 0, false, {
+                        path: "/menu-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _menuMobile.MenuMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 32,
-                            columnNumber: 54
+                            columnNumber: 45
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34668,11 +34657,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/publications-mobile",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsMobile.PublicationsMobile), {}, void 0, false, {
+                        path: "/publications-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsDesktop.PublicationsDesktop), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 33,
-                            columnNumber: 53
+                            columnNumber: 54
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34680,11 +34669,11 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/sms-opt-in",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _smsOptInPage.SmsOptInPage), {}, void 0, false, {
+                        path: "/publications-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _publicationsMobile.PublicationsMobile), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 34,
-                            columnNumber: 44
+                            columnNumber: 53
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
@@ -34692,21 +34681,57 @@ function AppRouter() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                        path: "/currents-of-care",
-                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _currentsOfCarePageDefault.default), {}, void 0, false, {
+                        path: "/sms-opt-in",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _smsOptInPage.SmsOptInPage), {}, void 0, false, {
                             fileName: "src/routes/AppRouter.jsx",
                             lineNumber: 35,
-                            columnNumber: 50
+                            columnNumber: 44
                         }, void 0)
                     }, void 0, false, {
                         fileName: "src/routes/AppRouter.jsx",
                         lineNumber: 35,
                         columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                        path: "/currents-of-care",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _currentsOfCarePageDefault.default), {}, void 0, false, {
+                            fileName: "src/routes/AppRouter.jsx",
+                            lineNumber: 36,
+                            columnNumber: 50
+                        }, void 0)
+                    }, void 0, false, {
+                        fileName: "src/routes/AppRouter.jsx",
+                        lineNumber: 36,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                        path: "/currents-of-care-mobile",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _currentsOfCareMobile.CurrentsOfCareMobile), {}, void 0, false, {
+                            fileName: "src/routes/AppRouter.jsx",
+                            lineNumber: 37,
+                            columnNumber: 57
+                        }, void 0)
+                    }, void 0, false, {
+                        fileName: "src/routes/AppRouter.jsx",
+                        lineNumber: 37,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                        path: "/currents-of-care-desktop",
+                        element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _currentsOfCarePageDefault.default), {}, void 0, false, {
+                            fileName: "src/routes/AppRouter.jsx",
+                            lineNumber: 38,
+                            columnNumber: 58
+                        }, void 0)
+                    }, void 0, false, {
+                        fileName: "src/routes/AppRouter.jsx",
+                        lineNumber: 38,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/routes/AppRouter.jsx",
-                lineNumber: 21,
+                lineNumber: 22,
                 columnNumber: 7
             }, this)
         ]
@@ -34722,7 +34747,7 @@ $RefreshReg$(_c, "AppRouter");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../screens/SmsOptInPage":"7BttD","../pages/CurrentsOfCarePage":"ljnKk"}],"kOLnc":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../screens/SmsOptInPage":"7BttD","../pages/CurrentsOfCarePage":"ljnKk","../screens/CurrentsOfCareMobile":"63r99"}],"kOLnc":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ResponsiveRouter", ()=>(0, _responsiveRouter.ResponsiveRouter));
@@ -34752,8 +34777,7 @@ const ResponsiveRouter = ()=>{
         const currentPath = location.pathname;
         // Routes that should NOT be responsive (no mobile/desktop variants)
         const nonResponsiveRoutes = [
-            '/sms-opt-in',
-            '/currents-of-care'
+            '/sms-opt-in'
         ];
         // Skip responsive routing for non-responsive routes
         if (nonResponsiveRoutes.includes(currentPath)) return;
@@ -49721,6 +49745,538 @@ module.exports = require("b33de9502a7d96fb").getBundleURL('byUka') + "mobile-mur
 },{"b33de9502a7d96fb":"lgJ39"}],"cJePG":[function(require,module,exports,__globalThis) {
 module.exports = require("d56bbabfda796882").getBundleURL('byUka') + "river-ecosystem.a465c4fa.jpg" + "?" + Date.now();
 
-},{"d56bbabfda796882":"lgJ39"}]},["aQL8O","7qMjn","d8Dch"], "d8Dch", "parcelRequire94c2")
+},{"d56bbabfda796882":"lgJ39"}],"63r99":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "CurrentsOfCareMobile", ()=>(0, _currentsOfCareMobile.CurrentsOfCareMobile));
+var _currentsOfCareMobile = require("./CurrentsOfCareMobile");
+
+},{"./CurrentsOfCareMobile":"lRuzb","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"lRuzb":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$e665 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$e665.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "CurrentsOfCareMobile", ()=>CurrentsOfCareMobile);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _reactRouterDom = require("react-router-dom");
+var _iconMenu = require("../../icons/IconMenu");
+var _mastheadSvg = require("../../../static/img/masthead.svg");
+var _mastheadSvgDefault = parcelHelpers.interopDefault(_mastheadSvg);
+var _cedarRiver1Jpg = require("../../../static/img/cedar-river-1.jpg");
+var _cedarRiver1JpgDefault = parcelHelpers.interopDefault(_cedarRiver1Jpg);
+var _communityMural1Jpg = require("../../../static/img/community-mural-1.jpg");
+var _communityMural1JpgDefault = parcelHelpers.interopDefault(_communityMural1Jpg);
+var _mobileMuralPanelJpg = require("../../../static/img/mobile-mural-panel.jpg");
+var _mobileMuralPanelJpgDefault = parcelHelpers.interopDefault(_mobileMuralPanelJpg);
+var _riverEcosystemJpg = require("../../../static/img/river-ecosystem.jpg");
+var _riverEcosystemJpgDefault = parcelHelpers.interopDefault(_riverEcosystemJpg);
+var _styleCss = require("./style.css");
+var _s = $RefreshSig$();
+const CurrentsOfCareMobile = ()=>{
+    _s();
+    const [currentImageIndex, setCurrentImageIndex] = (0, _react.useState)(0);
+    const images = [
+        {
+            src: (0, _cedarRiver1JpgDefault.default),
+            alt: 'Cedar River flowing through Renton, WA',
+            caption: 'The Cedar River - A vital waterway for our community'
+        },
+        {
+            src: (0, _communityMural1JpgDefault.default),
+            alt: 'Community members creating a collaborative mural',
+            caption: 'Community art bringing people together'
+        },
+        {
+            src: (0, _mobileMuralPanelJpgDefault.default),
+            alt: 'Mobile mural panel ready for community painting',
+            caption: 'Mobile mural panel for community events'
+        },
+        {
+            src: (0, _riverEcosystemJpgDefault.default),
+            alt: 'Cedar River ecosystem with native wildlife',
+            caption: 'Rich ecosystem and cultural heritage of the Cedar River'
+        }
+    ];
+    // Auto-advance carousel
+    (0, _react.useEffect)(()=>{
+        const interval = setInterval(()=>{
+            setCurrentImageIndex((prevIndex)=>prevIndex === images.length - 1 ? 0 : prevIndex + 1);
+        }, 5000);
+        return ()=>clearInterval(interval);
+    }, [
+        images.length
+    ]);
+    const goToPrevious = ()=>{
+        setCurrentImageIndex((currentIndex)=>currentIndex === 0 ? images.length - 1 : currentIndex - 1);
+    };
+    const goToNext = ()=>{
+        setCurrentImageIndex((currentIndex)=>currentIndex === images.length - 1 ? 0 : currentIndex + 1);
+    };
+    const goToSlide = (index)=>{
+        setCurrentImageIndex(index);
+    };
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "currents-of-care-mobile",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "header-no-text",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
+                    className: "header",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                            to: "/menu-mobile",
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconMenu.IconMenu), {
+                                className: "icon-menu",
+                                color: "#5C191C",
+                                style: {
+                                    cursor: 'pointer'
+                                }
+                            }, void 0, false, {
+                                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                lineNumber: 70,
+                                columnNumber: 13
+                            }, undefined)
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 69,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                            className: "masthead",
+                            alt: "Masthead",
+                            src: (0, _mastheadSvgDefault.default)
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 76,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                    lineNumber: 68,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 67,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "hero",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                    className: "content",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "title-section",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                                    className: "main-title",
+                                    children: "Currents of Care"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 84,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                                    className: "subtitle",
+                                    children: "CEDAR RIVER"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 85,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 83,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "event-info-card",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "event-date",
+                                    children: "OCTOBER 21 and 25, 2025"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 90,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "event-time",
+                                    children: "SATURDAYS 12:00\u20133:00 PM"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 91,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "event-location",
+                                    children: "Renton Public Library"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 92,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 89,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "description-card",
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                className: "description-text",
+                                children: "Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage."
+                            }, void 0, false, {
+                                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                lineNumber: 97,
+                                columnNumber: 13
+                            }, undefined)
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 96,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "tagline-section",
+                            children: [
+                                'Learn',
+                                'Meet',
+                                'Create',
+                                'Celebrate'
+                            ].map((word, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "tagline-badge",
+                                    children: word
+                                }, index, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 105,
+                                    columnNumber: 15
+                                }, undefined))
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 103,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "callout-section",
+                            children: "A Mural Gathering for Honoring Indigenous History"
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 112,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                    lineNumber: 82,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 81,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "project-section",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                    className: "project-content",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                            className: "section-title",
+                            children: "About the Project"
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 121,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "event-highlight",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "highlight-date",
+                                    children: "Join Us: October 21 & 25, 2025"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 125,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "highlight-time",
+                                    children: "Saturdays 12:00\u20133:00 PM"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 126,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                    className: "highlight-location",
+                                    children: "Renton Public Library"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 127,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 124,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "project-text",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    children: "Currents of Care is a free, community-centered public art project featuring a mobile mural dedicated to the Cedar River. Constructed on a transportable panel, the mural will be collaboratively painted on-site at community events and later exhibited in multiple locations across Renton. Designed to both celebrate and protect the river, Currents of Care honors the vital role of Indigenous water and land protectors while raising public awareness about the Cedar River's ecological and cultural significance, particularly as a primary source of freshwater for the City of Renton and surrounding areas."
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 131,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    children: "The goal of this initiative is to foster a participatory, educational, and celebratory environment that connects Renton residents with the profound ecological, cultural, and historical importance of the river. It aims to elevate Indigenous presence and knowledge systems through visual storytelling and emphasize the intricate ecological and cultural diversity of the Cedar River's relationships with various plants, animals, and people."
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 135,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                    children: "Through art creation, mobile mural development, storytelling, and community dialogue, this event strives to reconnect participants with the multifaceted histories of the river. It will explore how the Cedar River has transformed over time due to development and climate change, and how to ensure its preservation for future generations. Additionally, the event will underscore how diverse communities contribute to Renton's welcoming atmosphere, celebrating the wildlife and fauna that make the Cedar River a unique and cherished part of the city."
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 139,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 130,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                    lineNumber: 120,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 119,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "carousel-section",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                        className: "section-title",
+                        children: "Community & River Gallery"
+                    }, void 0, false, {
+                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                        lineNumber: 148,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "carousel-container",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "carousel-image-container",
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                                        src: images[currentImageIndex].src,
+                                        alt: images[currentImageIndex].alt,
+                                        className: "carousel-image"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 152,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "image-overlay"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 159,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        className: "image-caption",
+                                        children: images[currentImageIndex].caption
+                                    }, void 0, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 162,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                        onClick: goToPrevious,
+                                        className: "nav-button nav-button-left",
+                                        children: "\u2039"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 167,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                        onClick: goToNext,
+                                        className: "nav-button nav-button-right",
+                                        children: "\u203A"
+                                    }, void 0, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 174,
+                                        columnNumber: 13
+                                    }, undefined)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                lineNumber: 151,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                className: "carousel-indicators",
+                                children: images.map((_, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                        onClick: ()=>goToSlide(index),
+                                        className: `indicator ${index === currentImageIndex ? 'active' : ''}`
+                                    }, index, false, {
+                                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                        lineNumber: 185,
+                                        columnNumber: 15
+                                    }, undefined))
+                            }, void 0, false, {
+                                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                lineNumber: 183,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                        lineNumber: 150,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 147,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "cta-section",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                    className: "cta-content",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                            className: "section-title",
+                            children: "Join the Movement"
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 198,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                            className: "cta-text",
+                            children: "Be part of this community celebration of art, culture, and environmental stewardship. Together, we can honor the Cedar River and strengthen our community bonds."
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 199,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "cta-buttons",
+                            children: [
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                    className: "cta-button primary",
+                                    children: "Learn More"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 203,
+                                    columnNumber: 13
+                                }, undefined),
+                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                                    className: "cta-button secondary",
+                                    children: "Get Involved"
+                                }, void 0, false, {
+                                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                                    lineNumber: 204,
+                                    columnNumber: 13
+                                }, undefined)
+                            ]
+                        }, void 0, true, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 202,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                    lineNumber: 197,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 196,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "footer",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                    className: "footer-content",
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
+                            className: "footer-title",
+                            children: "JR Learning Labs"
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 212,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                            className: "footer-subtitle",
+                            children: "Creating community connections through art and learning"
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 213,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                            className: "footer-copyright",
+                            children: "Currents of Care, a JR Learning Labs project \xa9 2025. All rights reserved."
+                        }, void 0, false, {
+                            fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                            lineNumber: 216,
+                            columnNumber: 11
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                    lineNumber: 211,
+                    columnNumber: 9
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+                lineNumber: 210,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
+        lineNumber: 65,
+        columnNumber: 5
+    }, undefined);
+};
+_s(CurrentsOfCareMobile, "iwdYV/csWqs0gMEM0R8yiwCHnVs=");
+_c = CurrentsOfCareMobile;
+var _c;
+$RefreshReg$(_c, "CurrentsOfCareMobile");
+
+  $parcel$ReactRefreshHelpers$e665.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"9xmpe","../../icons/IconMenu":"ftfv2","../../../static/img/masthead.svg":"3IVia","../../../static/img/cedar-river-1.jpg":"1L6ak","../../../static/img/community-mural-1.jpg":"h2IQ4","../../../static/img/mobile-mural-panel.jpg":"3yo7Y","../../../static/img/river-ecosystem.jpg":"cJePG","./style.css":"4tWCh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4tWCh":[function() {},{}]},["aQL8O","7qMjn","d8Dch"], "d8Dch", "parcelRequire94c2")
 
 //# sourceMappingURL=index.b4b6dfad.js.map

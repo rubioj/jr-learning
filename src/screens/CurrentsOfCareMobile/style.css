@@ -1,0 +1,479 @@
+.currents-of-care-mobile {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  background-color: var(--primitive-color-brand-champagne);
+}
+
+/* Header Styles */
+.currents-of-care-mobile .header-no-text {
+  align-items: flex-start;
+  background-color: var(--primitive-color-brand-champagne);
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.currents-of-care-mobile .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primitive-color-brand-champagne);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.currents-of-care-mobile .icon-menu {
+  height: 51px !important;
+  position: relative !important;
+  width: 51px !important;
+}
+
+.currents-of-care-mobile .masthead {
+  align-items: center;
+  background-color: var(--semantic-background-color-primary);
+  display: flex;
+  gap: 0;
+  height: 81px;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  border: none;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hero Section */
+.currents-of-care-mobile .hero {
+  align-items: flex-start;
+  background-color: var(--primitive-color-brand-champagne);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 20px 16px 32px;
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.currents-of-care-mobile .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+/* Title Section */
+.currents-of-care-mobile .title-section {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .main-title {
+  font-family: var(--heading-mobile-h1-font-family);
+  font-size: var(--heading-mobile-h1-font-size);
+  font-weight: var(--heading-mobile-h1-font-weight);
+  line-height: var(--heading-mobile-h1-line-height);
+  color: var(--primitive-color-brand-espresso);
+  margin: 0 0 8px 0;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.currents-of-care-mobile .subtitle {
+  font-family: var(--heading-mobile-h3-font-family);
+  font-size: var(--heading-mobile-h3-font-size);
+  font-weight: var(--heading-mobile-h3-font-weight);
+  line-height: var(--heading-mobile-h3-line-height);
+  color: var(--primitive-color-brand-parsley);
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Event Info Card */
+.currents-of-care-mobile .event-info-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+  box-shadow: var(--medium);
+  border: 2px solid var(--primitive-color-brand-carrot);
+  text-align: center;
+}
+
+.currents-of-care-mobile .event-date {
+  font-family: var(--text-large-bold-font-family);
+  font-size: var(--text-large-bold-font-size);
+  font-weight: var(--text-large-bold-font-weight);
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.currents-of-care-mobile .event-time {
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.currents-of-care-mobile .event-location {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  color: var(--primitive-color-brand-parsley);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Description Card */
+.currents-of-care-mobile .description-card {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-left: 4px solid var(--primitive-color-brand-carrot);
+}
+
+.currents-of-care-mobile .description-text {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  line-height: var(--text-large-normal-line-height);
+  color: var(--primitive-color-brand-espresso);
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+}
+
+/* Tagline Section */
+.currents-of-care-mobile .tagline-section {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .tagline-badge {
+  background-color: var(--primitive-color-brand-carrot);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-family: var(--text-medium-bold-font-family);
+  font-size: var(--text-medium-bold-font-size);
+  font-weight: var(--text-medium-bold-font-weight);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: var(--small);
+  transform: rotate(-1deg);
+  transition: all 0.3s ease;
+}
+
+.currents-of-care-mobile .tagline-badge:hover {
+  transform: rotate(0deg) scale(1.05);
+}
+
+/* Callout Section */
+.currents-of-care-mobile .callout-section {
+  font-family: var(--heading-mobile-h4-font-family);
+  font-size: var(--heading-mobile-h4-font-size);
+  font-weight: var(--heading-mobile-h4-font-weight);
+  color: var(--primitive-color-brand-espresso);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 12px;
+  border-top: 2px solid var(--primitive-color-brand-carrot);
+  border-bottom: 2px solid var(--primitive-color-brand-carrot);
+  margin-top: 8px;
+}
+
+/* Project Section */
+.currents-of-care-mobile .project-section {
+  background-color: var(--primitive-color-brand-white);
+  padding: 24px 16px;
+  width: 100%;
+}
+
+.currents-of-care-mobile .project-content {
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .section-title {
+  font-family: var(--heading-mobile-h3-font-family);
+  font-size: var(--heading-mobile-h3-font-size);
+  font-weight: var(--heading-mobile-h3-font-weight);
+  color: var(--primitive-color-brand-espresso);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Event Highlight */
+.currents-of-care-mobile .event-highlight {
+  background-color: var(--primitive-color-brand-carrot);
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: var(--small);
+}
+
+.currents-of-care-mobile .highlight-date {
+  font-family: var(--text-large-bold-font-family);
+  font-size: var(--text-large-bold-font-size);
+  font-weight: var(--text-large-bold-font-weight);
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.currents-of-care-mobile .highlight-time {
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.currents-of-care-mobile .highlight-location {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  font-weight: var(--text-large-normal-font-weight);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Project Text */
+.currents-of-care-mobile .project-text {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  line-height: var(--text-large-normal-line-height);
+  color: var(--primitive-color-brand-espresso);
+}
+
+.currents-of-care-mobile .project-text p {
+  margin-bottom: 16px;
+  text-align: justify;
+}
+
+/* Carousel Section */
+.currents-of-care-mobile .carousel-section {
+  background-color: var(--primitive-color-brand-champagne);
+  padding: 24px 16px;
+  width: 100%;
+}
+
+.currents-of-care-mobile .carousel-container {
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .carousel-image-container {
+  position: relative;
+  height: 250px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--medium);
+  background-color: white;
+}
+
+.currents-of-care-mobile .carousel-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+}
+
+.currents-of-care-mobile .image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.7));
+}
+
+.currents-of-care-mobile .image-caption {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  right: 12px;
+  color: white;
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+}
+
+/* Navigation Buttons */
+.currents-of-care-mobile .nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.8);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: var(--primitive-color-brand-espresso);
+  transition: all 0.3s ease;
+}
+
+.currents-of-care-mobile .nav-button:hover {
+  background: rgba(255,255,255,1);
+}
+
+.currents-of-care-mobile .nav-button-left {
+  left: 12px;
+}
+
+.currents-of-care-mobile .nav-button-right {
+  right: 12px;
+}
+
+/* Indicators */
+.currents-of-care-mobile .carousel-indicators {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 6px;
+}
+
+.currents-of-care-mobile .indicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,0.5);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.currents-of-care-mobile .indicator.active {
+  background: var(--primitive-color-brand-carrot);
+  transform: scale(1.25);
+}
+
+.currents-of-care-mobile .indicator:hover {
+  background: rgba(255,255,255,0.8);
+}
+
+/* CTA Section */
+.currents-of-care-mobile .cta-section {
+  background-color: var(--primitive-color-brand-white);
+  padding: 24px 16px;
+  width: 100%;
+}
+
+.currents-of-care-mobile .cta-content {
+  max-width: 100%;
+  text-align: center;
+}
+
+.currents-of-care-mobile .cta-text {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .cta-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+.currents-of-care-mobile .cta-button {
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  min-width: 140px;
+}
+
+.currents-of-care-mobile .cta-button.primary {
+  background-color: var(--primitive-color-brand-carrot);
+  color: white;
+  box-shadow: var(--small);
+}
+
+.currents-of-care-mobile .cta-button.primary:hover {
+  background-color: #e67e22;
+}
+
+.currents-of-care-mobile .cta-button.secondary {
+  background-color: transparent;
+  color: var(--primitive-color-brand-espresso);
+  border: 2px solid var(--primitive-color-brand-espresso);
+}
+
+.currents-of-care-mobile .cta-button.secondary:hover {
+  background-color: var(--primitive-color-brand-espresso);
+  color: white;
+}
+
+/* Footer */
+.currents-of-care-mobile .footer {
+  background-color: var(--primitive-color-brand-espresso);
+  color: var(--primitive-color-brand-champagne);
+  padding: 24px 16px;
+  width: 100%;
+  text-align: center;
+  border-top: 3px solid var(--primitive-color-brand-carrot);
+}
+
+.currents-of-care-mobile .footer-content {
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .footer-title {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  margin-bottom: 8px;
+  color: var(--primitive-color-brand-champagne);
+}
+
+.currents-of-care-mobile .footer-subtitle {
+  font-family: var(--text-medium-normal-font-family);
+  font-size: var(--text-medium-normal-font-size);
+  color: var(--primitive-color-brand-champagne);
+  opacity: 0.9;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .footer-copyright {
+  font-family: var(--text-medium-light-font-family);
+  font-size: var(--text-medium-light-font-size);
+  color: var(--primitive-color-brand-champagne);
+  opacity: 0.8;
+}

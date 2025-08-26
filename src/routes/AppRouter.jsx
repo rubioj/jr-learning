@@ -13,6 +13,7 @@ import { PublicationsMobile } from '../screens/PublicationsMobile';
 import { PublicationsDesktop } from '../screens/PublicationsDesktop';
 import { SmsOptInPage } from '../screens/SmsOptInPage';
 import CurrentsOfCarePage from '../pages/CurrentsOfCarePage';
+import { CurrentsOfCareMobile } from '../screens/CurrentsOfCareMobile';
 
 function AppRouter() {
   return (
@@ -33,6 +34,8 @@ function AppRouter() {
         <Route path="/publications-mobile" element={<PublicationsMobile />} />
         <Route path="/sms-opt-in" element={<SmsOptInPage />} />
         <Route path="/currents-of-care" element={<CurrentsOfCarePage />} />
+        <Route path="/currents-of-care-mobile" element={<CurrentsOfCareMobile />} />
+        <Route path="/currents-of-care-desktop" element={<CurrentsOfCarePage />} />
       </Routes>
     </>
   );
