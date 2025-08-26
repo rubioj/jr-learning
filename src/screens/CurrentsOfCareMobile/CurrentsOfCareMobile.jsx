@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { Button } from '../../components/Button';
 import { IconMenu } from '../../icons/IconMenu';
 import mastheadSvg from '../../../static/img/masthead.svg';
 import cedarRiver1 from '../../../static/img/cedar-river-1.jpg';
@@ -80,9 +81,9 @@ export const CurrentsOfCareMobile = () => {
       {/* Hero Section */}
       <div className="hero">
         <div className="content">
-          <div className="title-section">
-            <h1 className="main-title">Currents of Care</h1>
-            <h2 className="subtitle">CEDAR RIVER</h2>
+          <div className="column">
+            <h1 className="medium-length-hero">Currents of Care</h1>
+            <h2 className="text-wrapper-company-name">CEDAR RIVER</h2>
           </div>
 
           {/* Event Info Card */}
@@ -94,7 +95,7 @@ export const CurrentsOfCareMobile = () => {
 
           {/* Description */}
           <div className="description-card">
-            <p className="description-text">
+            <p className="heading-1">
               Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
             </p>
           </div>
@@ -199,9 +200,27 @@ export const CurrentsOfCareMobile = () => {
           <p className="cta-text">
             Be part of this community celebration of art, culture, and environmental stewardship. Together, we can honor the Cedar River and strengthen our community bonds.
           </p>
-          <div className="cta-buttons">
-            <button className="cta-button primary">Learn More</button>
-            <button className="cta-button secondary">Get Involved</button>
+          <div className="actions">
+            <Button
+              alternate={false}
+              className="contact"
+              divClassName="button-instance"
+              iconPosition="no-icon"
+              small
+              style="primary"
+              text="Learn More"
+              href="#"
+            />
+            <Button
+              alternate={true}
+              className="contact"
+              divClassName="button-instance"
+              iconPosition="no-icon"
+              small
+              style="secondary"
+              text="Get Involved"
+              href="#"
+            />
           </div>
         </div>
       </div>

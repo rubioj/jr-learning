@@ -75,29 +75,49 @@
   width: 100%;
 }
 
-/* Title Section */
-.currents-of-care-mobile .title-section {
+/* Title Section - using existing mobile classes */
+.currents-of-care-mobile .column {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  padding: 0px;
+  border-radius: 8px;
   text-align: center;
-  margin-bottom: 16px;
+  margin-top: 10px;
 }
 
-.currents-of-care-mobile .main-title {
-  font-family: var(--heading-mobile-h1-font-family);
-  font-size: var(--heading-mobile-h1-font-size);
-  font-weight: var(--heading-mobile-h1-font-weight);
-  line-height: var(--heading-mobile-h1-line-height);
-  color: var(--primitive-color-brand-espresso);
-  margin: 0 0 8px 0;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+.currents-of-care-mobile .medium-length-hero {
+  align-self: stretch;
+  color: var(--semantic-text-primary);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: var(--text-heading-mobile-light-font-size);
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: var(--text-heading-mobile-light-font-weight);
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
+  line-height: var(--text-heading-mobile-light-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  padding-top: 20px;
 }
 
-.currents-of-care-mobile .subtitle {
-  font-family: var(--heading-mobile-h3-font-family);
-  font-size: var(--heading-mobile-h3-font-size);
-  font-weight: var(--heading-mobile-h3-font-weight);
-  line-height: var(--heading-mobile-h3-line-height);
-  color: var(--primitive-color-brand-parsley);
-  margin: 0;
+.currents-of-care-mobile .text-wrapper-company-name {
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: 20px;
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: 700;
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
+  line-height: var(--text-heading-mobile-light-line-height);
+  display: block;
+  margin-top: 10px;
+  color: var(--semantic-text-primary);
+  padding: 15px;
+  position: relative;
+  text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -151,14 +171,19 @@
   border-left: 4px solid var(--primitive-color-brand-carrot);
 }
 
-.currents-of-care-mobile .description-text {
-  font-family: var(--text-large-normal-font-family);
-  font-size: var(--text-large-normal-font-size);
+.currents-of-care-mobile .heading-1 {
+  align-self: stretch;
+  color: var(--semantic-text-primary);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: 20px;
+  font-style: var(--text-heading-mobile-light-font-style);
+  font-weight: 400;
+  letter-spacing: var(--text-heading-mobile-light-letter-spacing);
   line-height: var(--text-large-normal-line-height);
-  color: var(--primitive-color-brand-espresso);
-  font-style: italic;
-  margin: 0;
+  margin-top: -1.00px;
+  position: relative;
   text-align: center;
+  font-style: italic;
 }
 
 /* Tagline Section */
@@ -183,6 +208,7 @@
   box-shadow: var(--small);
   transform: rotate(-1deg);
   transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 .currents-of-care-mobile .tagline-badge:hover {
@@ -191,13 +217,13 @@
 
 /* Callout Section */
 .currents-of-care-mobile .callout-section {
-  font-family: var(--heading-mobile-h4-font-family);
-  font-size: var(--heading-mobile-h4-font-size);
-  font-weight: var(--heading-mobile-h4-font-weight);
-  color: var(--primitive-color-brand-espresso);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: var(--text-heading-mobile-light-font-size);
+  font-weight: var(--text-heading-mobile-light-font-weight);
+  color: var(--semantic-text-primary);
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   padding: 12px;
   border-top: 2px solid var(--primitive-color-brand-carrot);
   border-bottom: 2px solid var(--primitive-color-brand-carrot);
@@ -206,7 +232,7 @@
 
 /* Project Section */
 .currents-of-care-mobile .project-section {
-  background-color: var(--primitive-color-brand-white);
+  background-color: var(--semantic-background-color-secondary);
   padding: 24px 16px;
   width: 100%;
 }
@@ -216,10 +242,10 @@
 }
 
 .currents-of-care-mobile .section-title {
-  font-family: var(--heading-mobile-h3-font-family);
-  font-size: var(--heading-mobile-h3-font-size);
-  font-weight: var(--heading-mobile-h3-font-weight);
-  color: var(--primitive-color-brand-espresso);
+  font-family: var(--text-heading-mobile-light-font-family);
+  font-size: var(--text-heading-mobile-light-font-size);
+  font-weight: var(--text-heading-mobile-light-font-weight);
+  color: var(--semantic-text-primary);
   text-align: center;
   margin-bottom: 20px;
 }
@@ -276,7 +302,7 @@
 
 /* Carousel Section */
 .currents-of-care-mobile .carousel-section {
-  background-color: var(--primitive-color-brand-champagne);
+  background-color: var(--semantic-background-color-primary);
   padding: 24px 16px;
   width: 100%;
 }
@@ -383,7 +409,7 @@
 
 /* CTA Section */
 .currents-of-care-mobile .cta-section {
-  background-color: var(--primitive-color-brand-white);
+  background-color: var(--semantic-background-color-secondary);
   padding: 24px 16px;
   width: 100%;
 }
@@ -401,49 +427,37 @@
   max-width: 100%;
 }
 
-.currents-of-care-mobile .cta-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+.currents-of-care-mobile .actions {
   align-items: center;
+  display: flex;
+  gap: 16px;
+  height: 42px;
+  justify-content: center;
+  position: relative;
+  width: 123px;
+  margin: 0 auto;
 }
 
-.currents-of-care-mobile .cta-button {
-  padding: 12px 24px;
-  border-radius: 6px;
-  font-family: var(--text-large-medium-font-family);
-  font-size: var(--text-large-medium-font-size);
-  font-weight: var(--text-large-medium-font-weight);
-  cursor: pointer;
-  transition: all 0.3s ease;
-  border: none;
-  min-width: 140px;
+.currents-of-care-mobile .contact {
+  background-color: var(--primitive-color-brand-carrot) !important;
+  border: unset !important;
+  border-color: unset !important;
+  height: 40px !important;
+  width: 119px !important;
+  text-decoration: none !important;
 }
 
-.currents-of-care-mobile .cta-button.primary {
-  background-color: var(--primitive-color-brand-carrot);
-  color: white;
-  box-shadow: var(--small);
-}
-
-.currents-of-care-mobile .cta-button.primary:hover {
-  background-color: #e67e22;
-}
-
-.currents-of-care-mobile .cta-button.secondary {
-  background-color: transparent;
-  color: var(--primitive-color-brand-espresso);
-  border: 2px solid var(--primitive-color-brand-espresso);
-}
-
-.currents-of-care-mobile .cta-button.secondary:hover {
-  background-color: var(--primitive-color-brand-espresso);
-  color: white;
+.currents-of-care-mobile .button-instance {
+  color: var(--semantic-text-primary) !important;
+  margin-bottom: unset !important;
+  margin-left: unset !important;
+  margin-right: unset !important;
+  margin-top: unset !important;
 }
 
 /* Footer */
 .currents-of-care-mobile .footer {
-  background-color: var(--primitive-color-brand-espresso);
+  background-color: var(--semantic-background-color-alternate);
   color: var(--primitive-color-brand-champagne);
   padding: 24px 16px;
   width: 100%;
