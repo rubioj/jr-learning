@@ -48921,49 +48921,212 @@ const CurrentsOfCarePage = ()=>{
                 style: {
                     padding: '60px 20px 40px',
                     textAlign: 'center',
-                    background: 'linear-gradient(135deg, var(--primitive-color-brand-champagne) 0%, var(--primitive-color-brand-white) 100%)'
+                    background: 'linear-gradient(135deg, var(--primitive-color-brand-champagne) 0%, var(--primitive-color-brand-white) 100%)',
+                    position: 'relative',
+                    overflow: 'hidden'
                 },
-                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    style: {
-                        maxWidth: '1200px',
-                        margin: '0 auto'
-                    },
-                    children: [
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                            style: {
-                                fontSize: 'var(--heading-desktop-h1-font-size)',
-                                fontWeight: 'var(--heading-desktop-h1-font-weight)',
-                                lineHeight: 'var(--heading-desktop-h1-line-height)',
-                                color: 'var(--primitive-color-brand-espresso)',
-                                marginBottom: '20px',
-                                textShadow: '0 2px 4px rgba(0,0,0,0.1)'
-                            },
-                            children: "Currents of Care"
-                        }, void 0, false, {
-                            fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 92,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                            style: {
-                                fontSize: 'var(--text-large-normal-font-size)',
-                                fontWeight: 'var(--text-large-normal-font-weight)',
-                                color: 'var(--primitive-color-brand-parsley)',
-                                marginBottom: '10px'
-                            },
-                            children: "A JR Learning Labs project"
-                        }, void 0, false, {
-                            fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 102,
-                            columnNumber: 11
-                        }, undefined)
-                    ]
-                }, void 0, true, {
-                    fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 91,
-                    columnNumber: 9
-                }, undefined)
-            }, void 0, false, {
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        style: {
+                            position: 'absolute',
+                            top: '20px',
+                            right: '20px',
+                            width: '200px',
+                            height: '200px',
+                            backgroundColor: 'var(--primitive-color-brand-carrot)',
+                            opacity: 0.1,
+                            borderRadius: '50%',
+                            transform: 'rotate(15deg)'
+                        }
+                    }, void 0, false, {
+                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                        lineNumber: 94,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        style: {
+                            maxWidth: '1200px',
+                            margin: '0 auto',
+                            position: 'relative',
+                            zIndex: 1
+                        },
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                                style: {
+                                    fontSize: 'var(--heading-desktop-h1-font-size)',
+                                    fontWeight: 'var(--heading-desktop-h1-font-weight)',
+                                    lineHeight: 'var(--heading-desktop-h1-line-height)',
+                                    color: 'var(--primitive-color-brand-espresso)',
+                                    marginBottom: '10px',
+                                    textShadow: '0 2px 4px rgba(0,0,0,0.1)'
+                                },
+                                children: "Currents of Care"
+                            }, void 0, false, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 107,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                                style: {
+                                    fontSize: 'var(--heading-desktop-h3-font-size)',
+                                    fontWeight: 'var(--heading-desktop-h3-font-weight)',
+                                    color: 'var(--primitive-color-brand-parsley)',
+                                    marginBottom: '30px',
+                                    textTransform: 'uppercase',
+                                    letterSpacing: '2px'
+                                },
+                                children: "CEDAR RIVER"
+                            }, void 0, false, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 117,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                style: {
+                                    backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                    borderRadius: '16px',
+                                    padding: '30px',
+                                    marginBottom: '30px',
+                                    boxShadow: 'var(--large)',
+                                    border: '2px solid var(--primitive-color-brand-carrot)'
+                                },
+                                children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        style: {
+                                            fontSize: 'var(--text-large-bold-font-size)',
+                                            fontWeight: 'var(--text-large-bold-font-weight)',
+                                            color: 'var(--primitive-color-brand-espresso)',
+                                            marginBottom: '15px',
+                                            textTransform: 'uppercase',
+                                            letterSpacing: '1px'
+                                        },
+                                        children: "OCTOBER 21 and 25, 2025"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                        lineNumber: 137,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        style: {
+                                            fontSize: 'var(--text-large-medium-font-size)',
+                                            fontWeight: 'var(--text-large-medium-font-weight)',
+                                            color: 'var(--primitive-color-brand-espresso)',
+                                            marginBottom: '15px',
+                                            textTransform: 'uppercase',
+                                            letterSpacing: '1px'
+                                        },
+                                        children: "SATURDAYS 12:00\u20133:00 PM"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                        lineNumber: 147,
+                                        columnNumber: 13
+                                    }, undefined),
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        style: {
+                                            fontSize: 'var(--heading-desktop-h5-font-size)',
+                                            fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                                            color: 'var(--primitive-color-brand-parsley)',
+                                            textTransform: 'uppercase',
+                                            letterSpacing: '1px'
+                                        },
+                                        children: "Renton Public Library"
+                                    }, void 0, false, {
+                                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                        lineNumber: 157,
+                                        columnNumber: 13
+                                    }, undefined)
+                                ]
+                            }, void 0, true, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 129,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                style: {
+                                    maxWidth: '800px',
+                                    margin: '0 auto 30px',
+                                    fontSize: 'var(--text-large-normal-font-size)',
+                                    lineHeight: 'var(--text-large-normal-line-height)',
+                                    color: 'var(--primitive-color-brand-espresso)',
+                                    fontStyle: 'italic',
+                                    backgroundColor: 'rgba(255, 255, 255, 0.8)',
+                                    padding: '25px',
+                                    borderRadius: '12px',
+                                    borderLeft: '4px solid var(--primitive-color-brand-carrot)'
+                                },
+                                children: "Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage."
+                            }, void 0, false, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 169,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                style: {
+                                    display: 'flex',
+                                    justifyContent: 'center',
+                                    gap: '20px',
+                                    flexWrap: 'wrap',
+                                    marginBottom: '20px'
+                                },
+                                children: [
+                                    'Learn',
+                                    'Meet',
+                                    'Create',
+                                    'Celebrate'
+                                ].map((word, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        style: {
+                                            backgroundColor: 'var(--primitive-color-brand-carrot)',
+                                            color: 'white',
+                                            padding: '12px 24px',
+                                            borderRadius: '25px',
+                                            fontSize: 'var(--text-medium-bold-font-size)',
+                                            fontWeight: 'var(--text-medium-bold-font-weight)',
+                                            textTransform: 'uppercase',
+                                            letterSpacing: '1px',
+                                            boxShadow: 'var(--medium)',
+                                            transform: 'rotate(-2deg)',
+                                            transition: 'all 0.3s ease'
+                                        },
+                                        onMouseOver: (e)=>e.target.style.transform = 'rotate(0deg) scale(1.05)',
+                                        onMouseOut: (e)=>e.target.style.transform = 'rotate(-2deg)',
+                                        children: word
+                                    }, index, false, {
+                                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                        lineNumber: 193,
+                                        columnNumber: 15
+                                    }, undefined))
+                            }, void 0, false, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 185,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                style: {
+                                    fontSize: 'var(--heading-desktop-h4-font-size)',
+                                    fontWeight: 'var(--heading-desktop-h4-font-weight)',
+                                    color: 'var(--primitive-color-brand-espresso)',
+                                    textAlign: 'center',
+                                    textTransform: 'uppercase',
+                                    letterSpacing: '1px',
+                                    marginTop: '20px',
+                                    padding: '15px',
+                                    borderTop: '3px solid var(--primitive-color-brand-carrot)',
+                                    borderBottom: '3px solid var(--primitive-color-brand-carrot)'
+                                },
+                                children: "A Mural Gathering for Honoring Indigenous History"
+                            }, void 0, false, {
+                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                lineNumber: 215,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                        lineNumber: 106,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
                 lineNumber: 86,
                 columnNumber: 7
@@ -48998,7 +49161,7 @@ const CurrentsOfCarePage = ()=>{
                                 children: "About the Project"
                             }, void 0, false, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 126,
+                                lineNumber: 245,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49008,6 +49171,64 @@ const CurrentsOfCarePage = ()=>{
                                     color: 'var(--primitive-color-brand-espresso)'
                                 },
                                 children: [
+                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                        style: {
+                                            backgroundColor: 'var(--primitive-color-brand-carrot)',
+                                            color: 'white',
+                                            padding: '20px',
+                                            borderRadius: '12px',
+                                            marginBottom: '25px',
+                                            textAlign: 'center',
+                                            boxShadow: 'var(--medium)'
+                                        },
+                                        children: [
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                style: {
+                                                    fontSize: 'var(--text-large-bold-font-size)',
+                                                    fontWeight: 'var(--text-large-bold-font-weight)',
+                                                    marginBottom: '10px',
+                                                    textTransform: 'uppercase',
+                                                    letterSpacing: '1px'
+                                                },
+                                                children: "Join Us: October 21 & 25, 2025"
+                                            }, void 0, false, {
+                                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                                lineNumber: 270,
+                                                columnNumber: 17
+                                            }, undefined),
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                style: {
+                                                    fontSize: 'var(--text-large-medium-font-size)',
+                                                    fontWeight: 'var(--text-large-medium-font-weight)',
+                                                    marginBottom: '10px',
+                                                    textTransform: 'uppercase',
+                                                    letterSpacing: '1px'
+                                                },
+                                                children: "Saturdays 12:00\u20133:00 PM"
+                                            }, void 0, false, {
+                                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                                lineNumber: 279,
+                                                columnNumber: 17
+                                            }, undefined),
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                style: {
+                                                    fontSize: 'var(--text-large-normal-font-size)',
+                                                    fontWeight: 'var(--text-large-normal-font-weight)',
+                                                    textTransform: 'uppercase',
+                                                    letterSpacing: '1px'
+                                                },
+                                                children: "Renton Public Library"
+                                            }, void 0, false, {
+                                                fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                                lineNumber: 288,
+                                                columnNumber: 17
+                                            }, undefined)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "src/pages/CurrentsOfCarePage.jsx",
+                                        lineNumber: 261,
+                                        columnNumber: 15
+                                    }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                         style: {
                                             marginBottom: '20px',
@@ -49016,7 +49237,7 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Currents of Care is a free, community-centered public art project featuring a mobile mural dedicated to the Cedar River. Constructed on a transportable panel, the mural will be collaboratively painted on-site at community events and later exhibited in multiple locations across Renton. Designed to both celebrate and protect the river, Currents of Care honors the vital role of Indigenous water and land protectors while raising public awareness about the Cedar River's ecological and cultural significance, particularly as a primary source of freshwater for the City of Renton and surrounding areas."
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 141,
+                                        lineNumber: 298,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49027,7 +49248,7 @@ const CurrentsOfCarePage = ()=>{
                                         children: "The goal of this initiative is to foster a participatory, educational, and celebratory environment that connects Renton residents with the profound ecological, cultural, and historical importance of the river. It aims to elevate Indigenous presence and knowledge systems through visual storytelling and emphasize the intricate ecological and cultural diversity of the Cedar River's relationships with various plants, animals, and people."
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 145,
+                                        lineNumber: 302,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49038,29 +49259,29 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Through art creation, mobile mural development, storytelling, and community dialogue, this event strives to reconnect participants with the multifaceted histories of the river. It will explore how the Cedar River has transformed over time due to development and climate change, and how to ensure its preservation for future generations. Additionally, the event will underscore how diverse communities contribute to Renton's welcoming atmosphere, celebrating the wildlife and fauna that make the Cedar River a unique and cherished part of the city."
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 149,
+                                        lineNumber: 306,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 136,
+                                lineNumber: 255,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                        lineNumber: 119,
+                        lineNumber: 238,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 118,
+                    lineNumber: 237,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 114,
+                lineNumber: 233,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -49085,7 +49306,7 @@ const CurrentsOfCarePage = ()=>{
                             children: "Community & River Gallery"
                         }, void 0, false, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 163,
+                            lineNumber: 320,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49115,7 +49336,7 @@ const CurrentsOfCarePage = ()=>{
                                             }
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 186,
+                                            lineNumber: 343,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49129,7 +49350,7 @@ const CurrentsOfCarePage = ()=>{
                                             }
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 198,
+                                            lineNumber: 355,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49149,12 +49370,12 @@ const CurrentsOfCarePage = ()=>{
                                                 children: images[currentImageIndex].caption
                                             }, void 0, false, {
                                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                lineNumber: 215,
+                                                lineNumber: 372,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 208,
+                                            lineNumber: 365,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -49182,7 +49403,7 @@ const CurrentsOfCarePage = ()=>{
                                             children: "\u2039"
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 225,
+                                            lineNumber: 382,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -49210,13 +49431,13 @@ const CurrentsOfCarePage = ()=>{
                                             children: "\u203A"
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 251,
+                                            lineNumber: 408,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 181,
+                                    lineNumber: 338,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49247,29 +49468,29 @@ const CurrentsOfCarePage = ()=>{
                                             }
                                         }, index, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 288,
+                                            lineNumber: 445,
                                             columnNumber: 17
                                         }, undefined))
                                 }, void 0, false, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 279,
+                                    lineNumber: 436,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 173,
+                            lineNumber: 330,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 162,
+                    lineNumber: 319,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 158,
+                lineNumber: 315,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -49302,7 +49523,7 @@ const CurrentsOfCarePage = ()=>{
                                 children: "Join the Movement"
                             }, void 0, false, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 332,
+                                lineNumber: 489,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49317,7 +49538,7 @@ const CurrentsOfCarePage = ()=>{
                                 children: "Be part of this community celebration of art, culture, and environmental stewardship. Together, we can honor the Cedar River and strengthen our community bonds."
                             }, void 0, false, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 340,
+                                lineNumber: 497,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49346,7 +49567,7 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 356,
+                                        lineNumber: 513,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -49372,29 +49593,29 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Get Involved"
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 373,
+                                        lineNumber: 530,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 350,
+                                lineNumber: 507,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                        lineNumber: 325,
+                        lineNumber: 482,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 324,
+                    lineNumber: 481,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 320,
+                lineNumber: 477,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
@@ -49426,7 +49647,7 @@ const CurrentsOfCarePage = ()=>{
                                     children: "JR Learning Labs"
                                 }, void 0, false, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 410,
+                                    lineNumber: 567,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49438,13 +49659,13 @@ const CurrentsOfCarePage = ()=>{
                                     children: "Creating community connections through art and learning"
                                 }, void 0, false, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 418,
+                                    lineNumber: 575,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 409,
+                            lineNumber: 566,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49456,18 +49677,18 @@ const CurrentsOfCarePage = ()=>{
                             children: "Currents of Care, a JR Learning Labs project \xa9 2025. All rights reserved."
                         }, void 0, false, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 426,
+                            lineNumber: 583,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 408,
+                    lineNumber: 565,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 401,
+                lineNumber: 558,
                 columnNumber: 7
             }, undefined)
         ]

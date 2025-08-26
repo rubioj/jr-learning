@@ -86,27 +86,146 @@ const CurrentsOfCarePage = () => {
       <header style={{
         padding: '60px 20px 40px',
         textAlign: 'center',
-        background: 'linear-gradient(135deg, var(--primitive-color-brand-champagne) 0%, var(--primitive-color-brand-white) 100%)'
+        background: 'linear-gradient(135deg, var(--primitive-color-brand-champagne) 0%, var(--primitive-color-brand-white) 100%)',
+        position: 'relative',
+        overflow: 'hidden'
       }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        {/* Background visual block */}
+        <div style={{
+          position: 'absolute',
+          top: '20px',
+          right: '20px',
+          width: '200px',
+          height: '200px',
+          backgroundColor: 'var(--primitive-color-brand-carrot)',
+          opacity: 0.1,
+          borderRadius: '50%',
+          transform: 'rotate(15deg)'
+        }} />
+        
+        <div style={{ maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
           <h1 style={{
             fontSize: 'var(--heading-desktop-h1-font-size)',
             fontWeight: 'var(--heading-desktop-h1-font-weight)',
             lineHeight: 'var(--heading-desktop-h1-line-height)',
             color: 'var(--primitive-color-brand-espresso)',
-            marginBottom: '20px',
+            marginBottom: '10px',
             textShadow: '0 2px 4px rgba(0,0,0,0.1)'
           }}>
             Currents of Care
           </h1>
-          <p style={{
-            fontSize: 'var(--text-large-normal-font-size)',
-            fontWeight: 'var(--text-large-normal-font-weight)',
+          <h2 style={{
+            fontSize: 'var(--heading-desktop-h3-font-size)',
+            fontWeight: 'var(--heading-desktop-h3-font-weight)',
             color: 'var(--primitive-color-brand-parsley)',
-            marginBottom: '10px'
+            marginBottom: '30px',
+            textTransform: 'uppercase',
+            letterSpacing: '2px'
           }}>
-            A JR Learning Labs project
-          </p>
+            CEDAR RIVER
+          </h2>
+          
+          {/* Event Info Section */}
+          <div style={{
+            backgroundColor: 'rgba(255, 255, 255, 0.9)',
+            borderRadius: '16px',
+            padding: '30px',
+            marginBottom: '30px',
+            boxShadow: 'var(--large)',
+            border: '2px solid var(--primitive-color-brand-carrot)'
+          }}>
+            <div style={{
+              fontSize: 'var(--text-large-bold-font-size)',
+              fontWeight: 'var(--text-large-bold-font-weight)',
+              color: 'var(--primitive-color-brand-espresso)',
+              marginBottom: '15px',
+              textTransform: 'uppercase',
+              letterSpacing: '1px'
+            }}>
+              OCTOBER 21 and 25, 2025
+            </div>
+            <div style={{
+              fontSize: 'var(--text-large-medium-font-size)',
+              fontWeight: 'var(--text-large-medium-font-weight)',
+              color: 'var(--primitive-color-brand-espresso)',
+              marginBottom: '15px',
+              textTransform: 'uppercase',
+              letterSpacing: '1px'
+            }}>
+              SATURDAYS 12:00–3:00 PM
+            </div>
+            <div style={{
+              fontSize: 'var(--heading-desktop-h5-font-size)',
+              fontWeight: 'var(--heading-desktop-h5-font-weight)',
+              color: 'var(--primitive-color-brand-parsley)',
+              textTransform: 'uppercase',
+              letterSpacing: '1px'
+            }}>
+              Renton Public Library
+            </div>
+          </div>
+
+          {/* Description Section */}
+          <div style={{
+            maxWidth: '800px',
+            margin: '0 auto 30px',
+            fontSize: 'var(--text-large-normal-font-size)',
+            lineHeight: 'var(--text-large-normal-line-height)',
+            color: 'var(--primitive-color-brand-espresso)',
+            fontStyle: 'italic',
+            backgroundColor: 'rgba(255, 255, 255, 0.8)',
+            padding: '25px',
+            borderRadius: '12px',
+            borderLeft: '4px solid var(--primitive-color-brand-carrot)'
+          }}>
+            Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
+          </div>
+
+          {/* Tagline/Keywords Section */}
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            gap: '20px',
+            flexWrap: 'wrap',
+            marginBottom: '20px'
+          }}>
+            {['Learn', 'Meet', 'Create', 'Celebrate'].map((word, index) => (
+              <div key={index} style={{
+                backgroundColor: 'var(--primitive-color-brand-carrot)',
+                color: 'white',
+                padding: '12px 24px',
+                borderRadius: '25px',
+                fontSize: 'var(--text-medium-bold-font-size)',
+                fontWeight: 'var(--text-medium-bold-font-weight)',
+                textTransform: 'uppercase',
+                letterSpacing: '1px',
+                boxShadow: 'var(--medium)',
+                transform: 'rotate(-2deg)',
+                transition: 'all 0.3s ease'
+              }}
+              onMouseOver={(e) => e.target.style.transform = 'rotate(0deg) scale(1.05)'}
+              onMouseOut={(e) => e.target.style.transform = 'rotate(-2deg)'}
+              >
+                {word}
+              </div>
+            ))}
+          </div>
+
+          {/* Bottom Callout Section */}
+          <div style={{
+            fontSize: 'var(--heading-desktop-h4-font-size)',
+            fontWeight: 'var(--heading-desktop-h4-font-weight)',
+            color: 'var(--primitive-color-brand-espresso)',
+            textAlign: 'center',
+            textTransform: 'uppercase',
+            letterSpacing: '1px',
+            marginTop: '20px',
+            padding: '15px',
+            borderTop: '3px solid var(--primitive-color-brand-carrot)',
+            borderBottom: '3px solid var(--primitive-color-brand-carrot)'
+          }}>
+            A Mural Gathering for Honoring Indigenous History
+          </div>
         </div>
       </header>
 
@@ -138,6 +257,44 @@ const CurrentsOfCarePage = () => {
               lineHeight: 'var(--text-large-normal-line-height)',
               color: 'var(--primitive-color-brand-espresso)'
             }}>
+              {/* Event Highlight Box */}
+              <div style={{
+                backgroundColor: 'var(--primitive-color-brand-carrot)',
+                color: 'white',
+                padding: '20px',
+                borderRadius: '12px',
+                marginBottom: '25px',
+                textAlign: 'center',
+                boxShadow: 'var(--medium)'
+              }}>
+                <div style={{
+                  fontSize: 'var(--text-large-bold-font-size)',
+                  fontWeight: 'var(--text-large-bold-font-weight)',
+                  marginBottom: '10px',
+                  textTransform: 'uppercase',
+                  letterSpacing: '1px'
+                }}>
+                  Join Us: October 21 & 25, 2025
+                </div>
+                <div style={{
+                  fontSize: 'var(--text-large-medium-font-size)',
+                  fontWeight: 'var(--text-large-medium-font-weight)',
+                  marginBottom: '10px',
+                  textTransform: 'uppercase',
+                  letterSpacing: '1px'
+                }}>
+                  Saturdays 12:00–3:00 PM
+                </div>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  fontWeight: 'var(--text-large-normal-font-weight)',
+                  textTransform: 'uppercase',
+                  letterSpacing: '1px'
+                }}>
+                  Renton Public Library
+                </div>
+              </div>
+              
               <p style={{ marginBottom: '20px', textAlign: 'justify' }}>
                 Currents of Care is a free, community-centered public art project featuring a mobile mural dedicated to the Cedar River. Constructed on a transportable panel, the mural will be collaboratively painted on-site at community events and later exhibited in multiple locations across Renton. Designed to both celebrate and protect the river, Currents of Care honors the vital role of Indigenous water and land protectors while raising public awareness about the Cedar River's ecological and cultural significance, particularly as a primary source of freshwater for the City of Renton and surrounding areas.
               </p>
