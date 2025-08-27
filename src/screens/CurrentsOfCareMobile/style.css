@@ -300,6 +300,73 @@
   text-align: justify;
 }
 
+/* Team Section */
+.currents-of-care-mobile .team-section {
+  background-color: var(--semantic-background-color-primary);
+  padding: 24px 16px;
+  width: 100%;
+}
+
+.currents-of-care-mobile .team-content {
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .team-member-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: var(--medium);
+  border: 2px solid var(--primitive-color-brand-carrot);
+}
+
+.currents-of-care-mobile .member-name {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  color: var(--semantic-text-primary);
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .member-bio {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  line-height: var(--text-large-normal-line-height);
+  color: var(--primitive-color-brand-espresso);
+}
+
+.currents-of-care-mobile .member-bio p {
+  margin-bottom: 12px;
+  text-align: justify;
+}
+
+.currents-of-care-mobile .member-image {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.currents-of-care-mobile .team-artwork {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: var(--small);
+}
+
+.currents-of-care-mobile .image-placeholder {
+  padding: 20px;
+  background-color: rgba(241, 139, 37, 0.1);
+  border-radius: 8px;
+  border: 2px dashed var(--primitive-color-brand-carrot);
+  text-align: center;
+}
+
+.currents-of-care-mobile .image-placeholder p {
+  color: var(--primitive-color-brand-espresso);
+  font-style: italic;
+  margin: 0;
+}
+
 /* Carousel Section */
 .currents-of-care-mobile .carousel-section {
   background-color: var(--semantic-background-color-primary);
@@ -490,4 +557,15 @@
   font-size: var(--text-medium-light-font-size);
   color: var(--primitive-color-brand-champagne);
   opacity: 0.8;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .footer-footnote {
+  font-family: var(--text-small-normal-font-family);
+  font-size: var(--text-small-normal-font-size);
+  color: var(--primitive-color-brand-champagne);
+  opacity: 0.7;
+  font-style: italic;
+  text-align: center;
+  line-height: 1.4;
 }

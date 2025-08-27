@@ -7949,6 +7949,72 @@
   margin-bottom: 16px;
 }
 
+.currents-of-care-mobile .team-section {
+  background-color: var(--semantic-background-color-primary);
+  width: 100%;
+  padding: 24px 16px;
+}
+
+.currents-of-care-mobile .team-content {
+  max-width: 100%;
+}
+
+.currents-of-care-mobile .team-member-card {
+  box-shadow: var(--medium);
+  border: 2px solid var(--primitive-color-brand-carrot);
+  background-color: #ffffffe6;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.currents-of-care-mobile .member-name {
+  font-family: var(--heading-mobile-h5-font-family);
+  font-size: var(--heading-mobile-h5-font-size);
+  font-weight: var(--heading-mobile-h5-font-weight);
+  color: var(--semantic-text-primary);
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .member-bio {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  line-height: var(--text-large-normal-line-height);
+  color: var(--primitive-color-brand-espresso);
+}
+
+.currents-of-care-mobile .member-bio p {
+  text-align: justify;
+  margin-bottom: 12px;
+}
+
+.currents-of-care-mobile .member-image {
+  text-align: center;
+  margin-top: 16px;
+}
+
+.currents-of-care-mobile .team-artwork {
+  max-width: 100%;
+  height: auto;
+  box-shadow: var(--small);
+  border-radius: 8px;
+}
+
+.currents-of-care-mobile .image-placeholder {
+  border: 2px dashed var(--primitive-color-brand-carrot);
+  text-align: center;
+  background-color: #f18b251a;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.currents-of-care-mobile .image-placeholder p {
+  color: var(--primitive-color-brand-espresso);
+  margin: 0;
+  font-style: italic;
+}
+
 .currents-of-care-mobile .carousel-section {
   background-color: var(--semantic-background-color-primary);
   width: 100%;
@@ -8134,5 +8200,16 @@
   font-size: var(--text-medium-light-font-size);
   color: var(--primitive-color-brand-champagne);
   opacity: .8;
+  margin-bottom: 16px;
+}
+
+.currents-of-care-mobile .footer-footnote {
+  font-family: var(--text-small-normal-font-family);
+  font-size: var(--text-small-normal-font-size);
+  color: var(--primitive-color-brand-champagne);
+  opacity: .7;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.4;
 }
 /*# sourceMappingURL=index.c41b5a0e.css.map */

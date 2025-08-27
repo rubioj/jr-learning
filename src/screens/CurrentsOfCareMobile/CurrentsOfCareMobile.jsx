@@ -82,7 +82,7 @@ export const CurrentsOfCareMobile = () => {
       <div className="hero">
         <div className="content">
           <div className="column">
-            <h1 className="medium-length-hero">Currents of Care</h1>
+            <h1 className="medium-length-hero">Currents of Care*</h1>
             <h2 className="text-wrapper-company-name">CEDAR RIVER</h2>
           </div>
 
@@ -140,6 +140,77 @@ export const CurrentsOfCareMobile = () => {
             <p>
               Through art creation, mobile mural development, storytelling, and community dialogue, this event strives to reconnect participants with the multifaceted histories of the river. It will explore how the Cedar River has transformed over time due to development and climate change, and how to ensure its preservation for future generations. Additionally, the event will underscore how diverse communities contribute to Renton's welcoming atmosphere, celebrating the wildlife and fauna that make the Cedar River a unique and cherished part of the city.
             </p>
+          </div>
+        </div>
+      </div>
+
+      {/* Team Participants Section */}
+      <div className="team-section">
+        <div className="team-content">
+          <h3 className="section-title">Team Participants</h3>
+          
+          {/* Wesley Carrasco */}
+          <div className="team-member-card">
+            <h4 className="member-name">Wesley Carrasco</h4>
+            <div className="member-bio">
+              <p>
+                Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research interests include Indigenous geographies and the mobilities of Indigenous Lenca communities, both in diaspora and in Honduras, while also exploring Indigenous futures with more-than-human worlds.
+              </p>
+              <p>
+                His work engages with the theoretical frameworks of Indigenous knowledges, water cosmologies, and through the theory of praxis to better engage in more ethical community-led research and collaborative projects. He is currently working on his dissertation looking at the history and impacts of human-developed water projects like Lake Washington which not only transformed the City of Seattle but also Renton.
+              </p>
+              <p>
+                The development of the Ballard Locks and the Montlake Cut not only raised the water levels of Lake Union but also lowered the levels in Lake Washington. Forever shifting the relationships that the Cedar River had with the Black River which dried out, but also changing its relationship with the city of Renton.
+              </p>
+              <p>
+                His previous art projects include variations of different mobile murals depicting water and creation stories including a collaborative art piece dedicated to the future of canoes with the Center for American Indian Studies at the University of Washington and Muckleshoot Tribal School first graders.
+              </p>
+            </div>
+          </div>
+
+          {/* Ty Juvenil */}
+          <div className="team-member-card">
+            <h4 className="member-name">Ty Juvenil</h4>
+            <div className="member-bio">
+              <p style={{ textAlign: 'center', fontStyle: 'italic' }}>
+                Ty Juvenil is a Tulalip Coast Salish Artist 👨🏽‍🎨Teacher, Father, Activist, Storyteller
+              </p>
+            </div>
+          </div>
+
+          {/* Jack Brown */}
+          <div className="team-member-card">
+            <h4 className="member-name">Jack Brown</h4>
+            <div className="member-bio">
+              <p>
+                My name is Jack Brown. I am Yakama, Muckleshoot, and Puyallup, from the Dan Hoptowit line. I'm a fourth-year Marine Biology student at the University of Washington and have been part of the Shell House canoe family for three years.
+              </p>
+              <p>
+                I've been practicing formline art for the past four years and have been drawing and painting since I was young.
+              </p>
+            </div>
+            <div className="member-image">
+              <div className="image-placeholder">
+                <p>Formline art by Jack Brown</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Kennedy Stone */}
+          <div className="team-member-card">
+            <h4 className="member-name">Kennedy Stone</h4>
+            <div className="member-bio">
+              <p>
+                My name is Kennedy Stone, and I am a descendant of the Grand Portage Band Chippewa Tribe. As a current Biology major at the University of Washington I strive to explore my culture and continue pursuing art as I work towards a career in the medical field.
+              </p>
+            </div>
+            <div className="member-image">
+              <img 
+                src="/static/img/FlowersFruit.png" 
+                alt="Floral and berry design by Kennedy Stone" 
+                className="team-artwork"
+              />
+            </div>
           </div>
         </div>
       </div>
@@ -234,6 +305,9 @@ export const CurrentsOfCareMobile = () => {
           </p>
           <div className="footer-copyright">
             Currents of Care, a JR Learning Labs project © 2025. All rights reserved.
+          </div>
+          <div className="footer-footnote">
+            *Currents of Care is a term developed by Wesley Carrasco to reflect on the embodied experiences that people carry within them in regards to their water relations.
           </div>
         </div>
       </div>

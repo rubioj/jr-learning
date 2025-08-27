@@ -112,7 +112,7 @@ const CurrentsOfCarePage = () => {
             marginBottom: '10px',
             textShadow: '0 2px 4px rgba(0,0,0,0.1)'
           }}>
-            Currents of Care
+            Currents of Care*
           </h1>
           <h2 style={{
             fontSize: 'var(--heading-desktop-h3-font-size)',
@@ -309,9 +309,195 @@ const CurrentsOfCarePage = () => {
             </div>
           </div>
         </div>
-      </section>
+              </section>
 
-      {/* Image Carousel Section */}
+        {/* Team Participants Section */}
+        <section style={{
+          padding: '60px 20px',
+          backgroundColor: 'var(--primitive-color-brand-champagne)'
+        }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+            <h3 style={{
+              fontSize: 'var(--heading-desktop-h3-font-size)',
+              fontWeight: 'var(--heading-desktop-h3-font-weight)',
+              color: 'var(--primitive-color-brand-espresso)',
+              textAlign: 'center',
+              marginBottom: '40px'
+            }}>
+              Team Participants
+            </h3>
+            
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
+              gap: '30px',
+              marginBottom: '40px'
+            }}>
+              {/* Wesley Carrasco */}
+              <div style={{
+                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                borderRadius: '16px',
+                padding: '30px',
+                boxShadow: 'var(--large)',
+                border: '2px solid var(--primitive-color-brand-carrot)'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--heading-desktop-h5-font-size)',
+                  fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '20px',
+                  textAlign: 'center'
+                }}>
+                  Wesley Carrasco
+                </h4>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  lineHeight: 'var(--text-large-normal-line-height)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  textAlign: 'justify'
+                }}>
+                  <p style={{ marginBottom: '15px' }}>
+                    Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research interests include Indigenous geographies and the mobilities of Indigenous Lenca communities, both in diaspora and in Honduras, while also exploring Indigenous futures with more-than-human worlds.
+                  </p>
+                  <p style={{ marginBottom: '15px' }}>
+                    His work engages with the theoretical frameworks of Indigenous knowledges, water cosmologies, and through the theory of praxis to better engage in more ethical community-led research and collaborative projects. He is currently working on his dissertation looking at the history and impacts of human-developed water projects like Lake Washington which not only transformed the City of Seattle but also Renton.
+                  </p>
+                  <p style={{ marginBottom: '15px' }}>
+                    The development of the Ballard Locks and the Montlake Cut not only raised the water levels of Lake Union but also lowered the levels in Lake Washington. Forever shifting the relationships that the Cedar River had with the Black River which dried out, but also changing its relationship with the city of Renton.
+                  </p>
+                  <p style={{ marginBottom: '15px' }}>
+                    His previous art projects include variations of different mobile murals depicting water and creation stories including a collaborative art piece dedicated to the future of canoes with the Center for American Indian Studies at the University of Washington and Muckleshoot Tribal School first graders.
+                  </p>
+                </div>
+              </div>
+
+              {/* Ty Juvenil */}
+              <div style={{
+                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                borderRadius: '16px',
+                padding: '30px',
+                boxShadow: 'var(--large)',
+                border: '2px solid var(--primitive-color-brand-carrot)'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--heading-desktop-h5-font-size)',
+                  fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '20px',
+                  textAlign: 'center'
+                }}>
+                  Ty Juvenil
+                </h4>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  lineHeight: 'var(--text-large-normal-line-height)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  textAlign: 'center',
+                  fontStyle: 'italic'
+                }}>
+                  <p style={{ marginBottom: '15px' }}>
+                    Ty Juvenil is a Tulalip Coast Salish Artist 👨🏽‍🎨Teacher, Father, Activist, Storyteller
+                  </p>
+                </div>
+              </div>
+
+              {/* Jack Brown */}
+              <div style={{
+                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                borderRadius: '16px',
+                padding: '30px',
+                boxShadow: 'var(--large)',
+                border: '2px solid var(--primitive-color-brand-carrot)'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--heading-desktop-h5-font-size)',
+                  fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '20px',
+                  textAlign: 'center'
+                }}>
+                  Jack Brown
+                </h4>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  lineHeight: 'var(--text-large-normal-line-height)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  textAlign: 'justify'
+                }}>
+                  <p style={{ marginBottom: '15px' }}>
+                    My name is Jack Brown. I am Yakama, Muckleshoot, and Puyallup, from the Dan Hoptowit line. I'm a fourth-year Marine Biology student at the University of Washington and have been part of the Shell House canoe family for three years.
+                  </p>
+                  <p style={{ marginBottom: '15px' }}>
+                    I've been practicing formline art for the past four years and have been drawing and painting since I was young.
+                  </p>
+                </div>
+                {/* Image placeholder - Fish.png not available */}
+                <div style={{
+                  marginTop: '20px',
+                  textAlign: 'center',
+                  padding: '20px',
+                  backgroundColor: 'rgba(241, 139, 37, 0.1)',
+                  borderRadius: '8px',
+                  border: '2px dashed var(--primitive-color-brand-carrot)'
+                }}>
+                  <p style={{
+                    color: 'var(--primitive-color-brand-espresso)',
+                    fontStyle: 'italic',
+                    margin: 0
+                  }}>
+                    Formline art by Jack Brown
+                  </p>
+                </div>
+              </div>
+
+              {/* Kennedy Stone */}
+              <div style={{
+                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                borderRadius: '16px',
+                padding: '30px',
+                boxShadow: 'var(--large)',
+                border: '2px solid var(--primitive-color-brand-carrot)'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--heading-desktop-h5-font-size)',
+                  fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '20px',
+                  textAlign: 'center'
+                }}>
+                  Kennedy Stone
+                </h4>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  lineHeight: 'var(--text-large-normal-line-height)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  textAlign: 'justify'
+                }}>
+                  <p style={{ marginBottom: '15px' }}>
+                    My name is Kennedy Stone, and I am a descendant of the Grand Portage Band Chippewa Tribe. As a current Biology major at the University of Washington I strive to explore my culture and continue pursuing art as I work towards a career in the medical field.
+                  </p>
+                </div>
+                <div style={{
+                  marginTop: '20px',
+                  textAlign: 'center'
+                }}>
+                  <img 
+                    src="/static/img/FlowersFruit.png" 
+                    alt="Floral and berry design by Kennedy Stone" 
+                    style={{
+                      maxWidth: '100%',
+                      height: 'auto',
+                      borderRadius: '8px',
+                      boxShadow: 'var(--medium)'
+                    }}
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Image Carousel Section */}
       <section style={{
         padding: '60px 20px',
         backgroundColor: 'var(--primitive-color-brand-champagne)'
@@ -583,9 +769,22 @@ const CurrentsOfCarePage = () => {
           <div style={{
             fontSize: 'var(--text-medium-light-font-size)',
             color: 'var(--primitive-color-brand-champagne)',
-            opacity: 0.8
+            opacity: 0.8,
+            marginBottom: '20px'
           }}>
             Currents of Care, a JR Learning Labs project © 2025. All rights reserved.
+          </div>
+          <div style={{
+            fontSize: 'var(--text-small-normal-font-size)',
+            color: 'var(--primitive-color-brand-champagne)',
+            opacity: 0.7,
+            fontStyle: 'italic',
+            textAlign: 'center',
+            maxWidth: '600px',
+            margin: '0 auto',
+            lineHeight: '1.4'
+          }}>
+            *Currents of Care is a term developed by Wesley Carrasco to reflect on the embodied experiences that people carry within them in regards to their water relations.
           </div>
         </div>
       </footer>
