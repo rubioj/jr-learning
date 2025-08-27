@@ -7,6 +7,8 @@ import cedarRiver1 from '../../../static/img/cedar-river-1.jpg';
 import communityMural1 from '../../../static/img/community-mural-1.jpg';
 import mobileMuralPanel from '../../../static/img/mobile-mural-panel.jpg';
 import riverEcosystem from '../../../static/img/river-ecosystem.jpg';
+import fishArt from '../../../static/img/Fish.png';
+import flowersFruitArt from '../../../static/img/FlowersFruit.png';
 import './style.css';
 
 export const CurrentsOfCareMobile = () => {
@@ -190,9 +192,11 @@ export const CurrentsOfCareMobile = () => {
               </p>
             </div>
             <div className="member-image">
-              <div className="image-placeholder">
-                <p>Formline art by Jack Brown</p>
-              </div>
+              <img 
+                src={fishArt} 
+                alt="Formline art fish by Jack Brown" 
+                className="team-artwork"
+              />
             </div>
           </div>
 
@@ -206,7 +210,7 @@ export const CurrentsOfCareMobile = () => {
             </div>
             <div className="member-image">
               <img 
-                src="/static/img/FlowersFruit.png" 
+                src={flowersFruitArt} 
                 alt="Floral and berry design by Kennedy Stone" 
                 className="team-artwork"
               />

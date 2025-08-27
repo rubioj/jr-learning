@@ -6,6 +6,8 @@ import cedarRiver1 from '../../static/img/cedar-river-1.jpg';
 import communityMural1 from '../../static/img/community-mural-1.jpg';
 import mobileMuralPanel from '../../static/img/mobile-mural-panel.jpg';
 import riverEcosystem from '../../static/img/river-ecosystem.jpg';
+import fishArt from '../../static/img/Fish.png';
+import flowersFruitArt from '../../static/img/FlowersFruit.png';
 
 const CurrentsOfCarePage = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -431,22 +433,20 @@ const CurrentsOfCarePage = () => {
                     I've been practicing formline art for the past four years and have been drawing and painting since I was young.
                   </p>
                 </div>
-                {/* Image placeholder - Fish.png not available */}
                 <div style={{
                   marginTop: '20px',
-                  textAlign: 'center',
-                  padding: '20px',
-                  backgroundColor: 'rgba(241, 139, 37, 0.1)',
-                  borderRadius: '8px',
-                  border: '2px dashed var(--primitive-color-brand-carrot)'
+                  textAlign: 'center'
                 }}>
-                  <p style={{
-                    color: 'var(--primitive-color-brand-espresso)',
-                    fontStyle: 'italic',
-                    margin: 0
-                  }}>
-                    Formline art by Jack Brown
-                  </p>
+                  <img 
+                    src={fishArt} 
+                    alt="Formline art fish by Jack Brown" 
+                    style={{
+                      maxWidth: '100%',
+                      height: 'auto',
+                      borderRadius: '8px',
+                      boxShadow: 'var(--medium)'
+                    }}
+                  />
                 </div>
               </div>
 
@@ -482,7 +482,7 @@ const CurrentsOfCarePage = () => {
                   textAlign: 'center'
                 }}>
                   <img 
-                    src="/static/img/FlowersFruit.png" 
+                    src={flowersFruitArt} 
                     alt="Floral and berry design by Kennedy Stone" 
                     style={{
                       maxWidth: '100%',
