@@ -144,7 +144,7 @@ const CurrentsOfCarePage = () => {
               textTransform: 'uppercase',
               letterSpacing: '1px'
             }}>
-              OCTOBER 21 and 25, 2025
+              OCTOBER 11 and 25, 2025
             </div>
             <div style={{
               fontSize: 'var(--text-large-medium-font-size)',

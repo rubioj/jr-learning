@@ -90,7 +90,7 @@ export const CurrentsOfCareMobile = () => {
 
           {/* Event Info Card */}
           <div className="event-info-card">
-            <div className="event-date">OCTOBER 21 and 25, 2025</div>
+            <div className="event-date">OCTOBER 11 and 25, 2025</div>
             <div className="event-time">SATURDAYS 12:00–3:00 PM</div>
             <div className="event-location">Renton Public Library</div>
           </div>

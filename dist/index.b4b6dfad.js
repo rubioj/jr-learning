@@ -49028,7 +49028,7 @@ const CurrentsOfCarePage = ()=>{
                                             textTransform: 'uppercase',
                                             letterSpacing: '1px'
                                         },
-                                        children: "OCTOBER 21 and 25, 2025"
+                                        children: "OCTOBER 11 and 25, 2025"
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
                                         lineNumber: 139,
@@ -50282,7 +50282,7 @@ const CurrentsOfCareMobile = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "event-date",
-                                    children: "OCTOBER 21 and 25, 2025"
+                                    children: "OCTOBER 11 and 25, 2025"
                                 }, void 0, false, {
                                     fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
                                     lineNumber: 93,
