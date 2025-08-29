@@ -118,6 +118,55 @@ export const CurrentsOfCareMobile = () => {
         </div>
       </div>
 
+      {/* Image Carousel Section - Moved to top */}
+      <div className="carousel-section">
+        <h3 className="section-title">Community & River Gallery</h3>
+        
+        <div className="carousel-container">
+          <div className="carousel-image-container">
+            <img
+              src={images[currentImageIndex].src}
+              alt={images[currentImageIndex].alt}
+              className="carousel-image"
+            />
+            
+            {/* Overlay gradient */}
+            <div className="image-overlay" />
+            
+            {/* Caption */}
+            <div className="image-caption">
+              {images[currentImageIndex].caption}
+            </div>
+
+            {/* Navigation Buttons */}
+            <button
+              onClick={goToPrevious}
+              className="nav-button nav-button-left"
+            >
+              ‹
+            </button>
+            
+            <button
+              onClick={goToNext}
+              className="nav-button nav-button-right"
+            >
+              ›
+            </button>
+          </div>
+
+          {/* Indicators */}
+          <div className="carousel-indicators">
+            {images.map((_, index) => (
+              <button
+                key={index}
+                onClick={() => goToSlide(index)}
+                className={`indicator ${index === currentImageIndex ? 'active' : ''}`}
+              />
+            ))}
+          </div>
+        </div>
+      </div>
+
       {/* Project Description Section */}
       <div className="project-section">
         <div className="project-content">
@@ -219,54 +268,7 @@ export const CurrentsOfCareMobile = () => {
         </div>
       </div>
 
-      {/* Image Carousel Section */}
-      <div className="carousel-section">
-        <h3 className="section-title">Community & River Gallery</h3>
-        
-        <div className="carousel-container">
-          <div className="carousel-image-container">
-            <img
-              src={images[currentImageIndex].src}
-              alt={images[currentImageIndex].alt}
-              className="carousel-image"
-            />
-            
-            {/* Overlay gradient */}
-            <div className="image-overlay" />
-            
-            {/* Caption */}
-            <div className="image-caption">
-              {images[currentImageIndex].caption}
-            </div>
 
-            {/* Navigation Buttons */}
-            <button
-              onClick={goToPrevious}
-              className="nav-button nav-button-left"
-            >
-              ‹
-            </button>
-            
-            <button
-              onClick={goToNext}
-              className="nav-button nav-button-right"
-            >
-              ›
-            </button>
-          </div>
-
-          {/* Indicators */}
-          <div className="carousel-indicators">
-            {images.map((_, index) => (
-              <button
-                key={index}
-                onClick={() => goToSlide(index)}
-                className={`indicator ${index === currentImageIndex ? 'active' : ''}`}
-              />
-            ))}
-          </div>
-        </div>
-      </div>
 
       {/* Call to Action Section */}
       <div className="cta-section">

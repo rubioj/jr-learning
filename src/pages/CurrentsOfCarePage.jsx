@@ -231,6 +231,168 @@ const CurrentsOfCarePage = () => {
         </div>
       </header>
 
+      {/* Image Carousel Section - Moved to top */}
+      <section style={{
+        padding: '40px 20px',
+        backgroundColor: 'var(--primitive-color-brand-champagne)'
+      }}>
+        <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
+          <h3 style={{
+            fontSize: 'var(--heading-desktop-h3-font-size)',
+            fontWeight: 'var(--heading-desktop-h3-font-weight)',
+            color: 'var(--primitive-color-brand-espresso)',
+            textAlign: 'center',
+            marginBottom: '30px'
+          }}>
+            Community & River Gallery
+          </h3>
+          
+          <div style={{
+            position: 'relative',
+            borderRadius: '16px',
+            overflow: 'hidden',
+            boxShadow: 'var(--large)',
+            backgroundColor: 'white'
+          }}>
+            {/* Main Image */}
+            <div style={{
+              position: 'relative',
+              height: '400px',
+              overflow: 'hidden'
+            }}>
+              <img
+                src={images[currentImageIndex].src}
+                alt={images[currentImageIndex].alt}
+                style={{
+                  width: '100%',
+                  height: '100%',
+                  objectFit: 'cover',
+                  transition: 'transform 0.5s ease-in-out'
+                }}
+              />
+              
+              {/* Overlay gradient */}
+              <div style={{
+                position: 'absolute',
+                bottom: 0,
+                left: 0,
+                right: 0,
+                height: '100px',
+                background: 'linear-gradient(transparent, rgba(0,0,0,0.7))'
+              }} />
+              
+              {/* Caption */}
+              <div style={{
+                position: 'absolute',
+                bottom: '20px',
+                left: '20px',
+                right: '20px',
+                color: 'white'
+              }}>
+                <p style={{
+                  fontSize: 'var(--text-large-medium-font-size)',
+                  fontWeight: 'var(--text-large-medium-font-weight)',
+                  margin: 0
+                }}>
+                  {images[currentImageIndex].caption}
+                </p>
+              </div>
+
+              {/* Navigation Buttons */}
+              <button
+                onClick={goToPrevious}
+                style={{
+                  position: 'absolute',
+                  left: '20px',
+                  top: '50%',
+                  transform: 'translateY(-50%)',
+                  background: 'rgba(255,255,255,0.8)',
+                  border: 'none',
+                  borderRadius: '50%',
+                  width: '50px',
+                  height: '50px',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  fontSize: '24px',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  transition: 'all 0.3s ease'
+                }}
+                onMouseOver={(e) => e.target.style.background = 'rgba(255,255,255,1)'}
+                onMouseOut={(e) => e.target.style.background = 'rgba(255,255,255,0.8)'}
+              >
+                ‹
+              </button>
+              
+              <button
+                onClick={goToNext}
+                style={{
+                  position: 'absolute',
+                  right: '20px',
+                  top: '50%',
+                  transform: 'translateY(-50%)',
+                  background: 'rgba(255,255,255,0.8)',
+                  border: 'none',
+                  borderRadius: '50%',
+                  width: '50px',
+                  height: '50px',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  fontSize: '24px',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  transition: 'all 0.3s ease'
+                }}
+                onMouseOver={(e) => e.target.style.background = 'rgba(255,255,255,1)'}
+                onMouseOut={(e) => e.target.style.background = 'rgba(255,255,255,0.8)'}
+              >
+                ›
+              </button>
+            </div>
+
+            {/* Indicators */}
+            <div style={{
+              position: 'absolute',
+              bottom: '10px',
+              left: '50%',
+              transform: 'translateX(-50%)',
+              display: 'flex',
+              gap: '8px'
+            }}>
+              {images.map((_, index) => (
+                <button
+                  key={index}
+                  onClick={() => goToSlide(index)}
+                  style={{
+                    width: '12px',
+                    height: '12px',
+                    borderRadius: '50%',
+                    border: 'none',
+                    background: index === currentImageIndex 
+                      ? 'var(--primitive-color-brand-carrot)' 
+                      : 'rgba(255,255,255,0.5)',
+                    cursor: 'pointer',
+                    transition: 'all 0.3s ease'
+                  }}
+                  onMouseOver={(e) => {
+                    if (index !== currentImageIndex) {
+                      e.target.style.background = 'rgba(255,255,255,0.8)';
+                    }
+                  }}
+                  onMouseOut={(e) => {
+                    if (index !== currentImageIndex) {
+                      e.target.style.background = 'rgba(255,255,255,0.5)';
+                    }
+                  }}
+                />
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Project Description Section */}
       <section style={{
         padding: '60px 20px',
@@ -497,167 +659,7 @@ const CurrentsOfCarePage = () => {
           </div>
         </section>
 
-        {/* Image Carousel Section */}
-      <section style={{
-        padding: '60px 20px',
-        backgroundColor: 'var(--primitive-color-brand-champagne)'
-      }}>
-        <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
-          <h3 style={{
-            fontSize: 'var(--heading-desktop-h4-font-size)',
-            fontWeight: 'var(--heading-desktop-h4-font-weight)',
-            color: 'var(--primitive-color-brand-espresso)',
-            textAlign: 'center',
-            marginBottom: '40px'
-          }}>
-            Community & River Gallery
-          </h3>
-          
-          <div style={{
-            position: 'relative',
-            borderRadius: '16px',
-            overflow: 'hidden',
-            boxShadow: 'var(--large)',
-            backgroundColor: 'white'
-          }}>
-            {/* Main Image */}
-            <div style={{
-              position: 'relative',
-              height: '400px',
-              overflow: 'hidden'
-            }}>
-              <img
-                src={images[currentImageIndex].src}
-                alt={images[currentImageIndex].alt}
-                style={{
-                  width: '100%',
-                  height: '100%',
-                  objectFit: 'cover',
-                  transition: 'transform 0.5s ease-in-out'
-                }}
-              />
-              
-              {/* Overlay gradient */}
-              <div style={{
-                position: 'absolute',
-                bottom: 0,
-                left: 0,
-                right: 0,
-                height: '100px',
-                background: 'linear-gradient(transparent, rgba(0,0,0,0.7))'
-              }} />
-              
-              {/* Caption */}
-              <div style={{
-                position: 'absolute',
-                bottom: '20px',
-                left: '20px',
-                right: '20px',
-                color: 'white'
-              }}>
-                <p style={{
-                  fontSize: 'var(--text-large-medium-font-size)',
-                  fontWeight: 'var(--text-large-medium-font-weight)',
-                  margin: 0
-                }}>
-                  {images[currentImageIndex].caption}
-                </p>
-              </div>
 
-              {/* Navigation Buttons */}
-              <button
-                onClick={goToPrevious}
-                style={{
-                  position: 'absolute',
-                  left: '20px',
-                  top: '50%',
-                  transform: 'translateY(-50%)',
-                  background: 'rgba(255,255,255,0.8)',
-                  border: 'none',
-                  borderRadius: '50%',
-                  width: '50px',
-                  height: '50px',
-                  cursor: 'pointer',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '24px',
-                  color: 'var(--primitive-color-brand-espresso)',
-                  transition: 'all 0.3s ease'
-                }}
-                onMouseOver={(e) => e.target.style.background = 'rgba(255,255,255,1)'}
-                onMouseOut={(e) => e.target.style.background = 'rgba(255,255,255,0.8)'}
-              >
-                ‹
-              </button>
-              
-              <button
-                onClick={goToNext}
-                style={{
-                  position: 'absolute',
-                  right: '20px',
-                  top: '50%',
-                  transform: 'translateY(-50%)',
-                  background: 'rgba(255,255,255,0.8)',
-                  border: 'none',
-                  borderRadius: '50%',
-                  width: '50px',
-                  height: '50px',
-                  cursor: 'pointer',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '24px',
-                  color: 'var(--primitive-color-brand-espresso)',
-                  transition: 'all 0.3s ease'
-                }}
-                onMouseOver={(e) => e.target.style.background = 'rgba(255,255,255,1)'}
-                onMouseOut={(e) => e.target.style.background = 'rgba(255,255,255,0.8)'}
-              >
-                ›
-              </button>
-            </div>
-
-            {/* Indicators */}
-            <div style={{
-              position: 'absolute',
-              bottom: '10px',
-              left: '50%',
-              transform: 'translateX(-50%)',
-              display: 'flex',
-              gap: '8px'
-            }}>
-              {images.map((_, index) => (
-                <button
-                  key={index}
-                  onClick={() => goToSlide(index)}
-                  style={{
-                    width: '12px',
-                    height: '12px',
-                    borderRadius: '50%',
-                    border: 'none',
-                    background: index === currentImageIndex 
-                      ? 'var(--primitive-color-brand-carrot)' 
-                      : 'rgba(255,255,255,0.5)',
-                    cursor: 'pointer',
-                    transition: 'all 0.3s ease'
-                  }}
-                  onMouseOver={(e) => {
-                    if (index !== currentImageIndex) {
-                      e.target.style.background = 'rgba(255,255,255,0.8)';
-                    }
-                  }}
-                  onMouseOut={(e) => {
-                    if (index !== currentImageIndex) {
-                      e.target.style.background = 'rgba(255,255,255,0.5)';
-                    }
-                  }}
-                />
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Call to Action Section */}
       <section style={{
