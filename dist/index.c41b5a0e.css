@@ -7901,40 +7901,18 @@
   margin-bottom: 20px;
 }
 
-.currents-of-care-mobile .event-highlight {
-  background-color: var(--primitive-color-brand-carrot);
-  color: #fff;
+.currents-of-care-mobile .event-flyer {
   text-align: center;
   box-shadow: var(--small);
   border-radius: 8px;
   margin-bottom: 20px;
-  padding: 16px;
+  overflow: hidden;
 }
 
-.currents-of-care-mobile .highlight-date {
-  font-family: var(--text-large-bold-font-family);
-  font-size: var(--text-large-bold-font-size);
-  font-weight: var(--text-large-bold-font-weight);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 8px;
-}
-
-.currents-of-care-mobile .highlight-time {
-  font-family: var(--text-large-medium-font-family);
-  font-size: var(--text-large-medium-font-size);
-  font-weight: var(--text-large-medium-font-weight);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 8px;
-}
-
-.currents-of-care-mobile .highlight-location {
-  font-family: var(--text-large-normal-font-family);
-  font-size: var(--text-large-normal-font-size);
-  font-weight: var(--text-large-normal-font-weight);
-  text-transform: uppercase;
-  letter-spacing: 1px;
+.currents-of-care-mobile .flyer-image {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .currents-of-care-mobile .project-text {
