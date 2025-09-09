@@ -57,7 +57,7 @@ export const HomeDesktop = () => {
               </p>
 
                 <p className="text-wrapper-subheading">
-                 Leaders in Technology and AI-Based Learning
+                 Leaders in Design and Technology
                 </p>
                 
                 

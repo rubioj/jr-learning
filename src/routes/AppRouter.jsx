@@ -11,6 +11,9 @@ import { ContactMobile } from '../screens/ContactMobile';
 import { MenuMobile } from '../screens/MenuMobile';
 import { PublicationsMobile } from '../screens/PublicationsMobile';
 import { PublicationsDesktop } from '../screens/PublicationsDesktop';
+import { SmsOptInPage } from '../screens/SmsOptInPage';
+import CurrentsOfCarePage from '../pages/CurrentsOfCarePage';
+import { CurrentsOfCareMobile } from '../screens/CurrentsOfCareMobile';
 
 function AppRouter() {
   return (
@@ -29,6 +32,10 @@ function AppRouter() {
         <Route path="/menu-mobile" element={<MenuMobile />} />
         <Route path="/publications-desktop" element={<PublicationsDesktop />} />
         <Route path="/publications-mobile" element={<PublicationsMobile />} />
+        <Route path="/sms-opt-in" element={<SmsOptInPage />} />
+        <Route path="/currents-of-care" element={<CurrentsOfCarePage />} />
+        <Route path="/currents-of-care-mobile" element={<CurrentsOfCareMobile />} />
+        <Route path="/currents-of-care-desktop" element={<CurrentsOfCarePage />} />
       </Routes>
     </>
   );

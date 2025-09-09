@@ -3,7 +3,7 @@ name: Deploy to GoDaddy via FTP
 on:
   push:
     branches:
-      - main  # Change this if you use a different branch for deployment
+      - currents   # Change this if you use a different branch for deployment
 
 jobs:
   deploy:

@@ -1,0 +1,1 @@
+export { CurrentsOfCareMobile } from './CurrentsOfCareMobile';
