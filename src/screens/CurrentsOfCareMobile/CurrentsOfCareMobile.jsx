@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 import { Button } from '../../components/Button';
 import { IconMenu } from '../../icons/IconMenu';
 import mastheadSvg from '../../../static/img/masthead.svg';
-import cedarRiver1 from '../../../static/img/cedar-river-1.jpg';
-import communityMural1 from '../../../static/img/community-mural-1.jpg';
-import mobileMuralPanel from '../../../static/img/mobile-mural-panel.jpg';
-import riverEcosystem from '../../../static/img/river-ecosystem.jpg';
+import cedarRiver3 from '../../../static/img/Cedar_River_3.png';
+import blueBackgroundCedarmural2 from '../../../static/img/blue-background-cedarmural2.png';
+import blueBackgroundCedarmural1 from '../../../static/img/blue-background-cedarmural-1.png';
+import flyerImage from '../../../static/img/flyer.png';
 import fishArt from '../../../static/img/Fish.png';
 import flowersFruitArt from '../../../static/img/FlowersFruit.png';
 import './style.css';
@@ -16,24 +16,19 @@ export const CurrentsOfCareMobile = () => {
   
   const images = [
     {
-      src: cedarRiver1,
+      src: cedarRiver3,
       alt: 'Cedar River flowing through Renton, WA',
       caption: 'The Cedar River - A vital waterway for our community'
     },
     {
-      src: communityMural1,
-      alt: 'Community members creating a collaborative mural',
+      src: blueBackgroundCedarmural2,
+      alt: 'Community mural artwork with blue background',
       caption: 'Community art bringing people together'
     },
     {
-      src: mobileMuralPanel,
-      alt: 'Mobile mural panel ready for community painting',
-      caption: 'Mobile mural panel for community events'
-    },
-    {
-      src: riverEcosystem,
-      alt: 'Cedar River ecosystem with native wildlife',
-      caption: 'Rich ecosystem and cultural heritage of the Cedar River'
+      src: blueBackgroundCedarmural1,
+      alt: 'Cedar River mural artwork with blue background',
+      caption: 'Artistic representation of the Cedar River'
     }
   ];
 
@@ -172,11 +167,13 @@ export const CurrentsOfCareMobile = () => {
         <div className="project-content">
           <h3 className="section-title">About the Project</h3>
           
-          {/* Event Highlight Box */}
-          <div className="event-highlight">
-            <div className="highlight-date">Join Us: October 21 & 25, 2025</div>
-            <div className="highlight-time">Saturdays 12:00–3:00 PM</div>
-            <div className="highlight-location">Renton Public Library</div>
+          {/* Event Flyer */}
+          <div className="event-flyer">
+            <img
+              src={flyerImage}
+              alt="Event flyer for Currents of Care community mural project"
+              className="flyer-image"
+            />
           </div>
           
           <div className="project-text">

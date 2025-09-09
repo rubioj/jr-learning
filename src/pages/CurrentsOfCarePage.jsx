@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import '../../styleguide.css';
 import { NavbarJr } from '../components/NavbarJr';
 import { IconRelume2 } from '../icons/IconRelume2';
-import cedarRiver1 from '../../static/img/cedar-river-1.jpg';
-import communityMural1 from '../../static/img/community-mural-1.jpg';
-import mobileMuralPanel from '../../static/img/mobile-mural-panel.jpg';
-import riverEcosystem from '../../static/img/river-ecosystem.jpg';
+import cedarRiver3 from '../../static/img/Cedar_River_3.png';
+import blueBackgroundCedarmural2 from '../../static/img/blue-background-cedarmural2.png';
+import blueBackgroundCedarmural1 from '../../static/img/blue-background-cedarmural-1.png';
+import flyerImage from '../../static/img/flyer.png';
 import fishArt from '../../static/img/Fish.png';
 import flowersFruitArt from '../../static/img/FlowersFruit.png';
 
@@ -15,24 +15,19 @@ const CurrentsOfCarePage = () => {
   // Import images from the static folder
   const images = [
     {
-      src: cedarRiver1,
+      src: cedarRiver3,
       alt: 'Cedar River flowing through Renton, WA',
       caption: 'The Cedar River - A vital waterway for our community'
     },
     {
-      src: communityMural1,
-      alt: 'Community members creating a collaborative mural',
+      src: blueBackgroundCedarmural2,
+      alt: 'Community mural artwork with blue background',
       caption: 'Community art bringing people together'
     },
     {
-      src: mobileMuralPanel,
-      alt: 'Mobile mural panel ready for community painting',
-      caption: 'Mobile mural panel for community events'
-    },
-    {
-      src: riverEcosystem,
-      alt: 'Cedar River ecosystem with native wildlife',
-      caption: 'Rich ecosystem and cultural heritage of the Cedar River'
+      src: blueBackgroundCedarmural1,
+      alt: 'Cedar River mural artwork with blue background',
+      caption: 'Artistic representation of the Cedar River'
     }
   ];
 
@@ -421,42 +416,23 @@ const CurrentsOfCarePage = () => {
               lineHeight: 'var(--text-large-normal-line-height)',
               color: 'var(--primitive-color-brand-espresso)'
             }}>
-              {/* Event Highlight Box */}
+              {/* Event Flyer */}
               <div style={{
-                backgroundColor: 'var(--primitive-color-brand-carrot)',
-                color: 'white',
-                padding: '20px',
-                borderRadius: '12px',
                 marginBottom: '25px',
                 textAlign: 'center',
+                borderRadius: '12px',
+                overflow: 'hidden',
                 boxShadow: 'var(--medium)'
               }}>
-                <div style={{
-                  fontSize: 'var(--text-large-bold-font-size)',
-                  fontWeight: 'var(--text-large-bold-font-weight)',
-                  marginBottom: '10px',
-                  textTransform: 'uppercase',
-                  letterSpacing: '1px'
-                }}>
-                  Join Us: October 21 & 25, 2025
-                </div>
-                <div style={{
-                  fontSize: 'var(--text-large-medium-font-size)',
-                  fontWeight: 'var(--text-large-medium-font-weight)',
-                  marginBottom: '10px',
-                  textTransform: 'uppercase',
-                  letterSpacing: '1px'
-                }}>
-                  Saturdays 12:00–3:00 PM
-                </div>
-                <div style={{
-                  fontSize: 'var(--text-large-normal-font-size)',
-                  fontWeight: 'var(--text-large-normal-font-weight)',
-                  textTransform: 'uppercase',
-                  letterSpacing: '1px'
-                }}>
-                  Renton Public Library
-                </div>
+                <img
+                  src={flyerImage}
+                  alt="Event flyer for Currents of Care community mural project"
+                  style={{
+                    width: '100%',
+                    height: 'auto',
+                    display: 'block'
+                  }}
+                />
               </div>
               
               <p style={{ marginBottom: '20px', textAlign: 'justify' }}>

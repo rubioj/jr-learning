@@ -250,41 +250,19 @@
   margin-bottom: 20px;
 }
 
-/* Event Highlight */
-.currents-of-care-mobile .event-highlight {
-  background-color: var(--primitive-color-brand-carrot);
-  color: white;
-  padding: 16px;
-  border-radius: 8px;
+/* Event Flyer */
+.currents-of-care-mobile .event-flyer {
   margin-bottom: 20px;
   text-align: center;
+  border-radius: 8px;
+  overflow: hidden;
   box-shadow: var(--small);
 }
 
-.currents-of-care-mobile .highlight-date {
-  font-family: var(--text-large-bold-font-family);
-  font-size: var(--text-large-bold-font-size);
-  font-weight: var(--text-large-bold-font-weight);
-  margin-bottom: 8px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.currents-of-care-mobile .highlight-time {
-  font-family: var(--text-large-medium-font-family);
-  font-size: var(--text-large-medium-font-size);
-  font-weight: var(--text-large-medium-font-weight);
-  margin-bottom: 8px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.currents-of-care-mobile .highlight-location {
-  font-family: var(--text-large-normal-font-family);
-  font-size: var(--text-large-normal-font-size);
-  font-weight: var(--text-large-normal-font-weight);
-  text-transform: uppercase;
-  letter-spacing: 1px;
+.currents-of-care-mobile .flyer-image {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* Project Text */
