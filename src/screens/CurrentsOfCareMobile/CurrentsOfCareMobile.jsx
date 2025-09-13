@@ -213,6 +213,17 @@ export const CurrentsOfCareMobile = () => {
         <div className="team-content">
           <h3 className="section-title">Team Participants</h3>
           
+          {/* Juan Rubio */}
+          <div className="team-member-card">
+            <h4 className="member-name">Juan Rubio</h4>
+            <div className="member-bio">
+              <p className="member-role">Lead Artist / Organizer</p>
+              <p>
+                Juan Rubio is a multidisciplinary artist and community-based designer whose work integrates technology, public art, and participatory practices. His projects often center on co-creation, cultural memory, and ecological awareness, using both traditional and digital media to create meaningful community experiences.
+              </p>
+            </div>
+          </div>
+
           {/* Wesley Carrasco */}
           <div className="team-member-card">
             <h4 className="member-name">Wesley Carrasco</h4>

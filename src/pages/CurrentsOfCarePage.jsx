@@ -528,6 +528,43 @@ const CurrentsOfCarePage = () => {
               gap: '30px',
               marginBottom: '40px'
             }}>
+              {/* Juan Rubio */}
+              <div style={{
+                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                borderRadius: '16px',
+                padding: '30px',
+                boxShadow: 'var(--large)',
+                border: '2px solid var(--primitive-color-brand-carrot)'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--heading-desktop-h5-font-size)',
+                  fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '20px',
+                  textAlign: 'center'
+                }}>
+                  Juan Rubio
+                </h4>
+                <div style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  lineHeight: 'var(--text-large-normal-line-height)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  textAlign: 'justify'
+                }}>
+                  <p style={{ 
+                    marginBottom: '15px',
+                    textAlign: 'center',
+                    fontStyle: 'italic',
+                    fontWeight: 'var(--text-large-medium-font-weight)'
+                  }}>
+                    Lead Artist / Organizer
+                  </p>
+                  <p style={{ marginBottom: '15px' }}>
+                    Juan Rubio is a multidisciplinary artist and community-based designer whose work integrates technology, public art, and participatory practices. His projects often center on co-creation, cultural memory, and ecological awareness, using both traditional and digital media to create meaningful community experiences.
+                  </p>
+                </div>
+              </div>
+
               {/* Wesley Carrasco */}
               <div style={{
                 backgroundColor: 'rgba(255, 255, 255, 0.9)',

@@ -8012,6 +8012,16 @@
   margin-bottom: 12px;
 }
 
+.currents-of-care-mobile .member-role {
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  text-align: center;
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 12px;
+  font-style: italic;
+}
+
 .currents-of-care-mobile .member-image {
   text-align: center;
   margin-top: 16px;

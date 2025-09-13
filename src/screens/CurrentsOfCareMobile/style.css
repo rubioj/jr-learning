@@ -365,6 +365,16 @@
   text-align: justify;
 }
 
+.currents-of-care-mobile .member-role {
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 12px;
+  color: var(--primitive-color-brand-espresso);
+}
+
 .currents-of-care-mobile .member-image {
   margin-top: 16px;
   text-align: center;
