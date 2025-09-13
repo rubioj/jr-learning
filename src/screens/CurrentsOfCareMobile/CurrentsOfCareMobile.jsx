@@ -9,6 +9,7 @@ import blueBackgroundCedarmural1 from '../../../static/img/blue-background-cedar
 import flyerImage from '../../../static/img/flyer.png';
 import fishArt from '../../../static/img/Fish.png';
 import flowersFruitArt from '../../../static/img/FlowersFruit.png';
+import currentsOfCareLogo from '../../../static/img/CurrentsOfCare_logo.png';
 import './style.css';
 
 export const CurrentsOfCareMobile = () => {
@@ -81,6 +82,15 @@ export const CurrentsOfCareMobile = () => {
           <div className="column">
             <h1 className="medium-length-hero">Currents of Care*</h1>
             <h2 className="text-wrapper-company-name">CEDAR RIVER</h2>
+          </div>
+          
+          {/* Currents of Care Logo */}
+          <div className="logo-container">
+            <img
+              src={currentsOfCareLogo}
+              alt="Currents of Care Logo"
+              className="currents-logo"
+            />
           </div>
 
           {/* Event Info Card */}

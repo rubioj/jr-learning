@@ -7960,6 +7960,21 @@
   transform: translateY(-1px);
 }
 
+.currents-of-care-mobile .logo-container {
+  z-index: 2;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.currents-of-care-mobile .currents-logo {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
 .currents-of-care-mobile .project-text {
   font-family: var(--text-large-normal-font-family);
   font-size: var(--text-large-normal-font-size);

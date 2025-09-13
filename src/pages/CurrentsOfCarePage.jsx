@@ -8,6 +8,7 @@ import blueBackgroundCedarmural1 from '../../static/img/blue-background-cedarmur
 import flyerImage from '../../static/img/flyer.png';
 import fishArt from '../../static/img/Fish.png';
 import flowersFruitArt from '../../static/img/FlowersFruit.png';
+import currentsOfCareLogo from '../../static/img/CurrentsOfCare_logo.png';
 
 const CurrentsOfCarePage = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -87,18 +88,25 @@ const CurrentsOfCarePage = () => {
         position: 'relative',
         overflow: 'hidden'
       }}>
-        {/* Background visual block */}
+        {/* Currents of Care Logo */}
         <div style={{
           position: 'absolute',
           top: '20px',
           right: '20px',
           width: '200px',
           height: '200px',
-          backgroundColor: 'var(--primitive-color-brand-carrot)',
-          opacity: 0.1,
-          borderRadius: '50%',
-          transform: 'rotate(15deg)'
-        }} />
+          zIndex: 2
+        }}>
+          <img
+            src={currentsOfCareLogo}
+            alt="Currents of Care Logo"
+            style={{
+              width: '100%',
+              height: '100%',
+              objectFit: 'contain'
+            }}
+          />
+        </div>
         
         <div style={{ maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
           <h1 style={{
@@ -109,7 +117,7 @@ const CurrentsOfCarePage = () => {
             marginBottom: '10px',
             textShadow: '0 2px 4px rgba(0,0,0,0.1)'
           }}>
-            Currents of Care*
+            Currents of Care *
           </h1>
           <h2 style={{
             fontSize: 'var(--heading-desktop-h3-font-size)',
@@ -119,7 +127,7 @@ const CurrentsOfCarePage = () => {
             textTransform: 'uppercase',
             letterSpacing: '2px'
           }}>
-            CEDAR RIVER
+            
           </h2>
           
           {/* Event Info Section */}

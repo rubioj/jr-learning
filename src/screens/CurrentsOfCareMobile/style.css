@@ -311,6 +311,22 @@
   transform: translateY(-1px);
 }
 
+/* Currents of Care Logo */
+.currents-of-care-mobile .logo-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 120px;
+  height: 120px;
+  z-index: 2;
+}
+
+.currents-of-care-mobile .currents-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 /* Project Text */
 .currents-of-care-mobile .project-text {
   font-family: var(--text-large-normal-font-family);
