@@ -50354,7 +50354,7 @@ const CurrentsOfCareMobile = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                                     className: "medium-length-hero",
-                                    children: "Currents of Care*"
+                                    children: "Currents of Caret *"
                                 }, void 0, false, {
                                     fileName: "src/screens/CurrentsOfCareMobile/CurrentsOfCareMobile.jsx",
                                     lineNumber: 83,

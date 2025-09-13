@@ -80,7 +80,7 @@ export const CurrentsOfCareMobile = () => {
       <div className="hero">
         <div className="content">
           <div className="column">
-            <h1 className="medium-length-hero">Currents of Care*</h1>
+            <h1 className="medium-length-hero">Currents of Caret *</h1>
             <h2 className="text-wrapper-company-name">CEDAR RIVER</h2>
           </div>
           

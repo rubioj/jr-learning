@@ -197,7 +197,7 @@
 
 .currents-of-care-mobile .tagline-badge {
   background-color: #FFF2E6;
-  color: white;
+  color: var(--primitive-color-brand-carrot);
   padding: 8px 16px;
   border-radius: 20px;
   font-family: var(--text-medium-bold-font-family);
