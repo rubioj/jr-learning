@@ -93,18 +93,21 @@ export const CurrentsOfCareMobile = () => {
             />
           </div>
 
-          {/* Event Info Card */}
-          <div className="event-info-card">
-            <div className="event-date">OCTOBER 11 and 25, 2025</div>
-            <div className="event-time">SATURDAYS 12:00–3:00 PM</div>
-            <div className="event-location">Renton Public Library</div>
-          </div>
+          {/* Two Column Layout */}
+          <div className="two-column-layout">
+            {/* Left Column - Event Info Card */}
+            <div className="event-info-card">
+              <div className="event-date">OCTOBER 11 and 25, 2025</div>
+              <div className="event-time">SATURDAYS 12:00–3:00 PM</div>
+              <div className="event-location">Renton Public Library</div>
+            </div>
 
-          {/* Description */}
-          <div className="description-card">
-            <p className="heading-1">
-              Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
-            </p>
+            {/* Right Column - Description */}
+            <div className="description-card">
+              <p className="heading-1">
+                Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
+              </p>
+            </div>
           </div>
 
           {/* Tagline Badges */}

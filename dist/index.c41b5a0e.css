@@ -7975,6 +7975,20 @@
   height: 100%;
 }
 
+.currents-of-care-mobile .two-column-layout {
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 20px;
+  display: grid;
+}
+
+@media (width <= 768px) {
+  .currents-of-care-mobile .two-column-layout {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
+
 .currents-of-care-mobile .project-text {
   font-family: var(--text-large-normal-font-family);
   font-size: var(--text-large-normal-font-size);

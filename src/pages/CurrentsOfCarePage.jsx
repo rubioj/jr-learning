@@ -131,59 +131,70 @@ const CurrentsOfCarePage = () => {
           </h2>
           
           {/* Event Info Section */}
+          {/* Two Column Layout */}
           <div style={{
-            backgroundColor: 'rgba(255, 255, 255, 0.9)',
-            borderRadius: '16px',
-            padding: '30px',
+            display: 'grid',
+            gridTemplateColumns: '1fr 1fr',
+            gap: '30px',
             marginBottom: '30px',
-            boxShadow: 'var(--large)',
-            border: '2px solid var(--primitive-color-brand-carrot)'
+            maxWidth: '1000px',
+            margin: '0 auto 30px'
           }}>
+            {/* Left Column - Event Info Card */}
             <div style={{
-              fontSize: 'var(--text-large-bold-font-size)',
-              fontWeight: 'var(--text-large-bold-font-weight)',
-              color: 'var(--primitive-color-brand-espresso)',
-              marginBottom: '15px',
-              textTransform: 'uppercase',
-              letterSpacing: '1px'
+              backgroundColor: 'rgba(255, 255, 255, 0.9)',
+              borderRadius: '16px',
+              padding: '30px',
+              textAlign: 'center',
+              boxShadow: 'var(--large)',
+              border: '2px solid var(--primitive-color-brand-carrot)'
             }}>
-              OCTOBER 11 and 25, 2025
+              <div style={{
+                fontSize: 'var(--text-large-bold-font-size)',
+                fontWeight: 'var(--text-large-bold-font-weight)',
+                color: 'var(--primitive-color-brand-espresso)',
+                marginBottom: '15px',
+                textTransform: 'uppercase',
+                letterSpacing: '1px'
+              }}>
+                OCTOBER 11 and 25, 2025
+              </div>
+              <div style={{
+                fontSize: 'var(--text-large-medium-font-size)',
+                fontWeight: 'var(--text-large-medium-font-weight)',
+                color: 'var(--primitive-color-brand-espresso)',
+                marginBottom: '15px',
+                textTransform: 'uppercase',
+                letterSpacing: '1px'
+              }}>
+                SATURDAYS 12:00–3:00 PM
+              </div>
+              <div style={{
+                fontSize: 'var(--heading-desktop-h5-font-size)',
+                fontWeight: 'var(--heading-desktop-h5-font-weight)',
+                color: 'var(--primitive-color-brand-parsley)',
+                textTransform: 'uppercase',
+                letterSpacing: '1px'
+              }}>
+                Renton Public Library
+              </div>
             </div>
-            <div style={{
-              fontSize: 'var(--text-large-medium-font-size)',
-              fontWeight: 'var(--text-large-medium-font-weight)',
-              color: 'var(--primitive-color-brand-espresso)',
-              marginBottom: '15px',
-              textTransform: 'uppercase',
-              letterSpacing: '1px'
-            }}>
-              SATURDAYS 12:00–3:00 PM
-            </div>
-            <div style={{
-              fontSize: 'var(--heading-desktop-h5-font-size)',
-              fontWeight: 'var(--heading-desktop-h5-font-weight)',
-              color: 'var(--primitive-color-brand-parsley)',
-              textTransform: 'uppercase',
-              letterSpacing: '1px'
-            }}>
-              Renton Public Library
-            </div>
-          </div>
 
-          {/* Description Section */}
-          <div style={{
-            maxWidth: '800px',
-            margin: '0 auto 30px',
-            fontSize: 'var(--text-large-normal-font-size)',
-            lineHeight: 'var(--text-large-normal-line-height)',
-            color: 'var(--primitive-color-brand-espresso)',
-            fontStyle: 'italic',
-            backgroundColor: 'rgba(255, 255, 255, 0.8)',
-            padding: '25px',
-            borderRadius: '12px',
-            borderLeft: '4px solid var(--primitive-color-brand-carrot)'
-          }}>
-            Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
+            {/* Right Column - Description Section */}
+            <div style={{
+              fontSize: 'var(--text-large-normal-font-size)',
+              lineHeight: 'var(--text-large-normal-line-height)',
+              color: 'var(--primitive-color-brand-espresso)',
+              fontStyle: 'italic',
+              backgroundColor: 'rgba(255, 255, 255, 0.8)',
+              padding: '25px',
+              borderRadius: '12px',
+              borderLeft: '4px solid var(--primitive-color-brand-carrot)',
+              display: 'flex',
+              alignItems: 'center'
+            }}>
+              Join us for a day of art, storytelling, and reflection as we come together to celebrate the Cedar River and co-create a mural that honors Indigenous heritage.
+            </div>
           </div>
 
           {/* Tagline/Keywords Section */}
