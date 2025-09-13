@@ -188,6 +188,22 @@ export const CurrentsOfCareMobile = () => {
             <p>
               Through art creation, mobile mural development, storytelling, and community dialogue, this event strives to reconnect participants with the multifaceted histories of the river. It will explore how the Cedar River has transformed over time due to development and climate change, and how to ensure its preservation for future generations. Additionally, the event will underscore how diverse communities contribute to Renton's welcoming atmosphere, celebrating the wildlife and fauna that make the Cedar River a unique and cherished part of the city.
             </p>
+            
+            {/* Coast Salish Art Map Link */}
+            <div className="coast-salish-map-link">
+              <h4 className="map-link-title">Explore Coast Salish Public Art</h4>
+              <p className="map-link-description">
+                Art works documented here are on the ancestral home of the Coast Salish people. Art works are organized by themes.
+              </p>
+              <a
+                href="https://uw.maps.arcgis.com/apps/Shortlist/index.html?appid=1f0f86362ce24c8d95e970a714832c84"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="map-link-button"
+              >
+                View Interactive Map →
+              </a>
+            </div>
           </div>
         </div>
       </div>

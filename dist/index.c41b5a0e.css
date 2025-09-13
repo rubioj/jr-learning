@@ -7915,6 +7915,51 @@
   display: block;
 }
 
+.currents-of-care-mobile .coast-salish-map-link {
+  border: 2px solid var(--primitive-color-brand-carrot);
+  text-align: center;
+  background-color: #ffffffb3;
+  border-radius: 8px;
+  margin-top: 20px;
+  padding: 16px;
+}
+
+.currents-of-care-mobile .map-link-title {
+  font-family: var(--text-large-bold-font-family);
+  font-size: var(--text-large-bold-font-size);
+  font-weight: var(--text-large-bold-font-weight);
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 12px;
+}
+
+.currents-of-care-mobile .map-link-description {
+  font-family: var(--text-large-normal-font-family);
+  font-size: var(--text-large-normal-font-size);
+  color: var(--primitive-color-brand-espresso);
+  margin-bottom: 12px;
+}
+
+.currents-of-care-mobile .map-link-button {
+  background-color: var(--primitive-color-brand-carrot);
+  color: #fff;
+  font-family: var(--text-large-medium-font-family);
+  font-size: var(--text-large-medium-font-size);
+  font-weight: var(--text-large-medium-font-weight);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: var(--small);
+  border-radius: 6px;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: all .3s;
+  display: inline-block;
+}
+
+.currents-of-care-mobile .map-link-button:hover {
+  background-color: var(--primitive-color-brand-espresso);
+  transform: translateY(-1px);
+}
+
 .currents-of-care-mobile .project-text {
   font-family: var(--text-large-normal-font-family);
   font-size: var(--text-large-normal-font-size);

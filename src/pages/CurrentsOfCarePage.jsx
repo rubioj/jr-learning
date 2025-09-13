@@ -446,6 +446,61 @@ const CurrentsOfCarePage = () => {
               <p style={{ marginBottom: '20px', textAlign: 'justify' }}>
                 Through art creation, mobile mural development, storytelling, and community dialogue, this event strives to reconnect participants with the multifaceted histories of the river. It will explore how the Cedar River has transformed over time due to development and climate change, and how to ensure its preservation for future generations. Additionally, the event will underscore how diverse communities contribute to Renton's welcoming atmosphere, celebrating the wildlife and fauna that make the Cedar River a unique and cherished part of the city.
               </p>
+              
+              {/* Coast Salish Art Map Link */}
+              <div style={{
+                marginTop: '30px',
+                padding: '20px',
+                backgroundColor: 'rgba(255, 255, 255, 0.7)',
+                borderRadius: '12px',
+                border: '2px solid var(--primitive-color-brand-carrot)',
+                textAlign: 'center'
+              }}>
+                <h4 style={{
+                  fontSize: 'var(--text-large-bold-font-size)',
+                  fontWeight: 'var(--text-large-bold-font-weight)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '15px'
+                }}>
+                  Explore Coast Salish Public Art
+                </h4>
+                <p style={{
+                  fontSize: 'var(--text-large-normal-font-size)',
+                  color: 'var(--primitive-color-brand-espresso)',
+                  marginBottom: '15px'
+                }}>
+                  Art works documented here are on the ancestral home of the Coast Salish people. Art works are organized by themes.
+                </p>
+                <a
+                  href="https://uw.maps.arcgis.com/apps/Shortlist/index.html?appid=1f0f86362ce24c8d95e970a714832c84"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    display: 'inline-block',
+                    backgroundColor: 'var(--primitive-color-brand-carrot)',
+                    color: 'white',
+                    padding: '12px 24px',
+                    borderRadius: '8px',
+                    textDecoration: 'none',
+                    fontSize: 'var(--text-large-medium-font-size)',
+                    fontWeight: 'var(--text-large-medium-font-weight)',
+                    textTransform: 'uppercase',
+                    letterSpacing: '1px',
+                    transition: 'all 0.3s ease',
+                    boxShadow: 'var(--medium)'
+                  }}
+                  onMouseOver={(e) => {
+                    e.target.style.backgroundColor = 'var(--primitive-color-brand-espresso)';
+                    e.target.style.transform = 'translateY(-2px)';
+                  }}
+                  onMouseOut={(e) => {
+                    e.target.style.backgroundColor = 'var(--primitive-color-brand-carrot)';
+                    e.target.style.transform = 'translateY(0)';
+                  }}
+                >
+                  View Interactive Map →
+                </a>
+              </div>
             </div>
           </div>
         </div>
