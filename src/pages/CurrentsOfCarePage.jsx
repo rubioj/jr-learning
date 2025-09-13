@@ -590,8 +590,6 @@ const CurrentsOfCarePage = () => {
                 }}>
                   <p style={{ marginBottom: '15px' }}>
                   Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research explores Indigenous geographies, water cosmologies, and community-led research practices. He is on the embodied experiences that people carry within them in regards to their water relations.
-
-
                   </p>
                   <p style={{ marginBottom: '15px' }}>
                     His work engages with the theoretical frameworks of Indigenous knowledges, water cosmologies, and through the theory of praxis to better engage in more ethical community-led research and collaborative projects. He is currently working on his dissertation looking at the history and impacts of human-developed water projects like Lake Washington which not only transformed the City of Seattle but also Renton.
@@ -620,7 +618,7 @@ const CurrentsOfCarePage = () => {
                   marginBottom: '20px',
                   textAlign: 'center'
                 }}>
-                  Ty Juvenil
+                  Ty Juvinel
                 </h4>
                 <div style={{
                   fontSize: 'var(--text-large-normal-font-size)',
@@ -630,7 +628,7 @@ const CurrentsOfCarePage = () => {
                   fontStyle: 'italic'
                 }}>
                   <p style={{ marginBottom: '15px' }}>
-                    Ty Juvenil is a Tulalip Coast Salish Artist 👨🏽‍🎨Teacher, Father, Activist, Storyteller
+                    Ty Juvenil is a Tulalip Coast Salish Artist • Teacher, Father, Activist, Storyteller
                   </p>
                 </div>
               </div>
