@@ -48921,7 +48921,7 @@ const CurrentsOfCarePage = ()=>{
                     top: 0,
                     zIndex: 1000,
                     backgroundColor: 'var(--primitive-color-brand-champagne)',
-                    borderBottom: '2px solid var(--primitive-color-brand-carrot)'
+                    borderBottom: 'none'
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navbarJr.NavbarJr), {
                     buttonIcon: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _iconRelume2.IconRelume2), {
@@ -49027,12 +49027,12 @@ const CurrentsOfCarePage = ()=>{
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                         style: {
-                                            backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                            backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                             borderRadius: '16px',
                                             padding: '30px',
                                             textAlign: 'center',
                                             boxShadow: 'var(--large)',
-                                            border: '2px solid var(--primitive-color-brand-carrot)'
+                                            border: 'none'
                                         },
                                         children: [
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49091,10 +49091,10 @@ const CurrentsOfCarePage = ()=>{
                                             lineHeight: 'var(--text-large-normal-line-height)',
                                             color: 'var(--primitive-color-brand-espresso)',
                                             fontStyle: 'italic',
-                                            backgroundColor: 'rgba(255, 255, 255, 0.8)',
+                                            backgroundColor: 'rgba(255, 242, 230, 0.8)',
                                             padding: '25px',
                                             borderRadius: '12px',
-                                            borderLeft: '4px solid var(--primitive-color-brand-carrot)',
+                                            borderLeft: 'none',
                                             display: 'flex',
                                             alignItems: 'center'
                                         },
@@ -49160,8 +49160,8 @@ const CurrentsOfCarePage = ()=>{
                                     letterSpacing: '1px',
                                     marginTop: '20px',
                                     padding: '15px',
-                                    borderTop: '3px solid var(--primitive-color-brand-carrot)',
-                                    borderBottom: '3px solid var(--primitive-color-brand-carrot)'
+                                    borderTop: 'none',
+                                    borderBottom: 'none'
                                 },
                                 children: "A Mural Gathering for Honoring Indigenous History"
                             }, void 0, false, {
@@ -49212,7 +49212,7 @@ const CurrentsOfCarePage = ()=>{
                                 borderRadius: '16px',
                                 overflow: 'hidden',
                                 boxShadow: 'var(--large)',
-                                backgroundColor: 'white'
+                                backgroundColor: '#FFF2E6'
                             },
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49393,7 +49393,7 @@ const CurrentsOfCarePage = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                 style: {
                     padding: '60px 20px',
-                    backgroundColor: 'var(--primitive-color-brand-white)'
+                    backgroundColor: '#FFF2E6'
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     style: {
@@ -49402,7 +49402,7 @@ const CurrentsOfCarePage = ()=>{
                     },
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         style: {
-                            backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                            backgroundColor: 'rgba(255, 242, 230, 0.9)',
                             borderRadius: '16px',
                             padding: '40px',
                             boxShadow: 'var(--large)',
@@ -49493,9 +49493,9 @@ const CurrentsOfCarePage = ()=>{
                                         style: {
                                             marginTop: '30px',
                                             padding: '20px',
-                                            backgroundColor: 'rgba(255, 255, 255, 0.7)',
+                                            backgroundColor: 'rgba(255, 242, 230, 0.7)',
                                             borderRadius: '12px',
-                                            border: '2px solid var(--primitive-color-brand-carrot)',
+                                            border: 'none',
                                             textAlign: 'center'
                                         },
                                         children: [
@@ -49619,11 +49619,11 @@ const CurrentsOfCarePage = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     style: {
-                                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                        backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                         borderRadius: '16px',
                                         padding: '30px',
                                         boxShadow: 'var(--large)',
-                                        border: '2px solid var(--primitive-color-brand-carrot)'
+                                        border: 'none'
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -49685,11 +49685,11 @@ const CurrentsOfCarePage = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     style: {
-                                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                        backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                         borderRadius: '16px',
                                         padding: '30px',
                                         boxShadow: 'var(--large)',
-                                        border: '2px solid var(--primitive-color-brand-carrot)'
+                                        border: 'none'
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -49736,11 +49736,11 @@ const CurrentsOfCarePage = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     style: {
-                                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                        backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                         borderRadius: '16px',
                                         padding: '30px',
                                         boxShadow: 'var(--large)',
-                                        border: '2px solid var(--primitive-color-brand-carrot)'
+                                        border: 'none'
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -49788,11 +49788,11 @@ const CurrentsOfCarePage = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     style: {
-                                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                        backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                         borderRadius: '16px',
                                         padding: '30px',
                                         boxShadow: 'var(--large)',
-                                        border: '2px solid var(--primitive-color-brand-carrot)'
+                                        border: 'none'
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -49875,11 +49875,11 @@ const CurrentsOfCarePage = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     style: {
-                                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                        backgroundColor: 'rgba(255, 242, 230, 0.9)',
                                         borderRadius: '16px',
                                         padding: '30px',
                                         boxShadow: 'var(--large)',
-                                        border: '2px solid var(--primitive-color-brand-carrot)'
+                                        border: 'none'
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -49968,7 +49968,7 @@ const CurrentsOfCarePage = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                 style: {
                     padding: '60px 20px',
-                    backgroundColor: 'var(--primitive-color-brand-white)'
+                    backgroundColor: '#FFF2E6'
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     style: {
@@ -49978,7 +49978,7 @@ const CurrentsOfCarePage = ()=>{
                     },
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         style: {
-                            backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                            backgroundColor: 'rgba(255, 242, 230, 0.9)',
                             borderRadius: '16px',
                             padding: '40px',
                             boxShadow: 'var(--large)',
@@ -50096,7 +50096,7 @@ const CurrentsOfCarePage = ()=>{
                     backgroundColor: 'var(--primitive-color-brand-espresso)',
                     color: 'var(--primitive-color-brand-champagne)',
                     textAlign: 'center',
-                    borderTop: '3px solid var(--primitive-color-brand-carrot)'
+                    borderTop: 'none'
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     style: {

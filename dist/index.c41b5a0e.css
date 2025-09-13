@@ -7780,9 +7780,9 @@
 
 .currents-of-care-mobile .event-info-card {
   box-shadow: var(--medium);
-  border: 2px solid var(--primitive-color-brand-carrot);
   text-align: center;
-  background-color: #ffffffe6;
+  background-color: #fff2e6e6;
+  border: none;
   border-radius: 12px;
   margin-bottom: 16px;
   padding: 20px;
@@ -7818,8 +7818,8 @@
 }
 
 .currents-of-care-mobile .description-card {
-  border-left: 4px solid var(--primitive-color-brand-carrot);
-  background-color: #fffc;
+  background-color: #fff2e6cc;
+  border-left: none;
   border-radius: 8px;
   margin-bottom: 16px;
   padding: 16px;
@@ -7876,8 +7876,8 @@
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  border-top: 2px solid var(--primitive-color-brand-carrot);
-  border-bottom: 2px solid var(--primitive-color-brand-carrot);
+  border-top: none;
+  border-bottom: none;
   margin-top: 8px;
   padding: 12px;
 }
@@ -7916,9 +7916,9 @@
 }
 
 .currents-of-care-mobile .coast-salish-map-link {
-  border: 2px solid var(--primitive-color-brand-carrot);
   text-align: center;
-  background-color: #ffffffb3;
+  background-color: #fff2e6b3;
+  border: none;
   border-radius: 8px;
   margin-top: 20px;
   padding: 16px;
@@ -8013,8 +8013,8 @@
 
 .currents-of-care-mobile .team-member-card {
   box-shadow: var(--medium);
-  border: 2px solid var(--primitive-color-brand-carrot);
-  background-color: #ffffffe6;
+  background-color: #fff2e6e6;
+  border: none;
   border-radius: 12px;
   margin-bottom: 20px;
   padding: 20px;
@@ -8064,9 +8064,9 @@
 }
 
 .currents-of-care-mobile .image-placeholder {
-  border: 2px dashed var(--primitive-color-brand-carrot);
   text-align: center;
   background-color: #f18b251a;
+  border: none;
   border-radius: 8px;
   padding: 20px;
 }
@@ -8090,7 +8090,7 @@
 .currents-of-care-mobile .carousel-image-container {
   height: 250px;
   box-shadow: var(--medium);
-  background-color: #fff;
+  background-color: #fff2e6;
   border-radius: 12px;
   position: relative;
   overflow: hidden;
@@ -8232,7 +8232,7 @@
   background-color: var(--semantic-background-color-alternate);
   color: var(--primitive-color-brand-champagne);
   text-align: center;
-  border-top: 3px solid var(--primitive-color-brand-carrot);
+  border-top: none;
   width: 100%;
   padding: 24px 16px;
 }

@@ -124,12 +124,12 @@
 
 /* Event Info Card */
 .currents-of-care-mobile .event-info-card {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 242, 230, 0.9);
   border-radius: 12px;
   padding: 20px;
   margin-bottom: 16px;
   box-shadow: var(--medium);
-  border: 2px solid var(--primitive-color-brand-carrot);
+  border: none;
   text-align: center;
 }
 
@@ -164,11 +164,11 @@
 
 /* Description Card */
 .currents-of-care-mobile .description-card {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 242, 230, 0.8);
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 16px;
-  border-left: 4px solid var(--primitive-color-brand-carrot);
+  border-left: none;
 }
 
 .currents-of-care-mobile .heading-1 {
@@ -225,8 +225,8 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   padding: 12px;
-  border-top: 2px solid var(--primitive-color-brand-carrot);
-  border-bottom: 2px solid var(--primitive-color-brand-carrot);
+  border-top: none;
+  border-bottom: none;
   margin-top: 8px;
 }
 
@@ -269,9 +269,9 @@
 .currents-of-care-mobile .coast-salish-map-link {
   margin-top: 20px;
   padding: 16px;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 242, 230, 0.7);
   border-radius: 8px;
-  border: 2px solid var(--primitive-color-brand-carrot);
+  border: none;
   text-align: center;
 }
 
@@ -367,12 +367,12 @@
 }
 
 .currents-of-care-mobile .team-member-card {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 242, 230, 0.9);
   border-radius: 12px;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: var(--medium);
-  border: 2px solid var(--primitive-color-brand-carrot);
+  border: none;
 }
 
 .currents-of-care-mobile .member-name {
@@ -422,7 +422,7 @@
   padding: 20px;
   background-color: rgba(241, 139, 37, 0.1);
   border-radius: 8px;
-  border: 2px dashed var(--primitive-color-brand-carrot);
+  border: none;
   text-align: center;
 }
 
@@ -449,7 +449,7 @@
   border-radius: 12px;
   overflow: hidden;
   box-shadow: var(--medium);
-  background-color: white;
+  background-color: #FFF2E6;
 }
 
 .currents-of-care-mobile .carousel-image {
@@ -594,7 +594,7 @@
   padding: 24px 16px;
   width: 100%;
   text-align: center;
-  border-top: 3px solid var(--primitive-color-brand-carrot);
+  border-top: none;
 }
 
 .currents-of-care-mobile .footer-content {
