@@ -589,7 +589,9 @@ const CurrentsOfCarePage = () => {
                   textAlign: 'justify'
                 }}>
                   <p style={{ marginBottom: '15px' }}>
-                    Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research interests include Indigenous geographies and the mobilities of Indigenous Lenca communities, both in diaspora and in Honduras, while also exploring Indigenous futures with more-than-human worlds.
+                  Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research explores Indigenous geographies, water cosmologies, and community-led research practices. He is on the embodied experiences that people carry within them in regards to their water relations.
+
+
                   </p>
                   <p style={{ marginBottom: '15px' }}>
                     His work engages with the theoretical frameworks of Indigenous knowledges, water cosmologies, and through the theory of praxis to better engage in more ethical community-led research and collaborative projects. He is currently working on his dissertation looking at the history and impacts of human-developed water projects like Lake Washington which not only transformed the City of Seattle but also Renton.

@@ -34747,7 +34747,7 @@ $RefreshReg$(_c, "AppRouter");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","../screens/SmsOptInPage":"7BttD","../pages/CurrentsOfCarePage":"ljnKk","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../screens/CurrentsOfCareMobile":"63r99"}],"kOLnc":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../components/ResponsiveRouter":"kOLnc","../screens/HomeDesktop":"4AoQY","../screens/HomeMobile":"5tFpL","../screens/AboutDesktop":"eFJ4S","../screens/AboutMobile":"3Rbp3","../screens/ServicesDesktop":"dkQG4","../screens/ServicesMobile":"jFhRw","../screens/ContactDesktop":"kbSFA","../screens/ContactMobile":"cP7mF","../screens/MenuMobile":"9lCsz","../screens/PublicationsMobile":"2VPOA","../screens/PublicationsDesktop":"hlGEo","../screens/SmsOptInPage":"7BttD","../pages/CurrentsOfCarePage":"ljnKk","../screens/CurrentsOfCareMobile":"63r99","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kOLnc":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ResponsiveRouter", ()=>(0, _responsiveRouter.ResponsiveRouter));
@@ -49691,7 +49691,7 @@ const CurrentsOfCarePage = ()=>{
                                                     style: {
                                                         marginBottom: '15px'
                                                     },
-                                                    children: "Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research interests include Indigenous geographies and the mobilities of Indigenous Lenca communities, both in diaspora and in Honduras, while also exploring Indigenous futures with more-than-human worlds."
+                                                    children: "Wesley Carrasco is a Doctoral Candidate in the Department of Geography at the University of Washington. As an Indigenous Lenca scholar in diaspora, his research explores Indigenous geographies, water cosmologies, and community-led research practices. He is on the embodied experiences that people carry within them in regards to their water relations."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
                                                     lineNumber: 591,
@@ -49704,7 +49704,7 @@ const CurrentsOfCarePage = ()=>{
                                                     children: "His work engages with the theoretical frameworks of Indigenous knowledges, water cosmologies, and through the theory of praxis to better engage in more ethical community-led research and collaborative projects. He is currently working on his dissertation looking at the history and impacts of human-developed water projects like Lake Washington which not only transformed the City of Seattle but also Renton."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                    lineNumber: 594,
+                                                    lineNumber: 596,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49714,7 +49714,7 @@ const CurrentsOfCarePage = ()=>{
                                                     children: "The development of the Ballard Locks and the Montlake Cut not only raised the water levels of Lake Union but also lowered the levels in Lake Washington. Forever shifting the relationships that the Cedar River had with the Black River which dried out, but also changing its relationship with the city of Renton."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                    lineNumber: 597,
+                                                    lineNumber: 599,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49724,7 +49724,7 @@ const CurrentsOfCarePage = ()=>{
                                                     children: "His previous art projects include variations of different mobile murals depicting water and creation stories including a collaborative art piece dedicated to the future of canoes with the Center for American Indian Studies at the University of Washington and Muckleshoot Tribal School first graders."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                    lineNumber: 600,
+                                                    lineNumber: 602,
                                                     columnNumber: 19
                                                 }, undefined)
                                             ]
@@ -49759,7 +49759,7 @@ const CurrentsOfCarePage = ()=>{
                                             children: "Ty Juvenil"
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 614,
+                                            lineNumber: 616,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49777,18 +49777,18 @@ const CurrentsOfCarePage = ()=>{
                                                 children: "Ty Juvenil is a Tulalip Coast Salish Artist \uD83D\uDC68\uD83C\uDFFD\u200D\uD83C\uDFA8Teacher, Father, Activist, Storyteller"
                                             }, void 0, false, {
                                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                lineNumber: 630,
+                                                lineNumber: 632,
                                                 columnNumber: 19
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 623,
+                                            lineNumber: 625,
                                             columnNumber: 17
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 607,
+                                    lineNumber: 609,
                                     columnNumber: 15
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49811,7 +49811,7 @@ const CurrentsOfCarePage = ()=>{
                                             children: "Jack Brown"
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 644,
+                                            lineNumber: 646,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49829,7 +49829,7 @@ const CurrentsOfCarePage = ()=>{
                                                     children: "My name is Jack Brown. I am Yakama, Muckleshoot, and Puyallup, from the Dan Hoptowit line. I'm a fourth-year Marine Biology student at the University of Washington and have been part of the Shell House canoe family for three years."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                    lineNumber: 659,
+                                                    lineNumber: 661,
                                                     columnNumber: 19
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -49839,13 +49839,13 @@ const CurrentsOfCarePage = ()=>{
                                                     children: "I've been practicing formline art for the past four years and have been drawing and painting since I was young."
                                                 }, void 0, false, {
                                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                    lineNumber: 662,
+                                                    lineNumber: 664,
                                                     columnNumber: 19
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 653,
+                                            lineNumber: 655,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49864,18 +49864,18 @@ const CurrentsOfCarePage = ()=>{
                                                 }
                                             }, void 0, false, {
                                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                lineNumber: 670,
+                                                lineNumber: 672,
                                                 columnNumber: 19
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 666,
+                                            lineNumber: 668,
                                             columnNumber: 17
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 637,
+                                    lineNumber: 639,
                                     columnNumber: 15
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49898,7 +49898,7 @@ const CurrentsOfCarePage = ()=>{
                                             children: "Kennedy Stone"
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 691,
+                                            lineNumber: 693,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49915,12 +49915,12 @@ const CurrentsOfCarePage = ()=>{
                                                 children: "My name is Kennedy Stone, and I am a descendant of the Grand Portage Band Chippewa Tribe. As a current Biology major at the University of Washington I strive to explore my culture and continue pursuing art as I work towards a career in the medical field."
                                             }, void 0, false, {
                                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                lineNumber: 706,
+                                                lineNumber: 708,
                                                 columnNumber: 19
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 700,
+                                            lineNumber: 702,
                                             columnNumber: 17
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -49939,18 +49939,18 @@ const CurrentsOfCarePage = ()=>{
                                                 }
                                             }, void 0, false, {
                                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                                lineNumber: 714,
+                                                lineNumber: 716,
                                                 columnNumber: 19
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                            lineNumber: 710,
+                                            lineNumber: 712,
                                             columnNumber: 17
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 684,
+                                    lineNumber: 686,
                                     columnNumber: 15
                                 }, undefined)
                             ]
@@ -50000,7 +50000,7 @@ const CurrentsOfCarePage = ()=>{
                                 children: "Join the Movement"
                             }, void 0, false, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 745,
+                                lineNumber: 747,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -50015,7 +50015,7 @@ const CurrentsOfCarePage = ()=>{
                                 children: "Be part of this community celebration of art, culture, and environmental stewardship. Together, we can honor the Cedar River and strengthen our community bonds."
                             }, void 0, false, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 753,
+                                lineNumber: 755,
                                 columnNumber: 13
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -50044,7 +50044,7 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Learn More"
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 769,
+                                        lineNumber: 771,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -50070,29 +50070,29 @@ const CurrentsOfCarePage = ()=>{
                                         children: "Get Involved"
                                     }, void 0, false, {
                                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                        lineNumber: 786,
+                                        lineNumber: 788,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                lineNumber: 763,
+                                lineNumber: 765,
                                 columnNumber: 13
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/pages/CurrentsOfCarePage.jsx",
-                        lineNumber: 738,
+                        lineNumber: 740,
                         columnNumber: 11
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 737,
+                    lineNumber: 739,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 733,
+                lineNumber: 735,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
@@ -50124,7 +50124,7 @@ const CurrentsOfCarePage = ()=>{
                                     children: "JR Learning Labs"
                                 }, void 0, false, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 823,
+                                    lineNumber: 825,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -50136,13 +50136,13 @@ const CurrentsOfCarePage = ()=>{
                                     children: "Creating community connections through art and learning"
                                 }, void 0, false, {
                                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                                    lineNumber: 831,
+                                    lineNumber: 833,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 822,
+                            lineNumber: 824,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -50155,7 +50155,7 @@ const CurrentsOfCarePage = ()=>{
                             children: "Currents of Care, a JR Learning Labs project \xa9 2025. All rights reserved."
                         }, void 0, false, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 839,
+                            lineNumber: 841,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -50172,18 +50172,18 @@ const CurrentsOfCarePage = ()=>{
                             children: "*Currents of Care is a term developed by Wesley Carrasco to reflect on the embodied experiences that people carry within them in regards to their water relations."
                         }, void 0, false, {
                             fileName: "src/pages/CurrentsOfCarePage.jsx",
-                            lineNumber: 847,
+                            lineNumber: 849,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/pages/CurrentsOfCarePage.jsx",
-                    lineNumber: 821,
+                    lineNumber: 823,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/pages/CurrentsOfCarePage.jsx",
-                lineNumber: 814,
+                lineNumber: 816,
                 columnNumber: 7
             }, undefined)
         ]
