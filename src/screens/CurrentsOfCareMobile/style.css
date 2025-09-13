@@ -196,7 +196,7 @@
 }
 
 .currents-of-care-mobile .tagline-badge {
-  background-color: var(--primitive-color-brand-carrot);
+  background-color: #FFF2E6;
   color: white;
   padding: 8px 16px;
   border-radius: 20px;
@@ -292,7 +292,7 @@
 
 .currents-of-care-mobile .map-link-button {
   display: inline-block;
-  background-color: var(--primitive-color-brand-carrot);
+  background-color: #FFF2E6;
   color: white;
   padding: 10px 20px;
   border-radius: 6px;
@@ -316,8 +316,8 @@
   position: absolute;
   top: 20px;
   left: 20px;
-  width: 144px;
-  height: 144px;
+  width: 80px;
+  height: 80px;
   z-index: 2;
 }
 
@@ -531,7 +531,7 @@
 }
 
 .currents-of-care-mobile .indicator.active {
-  background: var(--primitive-color-brand-carrot);
+  background: #FFF2E6;
   transform: scale(1.25);
 }
 
@@ -571,7 +571,7 @@
 }
 
 .currents-of-care-mobile .contact {
-  background-color: var(--primitive-color-brand-carrot) !important;
+  background-color: #FFF2E6 !important;
   border: unset !important;
   border-color: unset !important;
   height: 40px !important;

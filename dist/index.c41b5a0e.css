@@ -7849,7 +7849,6 @@
 }
 
 .currents-of-care-mobile .tagline-badge {
-  background-color: var(--primitive-color-brand-carrot);
   color: #fff;
   font-family: var(--text-medium-bold-font-family);
   font-size: var(--text-medium-bold-font-size);
@@ -7858,6 +7857,7 @@
   letter-spacing: 1px;
   box-shadow: var(--small);
   cursor: pointer;
+  background-color: #fff2e6;
   border-radius: 20px;
   padding: 8px 16px;
   transition: all .3s;
@@ -7940,7 +7940,6 @@
 }
 
 .currents-of-care-mobile .map-link-button {
-  background-color: var(--primitive-color-brand-carrot);
   color: #fff;
   font-family: var(--text-large-medium-font-family);
   font-size: var(--text-large-medium-font-size);
@@ -7948,6 +7947,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   box-shadow: var(--small);
+  background-color: #fff2e6;
   border-radius: 6px;
   padding: 10px 20px;
   text-decoration: none;
@@ -7962,8 +7962,8 @@
 
 .currents-of-care-mobile .logo-container {
   z-index: 2;
-  width: 144px;
-  height: 144px;
+  width: 80px;
+  height: 80px;
   position: absolute;
   top: 20px;
   left: 20px;
@@ -8173,7 +8173,7 @@
 }
 
 .currents-of-care-mobile .indicator.active {
-  background: var(--primitive-color-brand-carrot);
+  background: #fff2e6;
   transform: scale(1.25);
 }
 
@@ -8212,9 +8212,9 @@
 }
 
 .currents-of-care-mobile .contact {
-  background-color: var(--primitive-color-brand-carrot) !important;
   border: unset !important;
   border-color: unset !important;
+  background-color: #fff2e6 !important;
   width: 119px !important;
   height: 40px !important;
   text-decoration: none !important;
