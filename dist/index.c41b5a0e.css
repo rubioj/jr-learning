@@ -7962,11 +7962,11 @@
 
 .currents-of-care-mobile .logo-container {
   z-index: 2;
-  width: 120px;
-  height: 120px;
+  width: 144px;
+  height: 144px;
   position: absolute;
   top: 20px;
-  right: 20px;
+  left: 20px;
 }
 
 .currents-of-care-mobile .currents-logo {

@@ -92,9 +92,9 @@ const CurrentsOfCarePage = () => {
         <div style={{
           position: 'absolute',
           top: '20px',
-          right: '20px',
-          width: '200px',
-          height: '200px',
+          left: '20px',
+          width: '240px',
+          height: '240px',
           zIndex: 2
         }}>
           <img

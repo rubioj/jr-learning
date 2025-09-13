@@ -315,9 +315,9 @@
 .currents-of-care-mobile .logo-container {
   position: absolute;
   top: 20px;
-  right: 20px;
-  width: 120px;
-  height: 120px;
+  left: 20px;
+  width: 144px;
+  height: 144px;
   z-index: 2;
 }
 
